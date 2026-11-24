@@ -1,0 +1,13 @@
+# level pg2-221, board b7184e832b29cdbc
+# 11 moves, the shortest ending in a square (the user's request after playing the 10): a scratch build refusing every clear but one square, the default search and --relocate the same moves, each proven (also with only a fallen square allowed: the same 11); an alternative to pg2-221-solver.txt (10, two pairs)
+K 3 6 D
+K 3 5 D
+K 3 4 R
+K 7 4 U
+M 9 3 U
+K 14 3 U
+K 14 5 U
+K 14 6 L
+K 10 6 L
+K 7 6 D
+K 7 5 R

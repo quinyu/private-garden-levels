@@ -1,0 +1,17 @@
+# level 120, board e07d63e8a5dfcf4d
+# 15 moves, proven shortest by A* within the default search (209,806 positions); --relocate, --plan with and without the finish shapes, and A* alone prove the same 15. Regrouped.
+J 10 1 U
+J 9 2 U
+C 9 7 D
+C 9 6 D
+C 9 4 R
+J 10 8 D
+J 10 7 D
+J 10 6 D
+J 18 4 L
+J 17 4 L
+J 16 4 L
+J 10 4 U
+J 9 3 U
+J 9 4 L
+J 10 5 L

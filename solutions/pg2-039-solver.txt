@@ -1,0 +1,27 @@
+# level pg2-039, board b6d0690bc76b2ec6
+# 25 moves, not proven: the default search (first 82 after 383,884 positions, tidied 66; its rounds 25) and --relocate (first 38) the same moves; nothing shorter in a 40-million --improve round; A* 30 million nothing (8 moves deep); --plan nothing. Checked rules only (move 14 a Biwa pair onto a fallen Biwa, rule 13; move 18 the ball over a fallen Biwa).
+H 2 8 D
+B 4 8 R
+G 1 9 D
+G 1 8 R
+G 2 8 R
+G 3 8 R
+G 4 8 R
+G 5 8 R
+G 3 9 D
+G 3 8 R
+G 4 8 D
+G 4 7 R
+G 5 7 R
+G 15 8 L
+G 11 3 U
+G 11 4 U
+B 16 8 L
+B 11 8 D
+B 11 1 R
+M 17 1 L
+M 12 1 L
+M 11 1 U
+M 11 2 U
+M 11 3 U
+M 11 4 U

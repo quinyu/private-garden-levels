@@ -1,0 +1,32 @@
+# level 10, board ca817d677f5ffc80
+# Level 10, 26 moves, proven shortest by A* (4,055,254 positions) on the board with its covered cells as
+# the user gave them in level 93's session: the male and three of the four cars on ice. The same route as
+# the 27 found on the board with every covered cell as floor (proven there): the male now glides from
+# (7,5) up to (7,9) in one move, over the ice the car leaves at (7,7). The girls build a square in their
+# pocket; the cars bridge (6,5) and (7,9); the male comes up and along row 9 to it.
+F 2 9 R
+F 3 9 D
+C 1 9 R
+C 2 9 R
+F 1 8 U
+F 3 8 L
+F 1 7 U
+C 5 4 L
+C 4 4 U
+C 7 1 L
+C 4 1 U
+C 4 2 U
+C 4 3 U
+C 4 7 D
+C 4 5 R
+C 7 7 U
+C 3 9 D
+M 1 1 R
+M 2 1 U
+M 2 5 R
+M 6 5 R
+M 7 5 U
+M 7 9 L
+M 6 9 L
+M 5 9 L
+M 4 9 L

@@ -1,0 +1,48 @@
+# level 21, board bc0bae008411a550
+# An alternative to 21-solver.txt (35 moves, by the default search; 36 by the planner in 21-plan.txt): 37 moves by hand; also the ending example in README.
+# Level 21 by hand, 37 moves. As in level 20 each diamond becomes a square down in a pit, here
+# the 2x2 pits beside the males' room, reached by vertical pairs gliding across the pit row and
+# the ice. The new row of ice lets the bottom girl3s meet in two moves; the top two meet on row
+# 1 and come down as a pair. Each male then steps up and sideways onto his square: 6 blocks each.
+# Blonde square, (3,1)-(4,2)
+G 4 8 L
+G 3 8 D
+G 3 7 D
+G 3 6 D
+G 5 7 L
+G 4 7 D
+G 4 6 D
+# Brown-haired square, (9,1)-(10,2)
+F 9 8 R
+F 10 8 D
+F 10 7 D
+F 10 6 D
+F 8 7 R
+F 9 7 D
+F 9 6 D
+# The bottom girl3s meet on the ice and step onto the brown square
+K 1 2 U
+K 1 3 R
+K 12 3 L
+K 11 3 L
+# The top girl3s meet on row 8 and glide down onto the blonde square
+K 1 8 R
+K 2 8 R
+K 3 8 D
+K 12 8 L
+K 11 8 L
+K 10 8 L
+K 9 8 L
+K 8 8 L
+K 7 8 L
+K 6 8 L
+K 5 8 L
+K 4 8 L
+K 3 8 D
+K 3 7 D
+K 3 6 D
+# The males step onto the squares
+M 5 1 U
+M 5 2 L
+M 8 1 U
+M 8 2 R

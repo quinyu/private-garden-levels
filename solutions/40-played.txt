@@ -1,0 +1,41 @@
+# level 40, board 26a1c0b5039563e0
+# 33 moves, an alternative to 40-solver.txt (32): the best before the overnight audit after pg2-096, played in the game by the user.
+# Level 40, 33 moves (not proven shortest), found by the novelty search guided by natural stops
+# (GARDEN_GUIDE=natural --limit 1: first 39 after 24,790 positions, then the shortening rounds), two fewer than
+# the user's 35. Ground under every piece, as given. The corner male takes the square first; the cars fill the
+# craters it leaves, (12,5), (11,5), (10,5), and (6,4) for the bottom pair; the pairs fall into (4,7)-(5,7)
+# and (4,5)-(5,5), and the middle male drops into the pit between them.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 12 2 L
+C 12 3 U
+M 12 1 U
+M 12 2 U
+M 12 3 U
+K 2 8 D
+K 2 7 R
+K 3 7 R
+C 12 7 D
+C 12 8 D
+C 12 5 L
+C 12 9 D
+C 12 8 D
+C 12 5 L
+C 11 5 L
+C 12 10 D
+C 12 9 D
+C 12 8 D
+C 12 5 L
+C 11 5 L
+C 10 5 L
+C 9 5 L
+C 8 5 L
+C 7 5 L
+C 6 5 D
+K 2 3 R
+K 3 3 R
+K 4 3 R
+K 5 3 U
+K 5 4 U
+K 5 5 L
+M 7 6 L
+M 6 6 L

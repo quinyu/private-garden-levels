@@ -1,0 +1,20 @@
+# level pg2-203, board b54c4fcc50be5e90
+# 18 moves, proven shortest by a 40-million --improve round (20,525,458 positions, 136 s) and A* (21,843,464 positions, 144 s); found by the default search (--relocate the same moves; --plan, the four --carry searches and GARDEN_WAY=1 --relocate other 18s). No unchecked rule (--play, C and Python the same).
+I 10 1 U
+I 10 3 L
+I 10 5 D
+I 10 3 L
+I 10 2 R
+G 1 1 U
+G 1 2 R
+G 2 2 R
+G 3 2 U
+G 3 3 R
+G 1 5 D
+G 1 4 R
+G 2 4 R
+G 3 5 D
+G 3 4 R
+G 13 4 D
+G 13 3 R
+M 16 3 L

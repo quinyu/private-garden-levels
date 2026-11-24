@@ -1,0 +1,24 @@
+# level pg2-144, board daef576f4ec22f6e
+# 22 moves, proven shortest by a 40-million --improve round (it searched every shorter solution: 10,529,017 positions, 68 s); found by the default search (first 28), --relocate (first 24), --relax, --carry and --carry --relocate, the same moves; the dynamic --carry, with and without --relocate, another 22; --plan nothing. No unchecked rule (--play, C and Python the same).
+G 15 5 U
+G 14 4 U
+K 13 2 U
+K 13 3 L
+M 6 2 U
+M 6 3 R
+K 13 4 D
+K 15 3 L
+K 14 3 L
+K 13 3 L
+G 14 5 D
+G 14 4 L
+G 15 6 D
+G 15 5 D
+G 15 4 L
+C 10 1 U
+C 10 2 R
+C 11 2 U
+M 1 2 R
+M 2 2 U
+M 2 3 R
+M 11 3 R

@@ -1,0 +1,30 @@
+# level pg2-078, board d4999960b770535a
+# 27 moves, an alternative to pg2-078-solver.txt (22): the best before the refining night after pg2-139, played in the game by the user.
+# 27 moves, not proven: --relocate (first 44 after 1,301,097 positions, its rounds 27; 29,890,405 in all, 293 s), the default search (first 54 after 9,988,541, tidied 50, its rounds 27; 45,757,098 in all) and --relax (neither copy solved; the whole level 54, its rounds 27; 66,357,110 in all), the same moves; nothing shorter in a 40-million --improve round (40,000,016 positions); A* nothing in 30 million (30,000,045, 6 moves deep). --carry --relocate in the dynamic mode 30, --carry --relocate 48, --carry in the dynamic mode 50, --carry 55; --plan nothing (none of its endings built). Rested on a rule not yet checked, which the user's play of it confirmed: at move 15 a Kurumi moving up onto the portal (15,5) merges there with the Kurumi beside it at (16,5), and at move 23 a Biwa with the Biwa beside it, instead of going through; with that rule off it doesn't fit from move 15 (pg2-078-checked.txt, 34, is the best without it). Otherwise checked rules (portals; a car filling a pit; girls falling in and merging with fallen ones; girls standing on fallen girls and on a car in a pit; a male onto a fallen square). A three-dimensional double four-clear as the hint says, but at the right cross, not the left: the car (14,9) fills (14,7); the Kurumis from (4,2), through the left warp, and (12,5) fall into (13,7) and (12,7); the Biwas from (7,5), through the warp, and (15,8) make a pair on (14,7)-(15,7), parked below at (14,3)-(15,3); the Kurumis from (18,5) and (4,8), through the warp, make a pair on (15,5)-(16,5) that slides up and left into (12,8)-(13,8): a fallen square; the Biwa pair comes back up onto (13,7)-(14,7), on the fallen Kurumi and the car, the Biwas from (1,5), through the warp, and (15,2) make a pair on (15,5)-(16,5) that slides up and left onto (13,8)-(14,8): a square on top; the male goes left through the warp to (12,5) and up onto the fallen square at (12,7), beside the Biwa square: both gone.
+C 14 9 D
+K 4 2 U
+K 15 7 L
+K 14 7 L
+K 12 5 U
+G 7 5 L
+G 12 5 U
+G 12 7 R
+G 13 7 R
+G 15 8 D
+G 14 7 D
+K 18 5 L
+G 14 5 D
+K 4 8 D
+K 15 4 U
+K 15 5 U
+K 15 8 L
+G 1 5 R
+G 14 3 U
+G 18 5 L
+G 14 5 U
+G 14 7 L
+G 15 2 U
+G 15 5 U
+G 15 8 L
+M 9 5 L
+M 12 5 U

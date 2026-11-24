@@ -1,0 +1,30 @@
+ground
+   ###########   
+   #___OOOOOO####
+####___OOOOOOO._#
+#.??___OOOOOOO._#
+#.??___OOOOOOO._#
+#...___OOOOOOO._#
+####___OOOOOOO._#
+   #___OOOOOOO.##
+   ######OOOO### 
+        ######   
+
+pieces
+.................
+....f..q.r.s.....
+....b.n.t.u.v....
+..aag..w.x.y.z.k.
+..aac.o.A.B.C.jm.
+....h..D.E.F.G.l.
+....d.p.H.I.J....
+....i..K.L.M.Ne..
+..........P.Q....
+.................
+
+legend
+a  girl1
+b c d e  girl2
+f g h i j k l  car
+m  male
+n o p q r s t u v w x y z A B C D E F G H I J K L M N P Q  gay

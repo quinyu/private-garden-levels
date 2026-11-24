@@ -1,0 +1,33 @@
+# level 66, board 48f0795516b3d760
+# Level 66, 28 moves by hand: an alternative to 66-solver.txt (also 28). From the default search's 30: the left
+# strip filled at (5,4) in three car moves instead of (5,5) in four, and (14,4) filled by the car from (11,6)
+# instead of the one from (8,6). The male drops into the pit at (8,4) first, a car drives over him, and the
+# left pair ends on top of him beside the right pair at (9,4)-(9,5).
+N 1 5 R
+M 9 1 U
+M 9 2 U
+M 9 3 U
+N 18 5 L
+M 9 4 L
+N 2 5 R
+N 17 5 L
+N 16 5 L
+C 8 3 U
+C 8 4 L
+C 6 4 L
+N 3 5 R
+N 4 5 R
+N 5 5 R
+C 11 6 L
+C 10 6 D
+C 10 5 D
+C 11 3 U
+C 10 4 R
+C 11 4 R
+C 13 4 R
+N 15 5 L
+N 14 5 L
+N 13 5 L
+N 11 5 L
+N 10 5 L
+N 6 5 R

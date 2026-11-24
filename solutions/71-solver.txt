@@ -1,0 +1,24 @@
+# level 71, board 39dcf923ba196353
+# Level 71, 16 moves, proven shortest by A* (34,619 positions; also 3 threads and IDA*; tidying finds nothing to
+# cut). Ground under every piece, as given; the male is down in the pit at (5,6). Two cars fill (4,6) and (7,6);
+# two more drive in over them, one onto the fallen male and one onto the ice beside him, stopped by the first.
+# The one on the male goes up into the pit at (5,8), so the top pair stops there and then on the ice at
+# (5,7)-(6,7), held by the other car; that car then goes down into (6,3), and the bottom pair comes up over it
+# onto the male, merging with the top pair into a square on him.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 8 5 U
+C 8 6 L
+C 2 6 R
+C 3 6 R
+C 3 5 U
+C 3 6 R
+C 4 6 R
+C 9 6 L
+C 8 6 L
+C 7 6 L
+C 5 6 U
+N 5 10 D
+N 5 8 D
+C 6 6 D
+N 5 1 U
+N 5 3 U

@@ -1,0 +1,27 @@
+# level pg2-040, board 64f45802970767b9
+# 25 moves, not proven: the default search (first 34 after 361,684 positions, tidied 33; its rounds 25) and --relocate (first 57) the same moves; nothing shorter in a 40-million --improve round; A* 30 million nothing (10 moves deep); --plan nothing. Checked rules only.
+I 14 3 U
+G 14 2 U
+G 14 3 L
+I 16 3 L
+G 16 2 U
+G 16 3 U
+G 16 4 U
+G 16 5 U
+G 16 6 L
+G 15 6 L
+G 14 6 U
+G 13 3 U
+G 13 4 U
+G 13 5 U
+G 13 6 U
+G 13 8 U
+G 13 9 L
+I 15 3 U
+I 15 9 L
+I 13 9 D
+G 11 9 R
+M 2 2 U
+M 2 3 R
+M 3 3 R
+M 4 3 U

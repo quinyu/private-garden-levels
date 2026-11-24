@@ -1,0 +1,22 @@
+# level pg2-089, board b65fff9e536c5526
+# 20 moves, proven shortest by a 40-million --improve round (18,471,339 positions, 64 s) and by A* (20,469,297 positions, 62 s); every search (the default search, --relocate, --carry and --carry --relocate in both modes, --plan, --relax) the same 20, unproven at its own limits. Checked rules only (girls stopping on ice by merging; gay tiles meeting, two pits; a pair falling into them; girls standing on fallen ones; the male onto a fallen pair). A three-dimensional double four-clear, as the hint says, but not at its place: the gay tiles meet at (8,2)-(9,2) under the girls' block, not at the top of the room's second column, and the male waits in the bottom-left corner (1,2), not the top-left. Two pairs are made by sticking on the ice, a Biwa pair (10,2)-(10,3) and a Kurumi pair (8,2)-(9,2); the Kurumi pair goes to the room and back; the gay tiles (5,2) and (3,2) slide right and meet at (9,2)-(8,2), leaving pits; the Kurumi pair drops into them; a Biwa pair comes down onto the fallen Kurumi at (9,2), making the square (9,2)-(10,3); the Kurumi (10,4) slides left beside the one at (8,3), a pair (8,3)-(8,4) standing on the fallen pair; the male slides right from (1,2) onto the fallen pair at (8,2), touching it, the standing Kurumi pair and the Biwa square: all gone.
+G 9 2 R
+K 9 3 D
+G 8 3 R
+K 8 4 D
+H 3 2 L
+H 1 2 U
+H 5 2 D
+M 4 3 D
+M 4 2 L
+H 3 4 D
+K 8 2 L
+K 4 2 U
+H 5 1 U
+H 5 2 R
+H 3 2 R
+K 4 3 D
+K 4 2 R
+G 9 4 D
+K 10 4 L
+M 1 2 R

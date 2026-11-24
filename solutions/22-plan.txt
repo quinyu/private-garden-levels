@@ -1,0 +1,74 @@
+# level 22, board 3888f3cc0b7afc69
+# An alternative to 22-solver.txt (27 moves): the planner's first solution, which 22-improved.txt shortens.
+# On the corrected board (Biwas on D6 and E7, Mikans on D7 and E6: the screenshot, and the user's words, while level 22's
+# 29 was being posted; the file had them the other way round): the same moves, the girls' letters F and G changed where
+# they move the top four.
+# Level 22 by the planner (c/garden levels/22.txt --plan), 55 moves. Each male takes one colour as
+# two pairs: one fallen into a pit, one standing beside it, and he steps onto the fallen pair.
+# The dark-haired pair at (4,5)-(5,5), down in the pit
+K 3 5 R
+K 6 5 L
+# The pink-haired pair at (4,4)-(5,4), down in the pit
+J 3 4 R
+J 6 4 L
+# The brown-haired pair at (3,6)-(3,7), down in the pit
+G 5 7 U
+G 5 8 L
+G 4 8 L
+G 3 8 D
+G 4 6 L
+# The blonde pair at (6,6)-(6,7), down in the pit
+F 4 7 R
+G 4 3 U
+F 5 7 R
+# The brown-haired pair at (3,6)-(4,6), standing
+F 4 2 U
+F 4 3 R
+F 5 3 U
+F 5 4 U
+F 5 5 U
+F 5 6 L
+F 4 6 L
+# A male finishes at (3,7), on the group in the pit
+M 1 8 R
+M 3 8 D
+# The blonde pair at (5,6)-(6,6), standing
+G 5 2 U
+G 5 3 U
+G 4 4 U
+G 4 5 U
+G 4 6 R
+# A male finishes at (6,7), on the group in the pit
+M 8 8 L
+M 6 8 D
+# The dark-haired pair at (5,5)-(6,5), standing
+K 2 4 R
+K 3 4 R
+K 4 4 R
+K 7 4 L
+K 5 4 U
+# The pink-haired pair at (5,4)-(6,4), standing
+J 2 5 D
+J 7 5 D
+J 2 4 R
+J 3 4 R
+J 4 4 R
+J 7 4 L
+# A male finishes at (4,4), on the group in the pit
+M 1 1 U
+M 1 3 U
+M 1 4 R
+M 2 4 R
+M 3 4 R
+# A male finishes at (4,5), on the group in the pit
+M 8 1 L
+M 6 1 L
+M 5 1 L
+M 4 1 L
+M 3 1 L
+M 1 1 U
+M 1 3 U
+M 1 4 U
+M 1 5 R
+M 2 5 R
+M 3 5 R

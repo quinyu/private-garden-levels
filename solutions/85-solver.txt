@@ -1,0 +1,30 @@
+# level 85, board 20407ab104dcfc24
+# Level 85, 22 moves, proven shortest by the default search (4,506,440 positions; --relocate the same).
+# Floor under every piece, as given. The male is shut in the left column and the top ice; the room's
+# pieces can only drop into the pit row below it. A car fills (7,3): the pink girls pair up and ride over
+# it down to the bottom ice; the lone ash girl drops into (4,2). The other car comes out the same way,
+# glides along row 2 and stops on her; the room's ash girl follows and stops beside it at (5,2); the pink
+# pair glides along row 1 to (4,1)-(5,1). The car drives on into the pit at (2,2), the male steps onto it
+# and walks right onto the fallen ash girl at (4,2): the other ash girl beside him, the pink pair below.
+C 7 4 D
+J 7 5 D
+J 7 4 D
+J 7 3 D
+F 3 2 R
+C 8 5 D
+C 8 4 L
+C 7 4 D
+C 7 3 D
+C 7 2 L
+F 9 5 D
+F 9 4 L
+F 8 4 L
+F 7 4 D
+F 7 3 D
+F 7 2 L
+J 7 1 L
+C 4 2 L
+C 3 2 L
+M 2 3 D
+M 2 2 R
+M 3 2 R

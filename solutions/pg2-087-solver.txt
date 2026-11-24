@@ -1,0 +1,23 @@
+# level pg2-087, board fc5e5d641715e86a
+# 21 moves, not proven: --relocate (21,471,332 positions in all, 103 s), --carry --relocate in both modes the same moves; nothing shorter in a 40-million --improve round (40,000,002 positions); A* nothing in 30 million (30,000,035, 11 moves deep). The default search, --carry with it in both modes and --relax 24, --plan nothing. Checked rules only (girls falling into pits and standing on fallen ones; a square cleared leaving craters; a pair falling into craters above a fallen pair, a fallen square). Not the hint's route (a double four-clear at the right end of the floor, one male sacrificed): two squares one after the other at (7,4)-(8,5), each cleared by a male sliding left into (8,6). The Mikan (7,3) drops into (7,4); the Biwas (6,3) and (8,3) make a pair that steps up onto it, (7,4)-(8,4); the gay tile (11,6) drops into (11,4), the Mikan (11,3) goes up to (11,6) over it, the Biwas (10,3) and (12,3) make a lying pair (11,3)-(12,3) that goes up two cells to (11,5)-(12,5) and slides left onto (7,5)-(8,5): a Biwa square; the Mikan moves aside to (5,6); the male (13,6) slides left to (8,6): gone, craters at (8,6), (7,5), (8,5); the Mikan (9,3) drops in beside the fallen one, a pair (7,4)-(8,4); the Mikan (5,3) goes round the left strip to (4,5), the one at (5,6) drops down beside her, and that pair slides right into the craters (7,5)-(8,5): a fallen Mikan square; the male (14,6) slides left into the crater (8,6): all gone.
+F 7 3 U
+G 6 3 R
+G 7 3 U
+H 11 6 D
+F 11 3 U
+F 11 4 U
+G 10 3 R
+G 11 3 U
+G 11 4 U
+G 11 5 L
+F 11 6 L
+M 13 6 L
+F 9 3 L
+F 8 3 U
+F 5 3 L
+F 2 3 D
+F 2 2 R
+F 4 2 U
+F 5 6 D
+F 4 5 R
+M 14 6 L

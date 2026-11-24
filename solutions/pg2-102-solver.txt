@@ -1,0 +1,13 @@
+# level pg2-102, board 9ed8bb7172b43c76
+# 11 moves, proven shortest by A* within the default search (12,632 positions, 2 s); every search the same moves. Checked rules only. Part of the hint: the holes one column off the buried male at (4,5), the four becoming a square as they touch him; but two holes dug, not the hint's four: one gay meeting at (5,5)-(5,4), a third gay tile dropped into (5,4), the fourth never moves. The left Biwa pair round by rank 3 onto (4,4)-(5,4) (half on that fallen gay tile), the right one down onto (5,5) and left onto the male.
+H 5 2 U
+H 7 5 D
+H 7 4 L
+H 1 5 D
+H 1 4 R
+G 2 6 D
+G 2 3 R
+G 5 3 U
+G 5 4 L
+G 5 6 D
+G 5 5 L

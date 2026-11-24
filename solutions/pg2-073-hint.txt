@@ -1,0 +1,16 @@
+# level pg2-073, board 52b77eabd24fcf9f
+# 14 moves, the hint's route; an alternative to pg2-073-solver.txt (12). Found by a scratch build of the solver that accepts only endings with the male fallen or gone at x <= 6, y <= 5 (the hint's bottom-left hole) and lets no ice ball fill a pit (the hint's ball, lowered and raised again): the fewest under those two conditions (its rounds: 843,564 positions); without the second, 12 (the ball lowered, then sent into the pit (8,4)). The ice ball (8,5) goes left to (7,5) and down to (7,4); the gay tile (6,5) steps into the pit (6,4); the male steps down to (7,5), stopped by the ball, and glides left into the pit (5,5), the bottom-left hole. The Biwa (10,6) glides left to (6,6): the first lying pair, in the centre row. The ice ball (6,7) rolls right to (7,7), the gay tile (8,7) steps into the pit (8,8), the lowered ball goes back up to (7,6); the Biwa (7,3) glides up under it to (7,5), the Biwa (7,9) comes down to (7,8), over the fallen gay tile to (8,8) and down to (8,5): the second pair; it glides left onto the fallen male, joining the first: four gone with him.
+I 8 5 L
+I 7 5 D
+H 6 5 D
+M 7 6 D
+M 7 5 L
+G 10 6 L
+I 6 7 R
+H 8 7 U
+I 7 4 U
+G 7 3 U
+G 7 9 D
+G 7 8 R
+G 8 8 D
+G 7 5 L

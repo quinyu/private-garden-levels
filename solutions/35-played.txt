@@ -1,0 +1,32 @@
+# level 35, board ff35709603a66f03
+# 24 moves, an alternative to 35-solver.txt (23): the best before the overnight audit after pg2-096, played in the game by the user.
+# Level 35, 24 moves, not proven shortest: --improve (3 threads, 25-million limit) from the default search's 25,
+# both found once a car lying in a pit under a destroyed piece stays (as the user checked in the game on level 68).
+# The first male dies standing on the car that filled (9,3), together with the square beside him; the car stays,
+# and the second male walks over it into the second square. Before the rule was corrected, the best was 26 (in
+# git history; it works under both rules).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 7 1 U
+C 15 6 D
+C 15 5 D
+C 15 4 L
+C 14 4 L
+C 13 4 D
+C 13 3 L
+C 12 3 L
+M 15 3 L
+M 14 3 L
+M 13 3 L
+M 12 3 L
+M 14 2 L
+M 13 2 U
+M 13 3 L
+M 12 3 L
+M 9 3 L
+K 3 2 U
+K 3 3 R
+K 1 4 R
+K 2 4 R
+K 3 4 R
+K 6 4 R
+K 7 4 D

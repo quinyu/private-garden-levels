@@ -1,0 +1,8 @@
+# level 03, board 36fafb0603e09369
+# Level 03, 5 moves, shortest (52 positions looked at): A* (the default search). Saved at level 62 so every level has an NN-solver.txt.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 1 4 D
+M 8 2 L
+M 7 2 L
+M 6 2 L
+M 3 2 L

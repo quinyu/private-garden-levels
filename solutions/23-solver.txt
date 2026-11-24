@@ -1,0 +1,24 @@
+# level 23, board c42b8997015c3d8c
+# Level 23, 18 moves (the 19-move solution shortened with --improve, --fallback-limit 20000000).
+# The dark-haired girls make a square standing over the pits; the right male clears it and
+# leaves craters in the ice, where the second blonde pair falls in beside the first, making a
+# square for the left male, who drops into the pit beside it.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+G 6 2 L
+G 3 2 U
+K 7 2 L
+K 6 2 L
+K 4 2 U
+G 7 1 L
+K 2 2 R
+K 3 2 R
+K 5 2 U
+M 8 8 L
+M 7 8 L
+M 6 8 L
+G 6 1 L
+G 2 1 R
+G 3 1 U
+G 3 2 U
+M 1 8 R
+M 2 8 D

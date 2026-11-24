@@ -1,0 +1,28 @@
+# level 89, board 4e31475090a53618
+# Level 89, 18 moves, not proven shortest: --improve (40 million positions a round, 3 threads) from the
+# 26 that the default search, --relocate and A* (30 million, 10 moves deep) all ended at; its last round,
+# and a 100-million round from the 18 (6.5 GB), found nothing shorter. Floor under every piece, as given. One male must touch all four
+# ash-haired girls and both pink girls at once; they needn't make a square: two ash pairs and the pink
+# pair all around him will do. A car fills (6,5); the right ash girls pair at (8,7)-(8,8), slide down the
+# right ice, over the filled pit and down the middle ice to the bottom, where they stop the pink pair's
+# glide at (4,1)-(4,2). The pinks glide up until the car at (4,5) stops them at (4,3)-(4,4); that car
+# then fills (3,5). The left ash pair glides down the left ice and steps onto the car at (3,4)-(3,5); the
+# right ash pair glides back up to (5,4)-(5,5), and the male steps down into (4,5) among all three.
+J 2 1 U
+J 7 1 L
+C 5 5 R
+F 8 9 D
+F 8 8 L
+F 7 8 D
+F 7 5 L
+F 6 5 L
+F 5 5 D
+J 2 2 R
+J 4 2 U
+C 4 5 L
+F 1 9 D
+F 1 8 R
+F 2 8 D
+F 2 5 R
+F 5 2 U
+M 4 6 D

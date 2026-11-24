@@ -1,0 +1,11 @@
+# level pg2-065, board 6d712d5c453a84e6
+# 9 moves, proven shortest by A* within the default search (227,391 positions, 4 s); every search the same moves. Checked rules only. The left ice ball rolls down into (3,5), the right one up into (10,4), both ice now; the right Biwa walks down onto (10,3) and goes right into the portal (11,3), out of (2,6) onto (3,6); the left Biwa walks up, glides up the new ice and stops under her, an upright pair (3,5)-(3,6), which steps right into the pits (4,5)-(4,6); the male steps left into the pit (5,6) beside it.
+I 3 6 D
+I 10 3 U
+G 10 6 D
+G 10 5 D
+G 10 3 R
+G 3 3 U
+G 3 4 U
+G 3 6 R
+M 6 6 L

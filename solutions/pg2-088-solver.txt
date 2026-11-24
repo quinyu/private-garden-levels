@@ -1,0 +1,13 @@
+# level pg2-088, board f7ef9c7698730d6d
+# 11 moves, proven shortest by A* within the default search (3,397 positions, 2 s); every other search, --plan too, the same moves. Checked rules only (girls stopping on ice by merging; a pair held up by one block over a pit; a gay tile falling into a pit and standing as ground). Most of the hint: an upright pair made by sticking on the ice, (4,5)-(4,6), the Biwa (6,5) sliding in under the one at (4,6); it goes down to (4,1)-(4,2) and left to (3,1)-(3,2), half over the pits; the gay tile drops into the pit (1,5), the Biwa (9,5) slides onto it and the one from (2,2) comes up beside her, a lying pair (1,5)-(2,5) that goes up, right and down onto (3,3)-(4,3) above the upright pair; the male slides left two cells to (4,2), touching both pairs: four Biwas at once. Not quite the hint: the second pair lies flat, and the clear is at (4,2), two cells left of the male, not the cell beside him.
+G 4 2 U
+G 6 5 L
+G 4 6 D
+G 4 2 L
+H 7 5 L
+G 9 5 L
+G 2 2 U
+G 1 5 U
+G 1 6 R
+G 3 6 D
+M 6 2 L

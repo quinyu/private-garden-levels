@@ -1,0 +1,26 @@
+# level pg2-107, board 036dbef6960f9811
+# 23 moves, an alternative to pg2-107-solver.txt (21): the best before the refining night after pg2-139, played in the game by the user.
+# 23 moves, not proven: --relocate (first 25 after 1,198,813 positions; 11,198,818 in all, 64 s); the dynamic --carry --relocate and GARDEN_WAY=1 with --relocate another 23 (the same moves as each other), --plan 27, the default search 29, --relax 32, --carry, --carry --relocate, the dynamic --carry and GARDEN_WAY=1 with the default search nothing; a 40-million --improve round nothing shorter (40,000,204 positions), A* 30 million nothing (7 moves deep). No unchecked rule (--play, C and Python the same).
+K 9 9 L
+K 1 9 D
+K 7 1 L
+G 7 5 D
+K 11 9 R
+K 17 9 D
+K 17 1 L
+K 9 1 U
+K 9 2 L
+K 1 1 R
+K 5 1 U
+K 5 2 U
+G 9 7 D
+G 9 4 U
+G 9 9 L
+G 1 9 D
+G 1 2 R
+G 7 1 L
+G 6 1 U
+G 6 2 U
+M 5 5 D
+G 11 5 R
+M 13 5 L

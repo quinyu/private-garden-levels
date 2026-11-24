@@ -1,0 +1,11 @@
+# level pg2-185, board e26c3358453cf82e
+# 9 moves, proven shortest by A* within the default search (13,701 positions, under a second); --relocate, --plan, --carry, --carry --relocate, the dynamic --carry, both, and GARDEN_WAY=1 with the default search and --relocate the same moves, each proven; one colour (no --relax). No unchecked rule (--play, C and Python the same). On the corrected board: the dark stone is pits (the user's play of the first reading's step 1: the ice ball dropped into G3).
+G 2 5 R
+G 6 2 R
+G 7 2 U
+G 7 4 U
+G 7 5 R
+I 10 3 R
+M 13 3 L
+M 12 3 L
+M 10 3 L

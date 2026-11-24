@@ -1,0 +1,16 @@
+# level 72, board 1780a94dc2a4a76a
+# Level 72, 9 moves, proven shortest by the default search's shortening rounds (664,236 positions, 2 threads;
+# first solution 14, tidied to 9). Ground under every piece, as given; the tanned square is fallen in the hole
+# at (7,5)-(8,6). Three of the twelve cars, each one step from a pit, fill (15,6), (17,3) and (15,4); the male
+# walks left over (17,3) to (15,3), up column 15 over (15,4) and (15,6), and glides left along row 6's ice into
+# the pit at (9,6), beside the square.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 15 7 D
+C 15 3 R
+C 15 5 D
+M 18 3 L
+M 17 3 L
+M 15 3 U
+M 15 4 U
+M 15 5 U
+M 15 6 L

@@ -1,0 +1,24 @@
+ground
+#############  
+#OOOOOOOOOOO###
+#O.6666@OO2OOO#
+#OOOOOOOOO.OOO#
+#OOOOOOO66.O..#
+#O@6666.OO2OOO#
+#OOOOOOOOOOO###
+#############  
+
+pieces
+...............
+...............
+..a............
+........bbc....
+..........d..e.
+.......f.......
+...............
+...............
+
+legend
+a b f  girl2
+c d  iceball
+e  male

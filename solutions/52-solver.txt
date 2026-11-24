@@ -1,0 +1,17 @@
+# level 52, board 7144dc47c3adda20
+# Level 52, 11 moves, the length A* proves shortest (2,917 positions). Ground under every piece, as
+# given. The male's only move is up the ice column, which ends with him dropping into the pit at
+# (4,6); its three pit neighbours (4,7), (3,6) and (5,6) get one fallen pair each first, and he touches
+# all three at once.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 2 8 R
+N 3 8 R
+N 4 8 D
+N 1 8 R
+N 2 8 R
+N 3 8 D
+N 3 7 D
+N 6 4 L
+N 5 4 U
+N 5 5 U
+M 4 1 U

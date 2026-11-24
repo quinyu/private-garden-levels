@@ -1,0 +1,42 @@
+# level 22, board 3888f3cc0b7afc69
+# Saved as 22-solver.txt until level 74. An alternative to 22-solver.txt (27 moves).
+# On the corrected board (Biwas on D6 and E7, Mikans on D7 and E6: the screenshot, and the user's words, while level 22's
+# 29 was being posted; the file had them the other way round): the same moves, the girls' letters F and G changed where
+# they move the top four.
+# Level 22, 36 moves: the planner's 55, shortened (--improve solutions/22-plan.txt --fallback-limit 30000000 --threads 4).
+J 3 4 D
+K 2 4 R
+F 5 3 U
+G 5 2 U
+G 5 7 U
+F 4 7 R
+G 5 8 L
+G 4 6 U
+M 1 8 R
+M 8 8 D
+J 7 5 R
+K 6 5 R
+J 2 5 D
+J 2 4 D
+J 6 4 L
+K 7 5 L
+J 5 4 L
+K 3 5 R
+K 4 5 R
+M 1 1 U
+M 1 3 U
+M 1 4 R
+M 2 4 R
+M 3 4 R
+F 5 7 D
+F 5 6 L
+F 4 6 L
+F 4 2 R
+F 3 6 D
+F 5 2 U
+M 8 1 L
+M 6 1 L
+M 5 1 U
+M 5 2 L
+F 3 5 R
+M 4 2 U

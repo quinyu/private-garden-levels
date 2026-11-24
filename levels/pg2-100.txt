@@ -1,0 +1,33 @@
+ground
+###############
+#O_____OOOOOOO#
+#O__OO_OOOOOOO#
+#OOOOO_OOOO___#
+#OOOOO_OOOO___#
+#_____________#
+#____OOO_OOOOO#
+#____OOO_OOOOO#
+#OOOOOOO_OOOOO#
+#OOOOOOO_OO__O#
+#OOOOOOO_____O#
+###############
+
+pieces
+...............
+...a..b........
+...............
+.............k.
+...............
+.m..i......j.l.
+...............
+..n............
+...............
+...............
+........c..d...
+...............
+
+legend
+a b c d                girl2
+i j                    iceball
+k l n                  car
+m                      male

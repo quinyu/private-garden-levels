@@ -1,0 +1,36 @@
+# level 37, board 306a74b1f49f299d
+# 28 moves, an alternative to 37-solver.txt (27): the best before the overnight audit after pg2-096, played in the game by the user.
+# Level 37, 28 moves (not proven shortest: nothing shorter in 40 million positions with --improve, --threads 4);
+# the relocation search's first was 31 after 124,081 positions. Floor under every piece, as given.
+# The top pair falls into (3,5)-(4,5); the bottom pair crosses on it, rides the ice into (8,5)-(9,5), and
+# the first male drops into the pit beside it. Cars fill (8,3), (9,3) and (5,5) for the second male, the
+# last one stops him on the ice; the standing pair steps half onto the fallen one, and he steps onto it.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 1 6 R
+K 2 6 D
+K 2 5 R
+K 1 3 R
+K 2 3 U
+K 2 4 U
+K 2 5 R
+K 3 5 R
+K 4 5 R
+M 10 6 L
+C 7 2 U
+C 7 3 R
+C 8 2 U
+C 8 3 R
+M 10 3 L
+M 9 3 L
+M 8 3 L
+M 7 3 U
+C 7 7 D
+C 7 6 D
+C 7 5 L
+C 8 7 L
+C 7 7 D
+K 1 5 R
+K 2 5 R
+M 7 4 U
+M 7 5 L
+M 5 5 L

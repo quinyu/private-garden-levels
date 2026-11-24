@@ -1,0 +1,15 @@
+# level pg2-175, board 17cc2effe93b2040
+# 13 moves, proven shortest by GARDEN_WAY=1 --relocate's rounds (742,710 positions, 5 s); all nine searches 13, all proven (eight different 13s; the default search 786,117 positions, 3 s; --relax doesn't apply: one colour). The hint's order (the girl through the warp into the pit first, then the boy beside her), as --plan's and GARDEN_WAY=1's 13s; the default search's has the boy in first. No unchecked rule (--play, C and Python the same).
+I 5 6 L
+I 2 6 D
+G 1 6 D
+G 1 5 R
+G 2 5 D
+M 12 6 L
+I 8 6 R
+I 10 6 D
+M 11 6 D
+I 8 5 R
+I 10 5 D
+M 11 5 L
+M 10 5 D

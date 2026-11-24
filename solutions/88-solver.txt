@@ -1,0 +1,61 @@
+# level 88, board 671e7d660e417c55
+# Level 88, 50 moves, not proven shortest. The level is the same turned 180 degrees and splits into
+# two halves that never touch, one per male. --split --relocate (the seven-level test of --split, level
+# 92's session) found 53: the top male's half in 28, then the bottom male's in 25 (88-split.txt). These
+# are those 25, then the same turned round for the top male's half. Before: 54 (88-astar.txt, A*'s
+# fallback's 27 for one half, twice). Floor under every piece, as given. Bottom male's half: a car fills
+# (6,6); the wing's brown-haired girl steps along to (5,4) and the top one comes down column 6 over the
+# car to pair with her at (5,4)-(6,4); the pair falls into the pit (7,4)-(8,4). A pink-haired girl walks
+# along row 4 over that pair and drops into (7,3); the bottom car steps aside to (5,1) and the other pink
+# drops into (6,3) beside her. The male goes up into (8,3), beside the pinks and under the brown pair.
+# The top male's half is the same turned round.
+C 5 7 R
+C 6 7 D
+F 1 4 R
+F 2 4 R
+F 3 4 R
+F 4 4 R
+F 4 8 D
+F 4 7 R
+F 5 7 R
+F 6 7 D
+F 6 6 D
+F 5 4 R
+J 1 5 D
+J 1 4 R
+J 2 4 R
+J 3 4 R
+J 4 4 R
+J 5 4 R
+J 7 4 D
+C 5 2 D
+J 4 1 U
+J 4 2 R
+J 5 2 R
+J 6 2 U
+M 8 1 U
+C 14 2 L
+C 13 2 U
+F 18 5 L
+F 17 5 L
+F 16 5 L
+F 15 5 L
+F 15 1 U
+F 15 2 L
+F 14 2 L
+F 13 2 U
+F 13 3 U
+F 14 5 L
+J 18 4 U
+J 18 5 L
+J 17 5 L
+J 16 5 L
+J 15 5 L
+J 14 5 L
+J 12 5 U
+C 14 7 U
+J 15 8 D
+J 15 7 L
+J 14 7 L
+J 13 7 D
+M 11 8 D

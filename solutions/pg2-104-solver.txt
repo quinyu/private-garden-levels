@@ -1,0 +1,14 @@
+# level pg2-104, board ea53eb1a662e2ad4
+# 12 moves, proven shortest by the default search's rounds (832,553 positions, 4 s); every search 12 (--carry in both modes the same moves; --relocate, --carry --relocate and --plan other 12s). Checked rules only. Part of the hint: a hole dug by gay tiles down-left of the male, girls in it, the male standing on them as he clears; but two gay tiles meet, not three at once (the third parked at (1,5)), only two Biwas in the hole as a fallen pair, the other pair lying over the pit (3,6) above it, no upright pair.
+H 3 4 U
+G 3 3 U
+H 3 2 U
+H 3 5 L
+G 4 1 U
+G 4 2 L
+G 3 2 U
+G 3 5 L
+G 2 5 U
+M 5 6 D
+M 5 2 L
+M 3 2 U

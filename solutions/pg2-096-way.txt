@@ -1,0 +1,27 @@
+# level pg2-096, board 1bed284ef2ff71d2
+# 24 moves, an alternative to pg2-096-solver.txt (23): the best before the refining night after pg2-139 (the males' way measured the night after pg2-104's), played in the game by the user.
+# 24 moves, not proven: the males' way measured the night after pg2-104 (GARDEN_WAY=1, the default search at a 1-million fallback limit, 1,564,393 positions, 8 s); a 40-million --improve round from it nothing shorter. Replaces the 40 (pg2-096-played.txt, played). No unchecked rule (--play, C and Python the same).
+G 2 10 R
+G 17 10 L
+C 1 10 R
+C 3 10 D
+G 4 10 R
+C 8 8 L
+C 4 8 U
+G 7 10 L
+G 5 10 D
+C 11 10 R
+C 11 8 U
+C 11 10 R
+C 14 10 D
+C 8 10 L
+C 5 10 D
+C 5 3 L
+G 5 2 U
+M 9 3 L
+G 15 10 L
+G 14 10 D
+G 14 3 L
+G 5 10 D
+G 5 3 D
+M 3 3 R

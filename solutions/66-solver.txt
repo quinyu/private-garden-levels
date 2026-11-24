@@ -1,0 +1,36 @@
+# level 66, board 48f0795516b3d760
+# Level 66, 28 moves, not proven shortest (start estimate 15): --plan's first solution (409,287 positions).
+# --improve (2 threads, 30-million limit) finds nothing shorter; the default search found 30, --relocate 40.
+# Ground under every piece, as given. Two tanned pairs, already merged, one in each wing. Cars fill (11,5),
+# (14,5) and (8,4) so the right pair can cross the room; it falls into the left strip (5,4)-(5,5) beside the
+# left pair standing at (4,4)-(4,5), and the male walks up and along row 4 onto it, touching both.
+# Another 28, worked out by hand from the default search's 30: 66-hand.txt.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 1 5 R
+N 2 5 R
+N 3 5 R
+C 11 6 D
+C 8 6 R
+C 9 6 D
+C 9 5 R
+C 10 5 R
+C 11 5 R
+C 13 5 R
+C 8 3 U
+N 18 5 L
+N 17 5 L
+N 16 5 L
+N 15 5 L
+N 14 5 L
+N 13 5 L
+N 11 5 L
+N 10 5 L
+N 9 5 L
+N 8 5 L
+N 6 5 L
+M 9 1 U
+M 9 2 U
+M 9 3 U
+M 9 4 L
+M 8 4 L
+M 6 4 L

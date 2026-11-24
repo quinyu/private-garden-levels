@@ -1,0 +1,13 @@
+# level 14, board b0e8a0df6dd8f00e
+# Level 14, found by the solver: 10 moves.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 9 6 L
+F 7 6 L
+F 6 6 D
+C 6 8 D
+C 6 6 D
+C 6 5 L
+F 9 4 L
+F 7 4 U
+M 3 5 R
+M 5 5 R

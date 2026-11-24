@@ -1,0 +1,44 @@
+# level 32, board 9610057d3603b935
+# Level 32, 38 moves, proven shortest by A* (2.6 million positions, 9 s on 4 threads). The girls make a
+# square in their corner. Two cars fill the pits the male's route crosses, (2,4) below the first ice drop
+# and (7,2) before the girls' corridor; the third is a stopper: at (1,7) so the others stop above the
+# shaft at (2,7), then at (2,3) so the male, come back up from (2,1), stops on the lower ice row.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 12 1 L
+C 11 8 D
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 L
+K 12 5 D
+K 12 4 D
+K 12 3 D
+C 12 7 L
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 L
+C 2 7 D
+M 2 8 D
+M 2 4 D
+C 12 8 L
+C 11 8 D
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 L
+C 2 7 D
+C 2 4 D
+C 1 7 U
+C 1 8 R
+C 2 8 D
+C 2 4 D
+C 2 2 R
+M 2 1 U
+M 2 2 R
+M 7 2 R
+M 8 2 R
+M 9 2 R

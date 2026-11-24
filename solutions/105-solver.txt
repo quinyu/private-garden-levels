@@ -1,0 +1,20 @@
+# level 105, board c22d2eb86b4beda6
+# Level 105, 16 moves, proven shortest by A* (1,528 positions, under a second); --relocate the same.
+# With A* off, --plan builds its second round's ending 16 in 17 moves and shortens it to 16, with or without
+# the finish shapes. The first male's contact leaves craters, which the remaining cars fill for the second.
+C 15 1 L
+J 5 1 R
+C 4 1 R
+J 3 1 R
+C 8 1 R
+M 16 1 L
+M 10 1 L
+M 9 1 L
+C 17 1 L
+C 10 1 L
+C 9 1 L
+M 18 1 L
+M 10 1 L
+C 2 1 R
+J 1 1 R
+J 7 1 R

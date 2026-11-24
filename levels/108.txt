@@ -1,0 +1,31 @@
+ground
+   ###############  
+  ##OOOOOO#O#OO#..# 
+ #..#OOOOOO#OOO#...#
+#....#OO#OOOOOO#O..#
+#....#O#O#OO#OOOO###
+#....#OO#OO#O#OOOOO#
+#....#OOOOOO#OOOOOO#
+#...#O#OOOOOOOOOOOO#
+#..#O#OOOOOOOOO#OOO#
+#OO#OOOOOO#OOO#O#O# 
+ #OOOOOOO#O#OOO#O#  
+  ###############   
+
+pieces
+....................
+.......e...f..g..a..
+..AB..h.........b.c.
+.CDEF............d..
+.GHIJ...i...........
+.KLMN.......j.....k.
+.PQRS............l..
+.TUV.m..............
+.WX...............n.
+...............o....
+..........p.q.......
+....................
+
+legend
+a b c d  girl4
+A B C D E F G H I J K L M N P Q R S T U V W X e f g h i j k l m n o p q  male

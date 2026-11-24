@@ -1,0 +1,13 @@
+# level pg2-093, board 08848a9106a199d8
+# 11 moves, proven shortest by A* (20,384,771 positions, 273 s) and by --improve rounds from the searches' 12 (52,991,806 positions); every search but --plan (the default search, --relocate, --carry and --carry --relocate in both modes, --relax) the same 12, --plan nothing. Checked rules only (cracked ice wearing and breaking; girls stopping on ice by merging; a destroyed piece's cell left a crater; a single falling into it; the male onto a fallen girl). Two males used: the one at (1,2) goes round by (11,2) to (11,7) and clears the Biwa pair (1,7)-(2,7) and the Kurumi (3,6) from (3,7); the Kurumi (2,6) drops into (3,6)'s crater; the one at (2,1) goes round by (11,1) to (11,6) and clears the rest from on top of it. The girls never leave the 3x3, as the hint says, but not the hint's one male (it calls two of the three decoys).
+M 1 2 R
+M 11 2 U
+M 2 1 R
+M 11 1 U
+K 2 7 D
+G 3 7 L
+M 11 7 L
+K 2 6 R
+K 2 5 U
+G 1 5 R
+M 11 6 L

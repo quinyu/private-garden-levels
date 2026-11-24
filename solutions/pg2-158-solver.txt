@@ -1,0 +1,23 @@
+# level pg2-158, board 1acb5657dbfadf66
+# 21 moves, not proven: a 40-million --improve round from the searches' 22 (21 in its first round, 19,294,439 positions; its next round 40 million nothing shorter); the 22 by the default search (first 34 after 407,939 positions; 14,060,339 in all, 41 s), --relocate, --plan, --relax, --carry and --carry --relocate (the same moves); GARDEN_WAY=1 with and without --relocate 23, the dynamic --carry both 25; --refine from the 22 and from the 21 nothing shorter; A* 30 million nothing (30,000,033 positions, 102 s). No unchecked rule (--play, C and Python the same).
+K 12 1 L
+K 11 2 U
+K 14 1 L
+G 12 3 R
+C 13 4 L
+C 12 4 D
+K 11 4 R
+C 10 1 R
+C 11 1 U
+C 12 2 D
+C 12 1 L
+C 11 1 U
+K 12 4 L
+C 3 5 D
+C 3 4 R
+K 11 4 D
+K 13 2 L
+G 13 3 L
+M 5 4 L
+M 4 4 L
+M 11 4 D

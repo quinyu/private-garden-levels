@@ -1,0 +1,22 @@
+# level 26, board 21a3c91332c01a2c
+# Level 26, 16 moves, proven shortest (A* gave up; the shortening rounds ran out, with every search: novelty,
+# relocations and the planner found it). Two cars bridge the pit channel, the girls make two pairs
+# standing either side of it, and the male walks up onto the bridge between them.
+# Relies on the ground under the car at (2,4) being floor, to be checked.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 6 6 L
+K 5 7 D
+K 5 6 D
+K 1 6 R
+C 2 4 R
+C 1 4 R
+C 2 4 R
+C 4 4 D
+K 2 7 R
+K 3 7 D
+M 1 1 U
+M 1 2 R
+M 2 2 R
+M 3 2 R
+M 4 2 U
+M 4 3 U

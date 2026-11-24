@@ -1,0 +1,13 @@
+# level pg2-025, board 70d310112089591e
+# 11 moves, proven shortest by the default search (2,721,152 positions, 24 s, under the portal rules as now); --relocate the same moves; played in the game by the user. Found after the user's play showed a single reacting beside an entry portal stops there (the earlier 10 and 12 went through it). Rests on a gay tile going through the portals with nothing beside the entry (move 3) and a male stopping on an entry whose exit is taken (moves 7-8, checked pg2-012): checked rules only.
+H 6 3 U
+M 10 2 U
+H 4 3 R
+H 8 3 D
+H 2 3 U
+H 3 2 U
+M 10 3 L
+M 9 3 L
+M 5 3 L
+M 1 3 U
+M 1 6 R

@@ -1,0 +1,44 @@
+# level 77, board aabbbb7428765d86
+# Level 77, 32 moves by hand (planned before solving, checked in the engine), not proven shortest. The
+# default search, --relocate and --plan all end at 32 too (the same plan); nothing shorter with --improve
+# (40 million positions, 2 threads) or A* (--limit 30000000, 40 million in all). Counting what the plan
+# needs: the girls 7 moves, the males 9, and the cars 16 (the males need (7,3) and (7,4) filled to climb,
+# and (4,4) to stop on; cars reach the right only over (4,3) and (4,4), so all four are used).
+# Ground under every piece, as given; both pairs are down in their pits (confirmed by the user). The ash
+# singles make a vertical pair that drops beside the fallen ash pair: a fallen square (7,6)-(8,7). The pink
+# singles make a horizontal pair that drops under the fallen pink pair: a fallen square (3,6)-(4,7). Two
+# cars fill (4,3) and (4,4); the other two glide along the ice of row 4 and fill (7,4) and (7,3). The male
+# at (8,3) climbs onto (7,4), glides left onto the car at (4,4) and steps up into the pit at (4,5), beside
+# the pink square; the other climbs to (7,4) and steps up into the pit at (7,5), under the ash square.
+F 9 8 D
+F 9 7 L
+J 2 6 L
+J 2 8 D
+J 2 7 D
+J 1 6 R
+J 2 6 R
+C 3 3 R
+C 3 2 U
+C 3 3 R
+C 4 3 U
+C 3 1 U
+C 3 2 U
+C 3 3 R
+C 4 3 U
+C 4 4 R
+C 4 1 L
+C 3 1 U
+C 3 2 U
+C 3 3 R
+C 4 3 U
+C 4 4 R
+C 7 4 D
+M 8 3 L
+M 7 3 U
+M 7 4 L
+M 4 4 U
+M 8 1 U
+M 8 2 U
+M 8 3 L
+M 7 3 U
+M 7 4 U

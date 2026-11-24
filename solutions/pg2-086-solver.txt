@@ -1,0 +1,19 @@
+# level pg2-086, board 1fa2743f8631f0bd
+# 17 moves, proven shortest by --relocate's rounds (first 30 after 558,132 positions; 1,086,521 in all, 6 s); --carry --relocate in both modes the same moves, --relax another 17 (the copy without the Mikans 16, 4 of its moves carried over), all proven; the default search, --carry with it in both modes and --plan nothing. Checked rules only (ice balls rolling over fallen pieces and filling pits; two gay tiles meeting, a pit under the one on ice and none under the one on the fallen Biwas; ice balls standing on a fallen square dropping into its pits as it is cleared). Exactly the hint: the gay tile (4,6) parks on the fallen Biwa square at (3,7); ice balls fill the pit (1,6), park at (1,6), go down over the fallen Mikans to fill (2,3) and park on them at (2,4) and (2,5), one more waits at (2,6); the gay tile (11,6) meets the parked one from below at (3,6), one pit; the male (13,6) slides into it, clearing the Biwa and Mikan squares, and the two balls on the Mikans drop into (2,4) and (2,5) as ice; the ball (2,6) fills the pit (3,6); the male (14,6) slides left to (2,6) and down the new ice road into the pit (2,2), beside the Karin square: all gone.
+H 4 6 U
+H 4 7 L
+I 5 6 L
+I 6 6 L
+I 7 6 L
+I 8 6 L
+I 3 6 D
+I 2 6 D
+I 3 4 L
+I 9 6 L
+I 2 6 D
+I 10 6 L
+H 11 6 L
+M 13 6 L
+I 2 6 R
+M 14 6 L
+M 2 6 D

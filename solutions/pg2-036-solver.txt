@@ -1,0 +1,8 @@
+# level pg2-036, board eab631b9fc7e95e4
+# 6 moves, proven shortest: A* within the default search (164,858 positions) proves 6, and the default search with GARDEN_STRICT=m found this 6 (189,075 positions), which needs no male, gay tile and girl destroyed in one move; move 1 rests on a gay tile taking three others at once (two checked, pg2-018's play).
+H 5 1 U
+G 2 2 R
+G 3 2 R
+G 1 3 D
+G 1 2 R
+M 6 4 D

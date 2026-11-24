@@ -1,0 +1,59 @@
+# level 100, board f3c75996a2aee6fc
+# 53 moves, an alternative to 100-solver.txt (42): the best before the overnight audit after pg2-096, played in the game by the user.
+# Level 100, 53 moves, not proven shortest. Found by --plan (A* off): its third round's ending 1 built in
+# 57 moves and shortened; the same with --patterns none. The default search and --relocate find nothing
+# in 10 million positions, --relocate nothing in 36 million (memory limit); nothing shorter with --improve
+# at 40 million (11.6 GB, 8 moves deep). 24 pieces, 19 of them cars.
+C 9 6 L
+C 11 6 U
+C 7 6 L
+C 5 6 L
+C 3 6 U
+C 3 8 U
+J 3 10 D
+J 3 9 D
+J 3 8 D
+J 3 7 D
+J 3 6 R
+J 4 6 R
+J 5 6 R
+J 6 6 R
+J 7 6 R
+J 8 6 R
+C 3 4 U
+C 3 2 U
+C 10 5 U
+C 13 8 L
+C 4 1 L
+J 12 7 L
+J 11 7 D
+J 11 6 L
+J 9 6 D
+J 12 9 D
+J 12 8 D
+J 12 7 L
+J 11 7 D
+J 11 6 L
+J 2 1 R
+J 3 1 U
+J 3 2 U
+J 3 3 U
+J 3 4 U
+J 3 5 U
+J 3 6 R
+J 4 6 R
+J 5 6 R
+J 6 6 R
+J 7 6 R
+J 8 6 R
+C 11 4 L
+C 12 3 L
+C 13 2 D
+C 12 1 U
+M 14 1 L
+M 13 1 U
+M 13 2 L
+M 12 2 U
+M 12 3 L
+M 11 3 U
+M 11 4 L

@@ -1,0 +1,46 @@
+# level 33, board a09bfa053f029e95
+# Level 33, 40 moves, proven shortest (--improve with --threads 4: nothing shorter, the search ran out at 4.0 million positions).
+# Floor under every piece, as checked in the game. Two cars fill the pits at (7,5), under the male's
+# cell, and (5,4), at the head of the left column; the third parks at (5,3) so the male, back up from
+# (5,1), stops on the ice at (5,2); he slides left to (2,2), between the two pairs.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+M 7 6 U
+M 7 7 L
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 D
+C 7 6 D
+C 12 6 U
+C 12 7 L
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 D
+C 7 6 D
+C 7 5 D
+C 7 4 L
+M 6 7 R
+M 7 7 D
+M 7 6 D
+M 7 5 D
+M 7 4 L
+M 5 4 D
+M 5 3 D
+C 11 5 U
+C 11 6 U
+C 11 7 L
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 7 7 D
+C 7 6 D
+C 7 5 D
+C 7 4 L
+C 5 4 D
+K 2 4 L
+K 1 4 D
+M 5 1 U
+M 5 2 L

@@ -1,0 +1,23 @@
+# level 115, board b01c59e068f551e4
+# 21 moves, proven shortest by A* (12,796,324 positions); the default search, --relocate and --plan found a 21 too (another order of the same kind). Regrouped.
+C 9 8 D
+C 9 7 R
+C 10 3 U
+C 10 4 L
+C 10 2 U
+C 10 3 U
+C 10 4 L
+C 8 4 U
+J 1 5 R
+J 2 5 R
+J 3 5 R
+J 8 5 R
+J 11 3 U
+J 11 4 U
+J 9 9 D
+J 9 8 D
+J 9 7 R
+J 11 7 D
+M 18 6 L
+M 17 6 L
+M 16 6 L

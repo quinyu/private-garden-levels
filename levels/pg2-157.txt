@@ -1,0 +1,21 @@
+ground
+   ##   
+ ##33## 
+#333333#
+#333333#
+ ##33## 
+   ##   
+
+pieces
+........
+...a....
+.mg.eb..
+.hi.cf..
+...d....
+........
+
+legend
+a b c d  girl2
+e f  girl3
+g h i  car
+m  male

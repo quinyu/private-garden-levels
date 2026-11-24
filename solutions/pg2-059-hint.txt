@@ -1,0 +1,24 @@
+# level pg2-059, board d5e082c189508b6a
+# 22 moves, an alternative to pg2-059-solver.txt (21): the hint's stacked simultaneous clear, a square of four Biwas fallen into (10,4)-(11,5) and the Mikans as an upright pair standing on it at (10,3)-(10,4); the male through the portal (2,3), out of (10,6) going down onto (10,5). Found by --carry and --carry --relocate alike (first 62 after 414,751 positions; 15,439,613 in all).
+G 15 5 L
+G 14 3 U
+G 14 5 L
+G 13 5 L
+G 12 5 L
+C 3 7 D
+C 3 6 R
+G 3 5 L
+G 2 5 D
+G 5 7 D
+G 5 6 L
+G 2 6 D
+G 10 5 D
+F 5 5 L
+F 2 5 D
+F 7 8 R
+F 8 8 D
+F 8 6 L
+F 2 6 D
+F 10 6 D
+F 10 5 D
+M 2 8 D

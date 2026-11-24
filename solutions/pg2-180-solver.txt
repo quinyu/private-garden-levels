@@ -1,0 +1,9 @@
+# level pg2-180, board 6bf18ab448f3579c
+# 7 moves, proven shortest by A* within the default search (318 positions, under a second); --relocate, --plan and the four --carry searches the same moves; one colour (no --relax), GARDEN_WAY does not apply. No unchecked rule (--play, C and Python the same).
+C 16 2 D
+C 16 1 L
+G 1 1 U
+G 1 2 R
+G 10 1 U
+G 10 9 L
+M 9 10 D

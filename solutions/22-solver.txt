@@ -1,0 +1,33 @@
+# level 22, board 3888f3cc0b7afc69
+# 27 moves, not proven, on the corrected board (Biwas on D6 and E7, Mikans on D7 and E6: the screenshot, and the user's words, while the
+# refining night's 29 was being posted; the file had them the other way round, and the 29 and the 31 before it fail on the real board,
+# one girl left over): the default search, --relocate, --carry --relocate, --carry and GARDEN_WAY=1 the same 28; --refine from it: from
+# move 18 the default search 27 (stopped at its 15-minute cap in pass 2), tidied and regrouped;
+# a 40-million --improve round from it nothing shorter (40,000,010 positions). No unchecked rule (--play, C and Python the same).
+F 4 7 U
+G 5 7 L
+F 4 2 D
+G 4 3 D
+G 4 2 L
+M 1 1 R
+M 1 8 D
+J 2 5 L
+J 6 4 L
+J 3 4 R
+K 2 4 R
+K 7 4 L
+K 6 5 L
+K 5 5 L
+F 4 8 R
+F 5 8 D
+F 5 7 R
+J 7 5 L
+J 6 5 U
+M 8 1 U
+M 8 3 U
+M 8 4 L
+M 7 4 L
+M 6 4 L
+G 4 7 R
+M 8 8 L
+M 6 8 D

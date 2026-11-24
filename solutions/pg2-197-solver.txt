@@ -1,0 +1,26 @@
+# level pg2-197, board 2ed4fb5523ffd7fd
+# 23 moves by --plan (the dynamic --carry --relocate the same moves; --carry, --carry --relocate, the dynamic --carry and GARDEN_WAY=1 with the default search and --relocate other 23s; the default search 29, --relocate 31), not proven: --refine from four different 23s, a 40-million --improve round and A* 30 million nothing shorter. No unchecked rule (--play, C and Python the same).
+G 2 2 U
+G 2 4 U
+G 2 5 U
+G 2 6 U
+G 2 7 U
+G 2 8 R
+G 3 3 U
+G 3 4 U
+G 3 5 U
+G 3 6 U
+G 3 7 U
+G 3 8 R
+G 12 8 R
+# A male finishes at (12,6), down in the pit
+I 16 5 U
+B 16 4 U
+B 16 6 L
+H 16 3 L
+I 16 2 U
+I 16 6 L
+M 17 5 L
+M 16 5 U
+M 16 6 L
+M 15 6 L

@@ -1,0 +1,33 @@
+# level 104, board 9aae59c1580891b7
+# Level 104, 29 moves, proven shortest by A* (7,247 positions, under a second); --relocate the same.
+# With A* off, --plan builds this very solution only with the finish shapes (its fourth round's ending 4,
+# level 43's shape: the male down in his pit with every group fallen beside him); without them nothing.
+C 1 1 R
+C 16 1 U
+J 1 2 R
+C 16 2 D
+C 16 1 L
+C 1 1 U
+C 1 2 R
+C 14 2 D
+J 15 2 L
+C 14 1 U
+J 1 2 R
+C 14 2 D
+C 14 1 L
+C 1 1 U
+C 1 2 R
+C 12 2 D
+J 13 2 L
+C 12 1 U
+J 1 2 R
+C 12 2 D
+C 12 1 L
+C 1 1 U
+C 1 2 R
+C 10 2 D
+J 11 2 L
+C 10 1 U
+J 1 2 R
+J 9 2 U
+J 10 9 L

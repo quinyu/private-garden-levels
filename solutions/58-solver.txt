@@ -1,0 +1,18 @@
+# level 58, board 16fe35b318fd8f84
+# Level 58, 11 moves, proven shortest by A* (51,857 positions; also on 3 threads and by IDA*;
+# tidying finds nothing to cut). Ground under every piece, as given. The car fills (4,6) so the male
+# can leave his ledge without sinking. Each diagonal couple of tanned girls makes a vertical pair in
+# one step, and each pair rides an ice cell over pits into a pit pair: (3,2)-(3,3) and (5,1)-(5,2).
+# The male then walks down the middle and drops into the pit at (4,2), between the two fallen pairs.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 4 9 D
+N 2 7 R
+N 3 8 D
+N 3 7 D
+N 9 2 L
+N 8 2 L
+N 7 2 L
+M 1 6 R
+M 4 6 D
+M 4 5 D
+M 4 4 D

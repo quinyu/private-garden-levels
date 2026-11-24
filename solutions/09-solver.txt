@@ -1,0 +1,36 @@
+# level 09, board be8a8ecc65df15eb
+# Level 09, 31 moves, proven shortest: the default search with the 10-million default limit (11,172,811
+# positions; at 3 million it found the same 31 without proving it). Saved at level 62 so every level
+# has an NN-solver.txt; the hand-built ending is endings/09-hand.txt.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+M 3 1 U
+F 6 2 U
+F 6 3 U
+F 6 4 U
+F 6 5 U
+F 6 6 U
+F 1 2 U
+F 1 3 U
+F 1 4 U
+F 1 5 U
+F 1 6 U
+C 4 9 D
+C 4 8 R
+F 6 9 D
+F 6 8 L
+F 5 8 L
+F 4 8 D
+F 4 7 D
+F 4 6 D
+F 4 5 D
+C 3 9 D
+C 3 8 L
+F 1 9 D
+F 1 8 R
+F 2 8 R
+F 3 8 D
+F 3 7 D
+F 3 6 D
+F 3 5 D
+M 4 1 U
+M 4 2 U

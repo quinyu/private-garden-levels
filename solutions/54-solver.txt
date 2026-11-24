@@ -1,0 +1,24 @@
+# level 54, board 5602cebfd694aca3
+# Level 54, 17 moves, proven shortest by A* (27,231,382 positions on 3 threads; the default
+# search and --relocate find the same 17). Ground under the girls and cars, the males on ice, as given. Not symmetric:
+# the male at (1,5) is cleared at once by a tanned girl gliding down beside him; for the other, the two
+# ash-haired girls fall into the middle pits from both sides as a pair, the second tanned girl falls in
+# above, a car stopping her glide, and he glides between them into (6,4).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 2 8 D
+N 2 7 D
+N 9 1 U
+N 9 2 L
+F 9 8 D
+F 9 7 D
+F 9 6 L
+F 8 6 D
+F 8 3 L
+F 2 1 U
+F 2 2 U
+F 2 3 R
+F 3 3 R
+C 8 7 D
+N 8 2 U
+N 8 5 L
+M 10 4 L

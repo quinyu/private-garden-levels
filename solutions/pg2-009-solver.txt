@@ -1,0 +1,16 @@
+# level pg2-009, board 6fb86d879cf82319
+# 14 moves, proven shortest by A* within the default search (19,973 positions, 2 s); --relocate the same moves. Rests on rule 13 (a girl stands on a fallen girl of her colour, no merge): with GARDEN_STRICT=g no solution exists (all 624,765 reachable positions searched).
+G 14 9 U
+B 14 8 U
+G 14 10 L
+G 5 10 D
+G 5 1 R
+G 14 1 U
+G 14 8 L
+G 13 8 L
+G 10 3 U
+G 10 5 U
+G 9 8 R
+G 11 8 R
+G 12 8 D
+M 1 7 R

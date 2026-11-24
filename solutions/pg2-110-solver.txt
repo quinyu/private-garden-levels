@@ -1,0 +1,20 @@
+# level pg2-110, board 033d7c07a548e322
+# 18 moves, not proven: the default search (first 31 after 335,515 positions; 15,048,455 in all, 60 s); every other search the same moves (--relocate, --carry and --carry --relocate in both modes, --relax), --plan nothing; a 40-million --improve round nothing shorter (40,000,056 positions), A* 30 million nothing (14 moves deep). No unchecked rule (--play, C and Python the same).
+G 5 4 D
+K 5 5 D
+K 10 4 D
+G 9 4 R
+K 9 5 D
+K 9 3 R
+G 5 3 R
+G 9 3 U
+K 4 4 D
+K 4 3 L
+G 4 5 D
+G 4 3 R
+G 9 3 U
+M 6 8 R
+M 7 8 D
+M 7 3 R
+M 8 8 L
+M 1 8 D

@@ -1,0 +1,47 @@
+# level 74, board 62a12b15b3a446db
+# Level 74, 39 moves, proven shortest by the default search's shortening rounds (1,680,974 positions, 2 threads;
+# first solution 67, tidied to 42). Ground under every piece, as given. Every cell but the ice at (6,6)-(7,6) and
+# the pits at (6,1)-(7,1) is floor, so everything moves a cell at a time. The top girls walk to the corridor and
+# make a vertical pair in column 7, the middle ones another in column 6; both come down the corridor and stand
+# half over the pits at the bottom, merging into a square (6,1)-(7,2). The male walks up beside it on row 1.
+# The car is never used.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 12 10 L
+F 11 10 L
+F 10 10 L
+F 9 10 L
+F 8 10 L
+F 7 10 D
+F 1 10 R
+F 2 10 R
+F 3 10 R
+F 4 10 R
+F 5 10 R
+F 6 10 R
+F 7 10 D
+F 7 9 D
+F 7 8 D
+F 1 6 R
+F 2 6 R
+F 3 6 R
+F 4 6 R
+F 5 6 R
+F 6 6 D
+F 7 7 D
+F 7 6 D
+F 7 5 D
+F 7 4 D
+F 7 3 D
+F 12 6 L
+F 11 6 L
+F 10 6 L
+F 9 6 L
+F 8 6 L
+F 6 6 D
+F 6 5 D
+F 6 4 D
+F 6 3 D
+M 12 1 L
+M 11 1 L
+M 10 1 L
+M 9 1 L

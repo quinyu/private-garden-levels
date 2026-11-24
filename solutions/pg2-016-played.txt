@@ -1,0 +1,24 @@
+# level pg2-016, board ca8c1c5410fd2e98
+# 21 moves, an alternative to pg2-016-solver.txt (20): the best before the refining night after pg2-139, played in the game by the user.
+# 21 moves, not proven: --relocate (the default search 34); nothing shorter in a 40-million --improve round; A* (30 million positions) nothing. The gay tiles meet at (4,4)-(5,4), the dark-haired pair falls in, three pairs stand round it and the male steps up onto (4,4). Checked rules only.
+F 4 4 U
+H 3 3 U
+H 3 4 R
+H 5 3 U
+K 3 5 D
+K 3 4 R
+K 5 5 D
+G 2 6 D
+G 2 5 R
+G 3 5 D
+G 3 4 R
+G 4 4 R
+N 6 6 U
+N 6 7 L
+N 5 7 L
+N 4 7 L
+N 3 7 D
+N 3 6 D
+N 3 5 D
+M 4 2 U
+M 4 3 U

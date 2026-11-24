@@ -1,0 +1,25 @@
+# level pg2-013, board 5c45d31e57d933f3
+# 23 moves, not proven: built goal by goal (--ending endings/pg2-013-hand.txt) towards a hand-written ending, the shortest of the variants of it built (pg2-013's session; an earlier one 26): the gay tile at (8,4) goes up beside the one at (9,5), leaving pits at (8,5)-(9,5); a dark-haired pair falls in; the male comes down column 9 onto it, touching four groups. The default search, --relocate and --plan nothing (--plan proposes no ending: one male must clear four groups at once); nothing shorter in a 40-million --improve round.
+H 8 4 U
+K 3 3 U
+K 2 4 R
+K 5 4 U
+K 5 5 R
+K 6 5 R
+G 3 5 R
+G 6 5 R
+G 8 5 R
+G 9 5 R
+K 2 2 U
+G 2 6 L
+G 3 7 D
+G 3 1 L
+G 2 1 U
+G 1 6 D
+G 1 4 R
+G 5 4 R
+G 6 4 R
+K 2 5 R
+K 6 5 R
+M 10 8 L
+M 9 8 D

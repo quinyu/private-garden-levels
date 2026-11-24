@@ -1,0 +1,48 @@
+# level 18, board 07fc3dc40e8f691d
+# Level 18, found by the solver (4 threads, --fallback-limit 60000000): 43 moves, not proven
+# shortest. The first male drops into the gap and the second steps onto him to reach the
+# blonde square; the brown girls then make a square in the pit it leaves, beside the first male.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+M 7 1 U
+M 6 1 R
+M 7 1 U
+C 1 5 R
+F 1 8 R
+F 12 8 L
+F 11 8 L
+F 10 8 L
+F 9 8 L
+F 1 1 U
+F 1 2 U
+F 1 5 U
+F 1 6 U
+F 1 7 U
+F 1 8 R
+F 2 8 R
+F 3 8 R
+F 4 8 R
+F 5 8 R
+F 6 8 D
+F 8 8 L
+C 12 5 U
+C 12 6 U
+C 12 7 U
+C 12 8 L
+C 11 8 L
+C 10 8 L
+C 9 8 L
+F 5 8 R
+F 7 8 D
+C 8 8 L
+F 12 1 U
+F 12 2 U
+F 12 5 U
+F 12 6 U
+F 12 7 U
+F 12 8 L
+F 11 8 L
+F 10 8 L
+F 9 8 L
+F 8 8 L
+F 6 8 D
+F 6 5 D

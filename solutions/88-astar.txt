@@ -1,0 +1,67 @@
+# level 88, board 671e7d660e417c55
+# An alternative to 88-solver.txt (50 moves, from --split --relocate): the best known before --split, 54 (level 92's session).
+# Level 88, 54 moves, not proven shortest. The level is the same turned 180 degrees and splits into two
+# halves that never touch, one per male. A* on the left half alone (the right half's girls and male
+# taken off; 30 million positions, then its fallback search) found 27; these are those 27, then the same
+# turned round for the right half. Before: 56 (the relocation search's 58 with its 28-move right half
+# used for both). The default search found 73. --improve from the 54 (40 million) and from the half's
+# 27 (27 million, memory limit) found nothing shorter. Floor under every piece, as given. Left half: a car fills
+# (6,6); the wing's ash girl waits at (5,4) and the top ash girl comes down column 6 over the car and the
+# ice to pair with her at (5,4)-(6,4); the pair glides right into (7,4)-(8,4). A car fills (6,3); the
+# pink girls pair up on it as (6,3)-(6,4), step onto the fallen ash pair and drop into (7,2)-(7,3). The
+# bottom male glides up into (8,3), beside the pinks and under the ash pair. The right half is the same
+# turned round, for the top male.
+C 5 7 R
+C 6 7 D
+F 1 4 R
+F 2 4 R
+F 3 4 R
+F 4 4 R
+F 4 8 D
+F 4 7 R
+F 5 7 R
+F 6 7 D
+F 6 6 D
+F 5 4 R
+C 5 2 R
+C 6 2 U
+J 4 1 U
+J 4 2 R
+J 5 2 R
+J 6 2 U
+J 1 5 D
+J 1 4 R
+J 2 4 R
+J 3 4 R
+J 4 4 R
+J 5 4 R
+J 6 4 R
+J 7 4 D
+M 8 1 U
+C 14 2 L
+C 13 2 U
+F 18 5 L
+F 17 5 L
+F 16 5 L
+F 15 5 L
+F 15 1 U
+F 15 2 L
+F 14 2 L
+F 13 2 U
+F 13 3 U
+F 14 5 L
+C 14 7 L
+C 13 7 D
+J 15 8 D
+J 15 7 L
+J 14 7 L
+J 13 7 D
+J 18 4 U
+J 18 5 L
+J 17 5 L
+J 16 5 L
+J 15 5 L
+J 14 5 L
+J 13 5 L
+J 12 5 U
+M 11 8 D

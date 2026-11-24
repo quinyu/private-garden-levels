@@ -1,0 +1,20 @@
+# level pg2-054, board 182bf0aaeab2811f
+# 18 moves, not proven: the default search (first 34 after 322,765 positions, tidied 31; 14,148,046 in all) and --relocate (first 20 after 425,813; 12,199,394) these moves; --carry and --carry --relocate, in both modes, another 18 each (the same ending, the pairs placed otherwise); --plan nothing; nothing shorter in a 40-million --improve round (40,000,005 positions), A* nothing in 30 million. Checked rules only (a male through a portal, pg2-010; onto a fallen pair, pg2-013; ice balls filling pits; shattered ice breaking). The two ice balls, stopped by the left pair at (2,6), fill (5,7) and (8,7) with ice; the left pair glides along row 7 into the pits (11,7)-(12,7); the right girls make an upright pair at (16,6)-(16,7), which glides left onto the fallen pair and on to (11,6)-(11,7); the male goes over the shattered ice to (1,2) and down into the portal (1,1), out of (12,8) still going down, onto the fallen pair at (12,7).
+G 1 7 D
+G 1 6 R
+G 17 8 D
+G 17 7 L
+I 2 9 D
+I 2 7 R
+I 2 10 D
+I 2 7 R
+G 2 6 U
+G 2 7 R
+G 3 7 R
+G 16 4 U
+G 16 5 U
+G 16 7 L
+G 12 7 L
+M 3 1 U
+M 3 2 L
+M 1 2 D

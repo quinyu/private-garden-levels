@@ -1,0 +1,24 @@
+# level pg2-021, board 6204e72ff6fde74c
+# 22 moves, proven shortest by A* within the default search (242,831 positions, 20 s); --relocate and --plan the same. Checked rules only (cars and the male through the portals; the male takes both gay tiles and the square at once).
+M 1 8 D
+M 1 7 D
+M 1 6 R
+M 2 6 D
+M 2 5 D
+M 2 4 D
+C 1 5 D
+C 1 4 R
+C 2 4 R
+C 3 4 D
+C 3 3 D
+C 3 2 L
+C 4 1 U
+C 4 2 L
+C 3 2 L
+M 2 3 R
+M 3 3 D
+M 3 2 L
+M 9 8 D
+M 9 6 D
+M 9 5 D
+M 9 4 R

@@ -1,0 +1,21 @@
+# level pg2-028, board df905e7208670c97
+# 19 moves, not proven: the default search (first 23; 18,813,196 positions), --relocate (first 22) and --relax the same moves; nothing shorter in a 40-million --improve round; A* 30 million nothing; --plan nothing. Checked rules only (a male through the portals).
+M 3 7 L
+M 2 7 L
+K 2 5 U
+K 2 6 R
+K 3 6 U
+M 1 7 D
+K 5 7 L
+H 6 7 R
+M 6 5 U
+M 6 6 U
+M 6 7 U
+M 6 8 U
+M 6 9 L
+M 1 9 D
+M 12 5 L
+M 11 5 D
+G 16 1 L
+K 3 7 L
+M 12 4 U

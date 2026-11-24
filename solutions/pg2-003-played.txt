@@ -1,0 +1,18 @@
+# level pg2-003, board fc644c7debe4e196
+# 16 moves, played in the game by the user: an alternative to pg2-003-solver.txt (12), found before the rule for a portal with its exit taken was known; proven shortest then without the exit-portal guess (GARDEN_STRICT=p, 962,232 positions). Tidied and regrouped.
+G 7 6 L
+G 10 3 R
+B 16 1 U
+B 16 3 L
+G 14 6 D
+G 13 3 U
+G 13 5 R
+B 1 8 D
+B 1 6 R
+B 14 3 U
+B 14 4 D
+G 14 5 U
+G 3 3 U
+G 3 4 U
+G 14 5 R
+M 10 6 R

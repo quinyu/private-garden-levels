@@ -1,0 +1,25 @@
+# level 148, board f88427e8a9baa221
+# 23 moves, not proven shortest: the default search (first solution 40 after 1,581,527 positions; 26,605,684 in all), --relocate, and the default search and --relax with the one-male tests all end at these same moves; --plan 23 too; nothing shorter in a 40-million --improve round; A* nothing in 30 million. Regrouped.
+F 3 10 R
+F 13 10 D
+F 13 1 U
+K 3 1 R
+K 14 10 L
+C 12 6 D
+F 2 1 R
+F 11 1 U
+F 15 10 L
+C 12 1 U
+C 12 9 R
+C 14 9 U
+K 14 1 L
+F 11 10 D
+F 11 1 R
+K 2 10 R
+K 12 10 D
+K 12 3 L
+K 1 1 R
+K 11 1 U
+M 5 6 U
+M 5 10 R
+M 13 10 D

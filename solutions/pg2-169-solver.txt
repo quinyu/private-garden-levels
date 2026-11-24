@@ -1,0 +1,20 @@
+# level pg2-169, board 64b4de3a9d7e9dac
+# 18 moves, not proven: --refine from the searches' 19 (the default search: first 23 after 329,159 positions, its rounds 19; 10,919,636 in all, 118 s): 18 after 453 s, then its 15-minute cap; 45 minutes more from the 18 nothing shorter (89,989,974 positions, 1,094 s). --relocate, --relax and the four --carry searches the same 19; --plan nothing; GARDEN_WAY doesn't apply. A 40-million --improve round from the 19 found another 18 (its next round stopped at its 4 GB cap; --refine from that 18 nothing shorter in 15 minutes; a 40-million --improve round from it nothing shorter, 40,000,004 positions); A* 30 million nothing (30,000,047 positions). No unchecked rule (--play, C and Python the same).
+G 1 3 D
+F 1 4 D
+F 1 3 R
+F 7 3 D
+F 16 3 L
+M 8 4 L
+G 16 4 U
+G 16 5 L
+C 9 4 L
+C 8 3 U
+C 9 3 L
+F 7 1 U
+F 9 6 D
+F 9 3 L
+G 1 2 R
+G 9 2 U
+M 1 4 U
+M 1 5 R

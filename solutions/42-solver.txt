@@ -1,0 +1,26 @@
+# level 42, board 96f9dbb80f64b3d3
+# Level 42, 20 moves (not proven shortest: nothing shorter in 40 million positions with --improve, --threads 4);
+# --plan built it first, 20 moves after 21,152 positions. Ground under every piece, as given. The tanned girls
+# pair up and fall one pair after the other into (5,4)-(6,5) as a square; the dark-haired pairs make a square
+# standing half on it at (5,5)-(6,6); the male steps up onto the fallen square under it. Cars and ice unused.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 5 7 D
+N 5 6 D
+N 2 7 D
+N 1 6 R
+N 2 6 R
+N 3 6 R
+N 4 6 D
+N 4 5 R
+N 5 5 D
+K 5 8 D
+K 5 7 D
+K 5 6 D
+K 2 8 D
+K 1 7 D
+K 1 6 R
+K 2 6 R
+K 3 6 R
+K 4 6 R
+M 6 2 U
+M 6 3 U

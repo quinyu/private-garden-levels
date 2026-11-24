@@ -1,0 +1,20 @@
+# level pg2-176, board 1375e66a13fc171a
+# 18 moves, not proven: the default search (first 35 after 342,033 positions, tidied 33, its rounds 18; 13,754,708 in all, 88 s); --relocate, --plan and --relax the same moves; GARDEN_WAY=1 20 (both), the dynamic --carry 24 (both), --carry 27 (both). --refine from it and from the 20 (another 18), a 40-million --improve round and A* 30 million nothing shorter. No unchecked rule (--play, C and Python the same).
+K 3 5 D
+K 10 5 D
+K 10 4 L
+G 3 7 D
+G 10 7 D
+G 3 3 U
+C 6 2 L
+G 3 4 D
+G 3 2 L
+C 7 7 R
+K 6 7 R
+K 7 2 L
+K 3 2 U
+K 10 7 D
+C 8 2 U
+G 2 2 R
+G 9 2 U
+M 7 4 R

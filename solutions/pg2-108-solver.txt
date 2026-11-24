@@ -1,0 +1,18 @@
+# level pg2-108, board 386a329bdc141b2b
+# 16 moves, not proven: the default search (first 20 after 313,596 positions; 10,351,195 in all, 32 s); --relocate, --carry and --carry --relocate (both modes) and GARDEN_WAY=1 with both the same moves, --relax another 16, --plan nothing; a 40-million --improve round nothing shorter (40,000,928 positions), A* 30 million nothing (12 moves deep). No unchecked rule (--play, C and Python the same).
+G 5 1 R
+G 6 1 R
+G 7 1 L
+G 6 1 L
+K 2 9 R
+K 3 9 R
+K 4 9 L
+K 3 9 L
+K 6 9 R
+K 7 9 D
+K 7 8 L
+G 1 1 R
+G 2 1 R
+G 3 1 R
+G 4 1 R
+G 5 1 U

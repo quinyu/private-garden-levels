@@ -1,0 +1,9 @@
+# level pg2-091, board f3f279a5923c26c5
+# 7 moves, proven shortest by A* within the default search (5,370 positions, 2 s); every search (--relocate, --carry and --carry --relocate in both modes, --plan, --relax) the same length, all but --relax the same moves. Checked rules only (ice balls rolling until stopped; cracked ice wearing and breaking; an ice ball filling a pit as ice; the male stopping on touching girls). The hint's route: the leftmost ball (8,3) goes round by the upper half to the left wall at (1,4), where it stops the male on the centre line at (1,3); the ball (10,3) plugs the hole at (9,3); the ball (11,3) is not used. The ball (9,3) is the stopper at (9,5) that makes the hole; moves 5 and 6 can be played in either order (the hint's: the male first).
+I 9 3 U
+I 8 3 R
+I 9 3 U
+I 9 4 L
+I 10 3 L
+M 1 2 U
+M 1 3 R

@@ -1,0 +1,14 @@
+# level 118, board 1ab9cfd9a52e443b
+# 12 moves, proven shortest by A* within the default search (33,695 positions); --relocate and A* alone the same. --plan found nothing (it never proposes this ending). Regrouped.
+M 10 5 R
+C 9 4 U
+C 9 5 R
+C 10 5 R
+J 16 5 L
+C 12 5 L
+C 10 5 L
+C 9 5 L
+J 3 5 R
+J 7 5 R
+J 9 5 R
+J 10 5 R

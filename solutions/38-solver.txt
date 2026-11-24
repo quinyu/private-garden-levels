@@ -1,0 +1,28 @@
+# level 38, board bce94adb2b3f8199
+# Level 38, 22 moves, proven shortest (the shortening rounds of --plan, --relocate and the default search all
+# ran out at 22; --plan built it first, 22 moves after 3,532 positions). Ground under every piece, as given.
+# Each pair rides its own ice band and falls into the pit column at column 7, at (7,6)-(7,7) and (7,3)-(7,4);
+# a car fills (4,7) so the male can walk down, and he drops into the pit at (7,5) between them.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 15 8 D
+K 15 7 L
+K 14 7 L
+K 9 7 L
+K 15 2 U
+K 15 3 L
+K 14 3 L
+K 9 3 U
+K 9 4 L
+M 2 8 L
+C 2 7 U
+C 2 8 R
+C 3 8 R
+C 4 8 D
+M 1 8 R
+M 2 8 R
+M 3 8 R
+M 4 8 D
+M 4 7 D
+M 4 6 D
+M 4 5 R
+M 5 5 R

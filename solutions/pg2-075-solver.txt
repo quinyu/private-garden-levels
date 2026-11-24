@@ -1,0 +1,11 @@
+# level pg2-075, board caafd997d1ce09c5
+# 9 moves, proven shortest by A* within the default search (20,025 positions, 2 s); every other search the same moves (--relocate, --carry and --carry --relocate in both modes, --plan; one girl colour, no --relax). Checked rules only (cracked ice wearing and breaking; a pair half over a pit gliding on; a car in a pit as ground). Exactly the hint: the Biwas make two lying pairs; the first slides left onto the car fallen in (3,4), half over the pit (4,4); the second drops into (3,5)-(4,5) above the car; the first steps up onto it, right and back, which breaks the cracked ice (5,5) into a pit; it drops into (3,6)-(4,6), a square; the male glides down the ice column into the pit (5,5) instead of past it, beside the square.
+G 8 5 D
+G 8 4 L
+G 9 6 D
+G 9 5 L
+G 3 4 U
+G 3 5 R
+G 4 5 L
+G 3 5 U
+M 5 10 D

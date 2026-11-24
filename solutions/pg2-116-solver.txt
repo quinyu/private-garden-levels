@@ -1,0 +1,17 @@
+# level pg2-116, board 112f535abc524958
+# 15 moves, proven shortest by A* within the default search (55,834 positions, 2 s); --relocate, --plan, --relax, --carry and --carry --relocate in both modes the same moves; GARDEN_WAY doesn't apply. No unchecked rule (--play, C and Python the same).
+G 1 6 R
+G 13 6 U
+G 13 8 L
+G 1 8 D
+G 1 6 R
+K 1 4 U
+G 1 2 R
+G 13 2 U
+G 13 4 L
+G 1 10 D
+G 1 7 D
+G 13 6 L
+G 1 5 U
+M 13 10 L
+M 1 10 D

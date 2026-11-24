@@ -1,0 +1,26 @@
+# level 110, board 35ae83c7b35b24f7
+# 24 moves, proven shortest: --improve from the 25 all four searches end at (110-search.txt) found it (40-million rounds, 16,529,049 positions); a 150-million round then searched every position below 24 (46,547,117) and found nothing shorter. Tidied and regrouped.
+M 1 10 R
+M 7 10 D
+C 9 8 L
+C 7 8 D
+C 10 8 L
+C 9 8 L
+C 7 8 D
+J 17 8 U
+J 17 9 L
+J 1 1 U
+J 1 10 R
+J 7 10 D
+J 7 8 R
+J 9 8 R
+J 15 6 R
+J 18 6 D
+J 18 2 L
+J 11 2 U
+J 10 8 R
+C 7 7 U
+C 7 6 U
+M 7 5 U
+M 7 8 R
+M 9 8 R

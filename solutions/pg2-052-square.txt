@@ -1,0 +1,22 @@
+# level pg2-052, board 634f13e9a3e82610
+# 20 moves, an alternative to pg2-052-solver.txt (19, two pairs): the shortest ending with the four Biwas cleared as one 2x2 square (the user's excursion). Found with a scratch build of c/garden.c that refuses any move clearing girls unless they are one square, the game's rules otherwise unchanged: A* proves 20 the fewest for a square (13,831,172 positions); --relocate (first 21 after 649,467 positions; 10,756,037 in all) gives these moves, the default search another 20; played by the normal engine in C and Python. Moves 1-12 are the 19's; the right pair stops on O7-P7 above the left pair's P6, which steps left under it into a square O6-P7; the male comes up column 16 to (16,5), under the square. Not the hint's place (M5-N6): the fewest found there is pg2-052-hint.txt.
+G 2 4 U
+G 2 8 R
+C 3 1 U
+C 3 2 U
+C 3 3 U
+C 3 4 U
+G 3 8 R
+G 4 8 D
+G 5 3 U
+G 4 4 L
+G 3 4 U
+G 3 6 R
+G 13 10 D
+G 13 9 R
+G 14 9 R
+G 15 9 D
+G 16 6 L
+M 16 2 U
+M 16 3 U
+M 16 4 U

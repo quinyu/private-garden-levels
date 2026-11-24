@@ -1,0 +1,28 @@
+# level 76, board 6445b9f08ccebfd3
+# An alternative to 76-solver.txt (22 moves, by the default search): 22 moves by hand, planned before
+# solving. The top car fills (4,8); the single walks over it to (4,7) and falls into (4,6); the top pair
+# steps down onto the car at (3,8)-(4,8); the bottom pair climbs the ice chute, stops on the fallen single,
+# and steps up to (3,7)-(4,7), making a square (3,7)-(4,8). The bottom car fills (4,4); the male walks onto
+# it and glides up over the ice at (4,5) onto the fallen single, touching her and the square above.
+C 2 10 D
+C 2 9 R
+C 3 9 R
+C 4 9 D
+F 5 10 D
+F 5 9 L
+F 4 9 D
+F 4 8 D
+F 4 7 D
+F 3 10 D
+F 3 9 D
+F 3 2 U
+F 3 4 U
+F 3 6 U
+C 5 1 U
+C 5 2 U
+C 5 4 L
+M 2 1 U
+M 2 2 U
+M 2 4 R
+M 3 4 R
+M 4 4 U

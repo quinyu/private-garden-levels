@@ -1,0 +1,26 @@
+# level 140, board 6f3b1a3c77b48677
+# 24 moves, not proven shortest: --improve with 40-million rounds from the searches' 25 (140-search.txt): the first round found 24, the second (40,000,003 positions) nothing shorter; 62,783,954 positions in all, 701 s. The default search, --relocate and --plan (with and without the finish shapes) all ended at the 25; A* nothing in 30 million positions. Regrouped.
+F 11 7 L
+F 9 5 U
+F 8 7 R
+F 6 2 U
+F 8 4 L
+F 6 5 R
+F 8 5 U
+F 8 6 R
+J 9 9 D
+J 9 7 L
+J 6 6 D
+J 3 3 D
+J 3 1 R
+J 4 1 R
+J 5 1 U
+J 5 2 U
+J 5 5 R
+J 7 5 U
+M 14 10 L
+M 13 10 L
+M 11 10 L
+M 10 10 D
+M 10 9 L
+M 9 9 D

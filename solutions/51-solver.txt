@@ -1,0 +1,24 @@
+# level 51, board acbb3cf20cede285
+# Level 51, 17 moves, proven shortest (--relocate's shortening rounds run out: 2,807,678 positions,
+# mirror images taken as one, as the level starts left-right symmetric). Ground under every piece but
+# the male, who is on ice, as given. On each side the car fills the pit between the two patches of
+# ground, the two girls meet on it as a pair, and the pair slides right (left) into the middle pits;
+# the male, whose every move ends in a pit, glides down into (5,5) between the two fallen pairs last.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 2 6 D
+C 2 5 L
+N 1 7 D
+N 1 6 D
+N 1 2 U
+N 1 3 U
+N 1 5 R
+N 2 5 R
+C 8 6 D
+C 8 5 R
+N 9 7 D
+N 9 6 D
+N 9 2 U
+N 9 3 U
+N 9 5 L
+N 8 5 L
+M 5 9 D

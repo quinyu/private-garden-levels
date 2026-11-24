@@ -1,0 +1,24 @@
+ground
+##########
+#OOOOO...#
+#OOOOO...#
+#OOOOO66_#
+#_66OOOOO#
+#...OOOOO#
+#...OOOOO#
+##########
+
+pieces
+..........
+.......a..
+......b...
+..........
+.p........
+.m.c......
+..d.......
+..........
+
+legend
+a b c d  girl3
+m  male
+p  ball

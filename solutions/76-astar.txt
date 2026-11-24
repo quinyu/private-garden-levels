@@ -1,0 +1,29 @@
+# level 76, board 6445b9f08ccebfd3
+# An alternative to 76-solver.txt (22 moves, by the default search): the 22 that A* found when it proved
+# 22 shortest (--limit 30000000, 20,545,705 positions). The bottom pair climbs the ice chute and drops into
+# the pit row at (3,8)-(4,8); the bottom car fills (3,5); the top car drives over the fallen pair and fills
+# (3,7); the single steps onto the fallen pair at (4,8) and the top pair down to (3,9)-(4,9). The male
+# climbs over both cars and the ice at (3,6) onto the fallen pair at (3,8): under him the fallen pair,
+# above him the top pair, beside him the single.
+F 3 2 U
+F 3 4 U
+F 3 7 U
+C 5 1 U
+C 5 2 L
+C 4 2 L
+C 3 2 U
+C 3 4 U
+C 2 10 D
+C 2 9 R
+C 3 9 D
+C 3 8 D
+F 5 10 D
+F 5 9 L
+F 4 9 D
+F 3 10 D
+M 2 1 U
+M 2 2 U
+M 2 4 R
+M 3 4 U
+M 3 5 U
+M 3 7 U

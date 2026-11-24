@@ -1,0 +1,20 @@
+# level pg2-160, board 9704380c4639e4b9
+# 18 moves, proven shortest by a 40-million --improve round from it (38,344,374 positions, 185 s: nothing below 18); six searches the same 18 in two orders: this one the default search's (first 18 after 304,554 positions; 10,304,556 in all, 45 s), --carry's and the dynamic --carry's; --relocate and both --carry --relocate (19,497,686 positions, about 81 s each) the left Biwas later; --plan nothing (10,996,870 positions); --refine from it nothing shorter (30,967,802 positions, 143 s); A* 30 million nothing (30,000,015 positions, 149 s). No unchecked rule (--play, C and Python the same).
+G 1 7 D
+G 10 7 D
+G 10 4 L
+G 8 4 D
+G 8 3 R
+M 5 4 L
+M 4 4 L
+M 3 4 U
+G 10 1 U
+G 9 3 L
+G 8 3 U
+G 8 4 L
+G 7 4 L
+G 6 4 L
+G 5 4 L
+G 1 1 U
+G 1 4 R
+M 3 5 D

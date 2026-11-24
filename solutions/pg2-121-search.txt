@@ -1,0 +1,14 @@
+# level pg2-121, board a5a58bf49c60db3d
+# 12 moves, not proven: an alternative to pg2-121-solver.txt (the same length), the default search's (first 18 after 448,326 positions), also --relocate, --relax and --carry in both modes; it ends with the male down to (5,3) between a Kurumi square and a Biwa square at (4,1)-(5,2).
+G 5 7 L
+K 10 3 L
+K 1 2 R
+K 5 2 R
+K 6 2 U
+G 1 7 D
+G 1 2 R
+G 7 7 R
+G 10 7 L
+G 1 7 D
+G 1 2 R
+M 5 4 D

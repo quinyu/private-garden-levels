@@ -1,0 +1,12 @@
+# level pg2-065, board 6d712d5c453a84e6
+# 10 moves, an alternative to pg2-065-solver.txt (9, proven shortest) that follows the hint's order, by hand: the ice balls drop down into (3,5) and up into (10,4); the left Biwa walks up to (3,6) beside the left portal; the right Biwa walks down to (10,3) and goes right into the portal (11,3), out onto the portal (2,6) (the cell beyond taken), a lying pair (2,6)-(3,6), which drops into the pits (4,6)-(5,6); the male steps left onto it.
+I 3 6 D
+I 10 3 U
+G 3 3 U
+G 3 4 U
+G 10 6 D
+G 10 5 D
+G 10 3 R
+G 2 6 R
+G 3 6 R
+M 6 6 L

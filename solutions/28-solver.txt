@@ -1,0 +1,21 @@
+# level 28, board f777c992aff7aacf
+# Level 28, 16 moves, proven shortest by A* (4,237 positions). The girls, in separate pockets on the
+# right, meet down in the pit channel: a car bridges the pit for the upper one, who drops in above
+# the lower one's pit; the male glides down the ice and drops in beside their pair.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 6 1 U
+K 6 2 U
+K 6 3 L
+C 2 2 U
+C 2 3 U
+C 2 4 U
+C 2 5 R
+C 3 5 R
+K 6 7 D
+K 6 6 D
+K 6 5 L
+K 5 5 D
+M 1 8 R
+M 2 8 R
+M 3 8 R
+M 4 8 D

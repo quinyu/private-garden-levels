@@ -1,0 +1,20 @@
+# level pg2-055, board 5d7cd943d2b6d185
+# 18 moves, proven shortest by a 40-million --improve round (34,019,096 positions; A* alone nothing in 30 million): the default search (first 31 after 380,199 positions, tidied 26; 10,504,822 in all) and --relocate (first 20 after 664,393; 10,786,914) these moves; --carry has nothing to carry (every piece starts in the area of most girls) and gives the same in both modes; --plan nothing. Checked rules only (an ice ball wearing and breaking damaged ground, pg2-007 and pg2-010; a gay tile on a fallen girl, pg2-018; a girl on a fallen gay tile, pg2-024). The hint's clear in the leftmost pits: the Biwa (1,3) walks into the pit (4,2); the ice ball rolls along row 2 into the pit (8,2) (ice now), breaking (6,2); the gay tile (3,1) crosses the fallen Biwa into (6,2), breaking (5,2); the Biwa (17,5) comes down and glides along row 2 onto the fallen gay tile, steps into (5,2) beside the first, a fallen pair; the male walks into the pit (4,3) above them. The portals are not used.
+G 1 3 D
+G 1 2 R
+G 2 2 R
+G 3 2 R
+M 2 4 D
+I 2 1 U
+I 2 2 R
+H 3 1 U
+H 3 2 R
+H 4 2 R
+G 17 5 D
+G 17 4 D
+G 17 3 D
+G 17 2 L
+G 16 2 L
+G 6 2 L
+M 2 3 R
+M 3 3 R

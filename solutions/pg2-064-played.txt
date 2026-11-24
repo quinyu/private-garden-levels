@@ -1,0 +1,35 @@
+# level pg2-064, board 2930be748b3bfc4b
+# 32 moves, an alternative to pg2-064-solver.txt (28): the best before the refining night after pg2-139, played in the game by the user.
+# 32 moves, not proven: --relocate (first 34 after 679,301 positions, tidied 32; 10,679,320 in all); nothing shorter in a 40-million --improve round (40,000,018 positions); A* nothing in 30 million (30,000,038). --carry and --carry --relocate 33, the default search, both GARDEN_CARRY_MODE=dynamic runs and --plan nothing, --relax stopped after 35 minutes without a solution (its copies without the blonde and the tanned girls solved, their moves leading nowhere on the whole level). Checked rules only. The girls drop into the pits up top as groups: Mikans (6,6)-(6,7), Kurumis (7,7)-(8,7), Karins (3,7)-(4,7), Biwas (2,6)-(2,7), Karin (4,6), Mikan (8,6). The ice ball (6,1) rolls right through the portal (7,1) and out onto the portal (3,1) (the cell beyond taken by the other ice ball, which never moves), then up column 3 over the cracked ice (it wears) and fills (3,5) with ice; the male (8,1) comes through the portals onto (3,1) the same way, glides up column 3 (the cracked ice breaking behind him) and drops into (3,6), touching three groups; the other male goes through to (8,1); a car comes through onto (7,1) and fills (7,5) from below, the other car fills (7,2); the male walks up column 7 and drops into (7,6), touching the last three.
+F 7 7 L
+F 5 6 R
+K 7 6 U
+K 7 7 R
+N 5 7 L
+K 3 7 R
+K 4 7 R
+K 6 7 R
+G 9 7 L
+G 8 7 L
+G 7 7 L
+G 6 7 L
+G 4 7 L
+G 1 6 R
+N 1 7 R
+N 2 7 R
+N 3 6 R
+I 6 1 R
+I 3 1 U
+M 8 1 L
+M 3 1 U
+M 2 1 R
+F 9 6 L
+C 2 2 D
+C 2 1 R
+C 7 1 U
+C 8 2 L
+C 6 2 R
+M 8 1 U
+M 8 2 L
+M 7 2 U
+M 7 5 U

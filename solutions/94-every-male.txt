@@ -1,0 +1,47 @@
+# level 94, board 7b3ffaa644e8668a
+# An alternative to 94-solver.txt's 30: this 36 clears every male, which the solver required until level 108's session (the game ends a level with the last girl). Its old header follows.
+# Level 94, 36 moves, not proven shortest. All four searches (the default search, --relocate, A* with 30
+# million positions and its fallback, --split) end at this same 36; the level is the same mirrored left to
+# right, the solution isn't. Nothing shorter in a 100-million round (--improve, 5.7 GB); A* got only 16 moves
+# deep in 30 million positions (its estimate at the start is 6). Floor under every piece that can move (the user). The top girls pair up: the
+# left pair (2,9)-(3,9), the right one glides down and left to (4,8)-(4,9). Male 1 comes up column 5 onto
+# the ice at (5,8) beside it: both gone, leaving pits at (4,8) and (5,8). Male 2 comes up column 4 and
+# drops into (4,8), beside the fallen girl at (3,8). The left pair, now over the empty pit at (3,8), glides
+# down into (2,6)-(3,6); male 3 drops into (3,5) under it. Male 4 walks up column 5 and drops into (5,8),
+# beside the fallen girl at (6,8).
+F 1 10 D
+F 1 9 R
+F 8 10 L
+F 7 10 D
+F 7 9 L
+F 6 9 L
+M 7 2 L
+M 6 2 U
+M 6 3 U
+M 6 4 L
+M 5 4 U
+M 5 5 U
+M 5 7 U
+M 2 2 R
+M 3 2 U
+M 3 3 U
+M 3 4 R
+M 4 4 U
+M 4 5 U
+M 4 7 U
+F 2 9 D
+M 1 1 U
+M 1 2 R
+M 2 2 R
+M 3 2 U
+M 3 3 U
+M 3 4 U
+M 8 1 L
+M 7 1 L
+M 6 1 L
+M 5 1 U
+M 5 2 U
+M 5 3 U
+M 5 4 U
+M 5 5 U
+M 5 7 U

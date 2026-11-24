@@ -1,0 +1,41 @@
+# level 97, board a5eea1a82fd368a1
+# Level 97, 37 moves, proven shortest by A* (14,560 positions, under a second); every search ends there.
+# With A* off, --plan builds its third round's ending 5 in 42 moves and shortens it to the same 37,
+# with or without the finish shapes.
+C 1 7 U
+C 14 8 U
+C 5 1 R
+M 7 1 L
+J 1 9 D
+J 1 8 U
+J 1 9 U
+J 1 10 R
+J 2 10 R
+J 3 10 R
+J 4 10 R
+J 5 10 R
+J 6 10 R
+J 7 10 D
+J 7 9 D
+J 7 8 D
+J 7 7 D
+J 7 6 D
+J 7 5 D
+J 7 4 D
+J 7 3 D
+J 14 10 D
+J 13 9 U
+J 13 10 L
+J 12 10 L
+J 11 10 L
+J 10 10 L
+J 9 10 L
+J 8 10 L
+J 7 10 D
+J 7 9 D
+J 7 8 D
+J 7 7 D
+J 7 6 D
+J 7 5 D
+J 7 4 D
+M 6 1 R

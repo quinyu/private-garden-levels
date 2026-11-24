@@ -1,0 +1,23 @@
+# level pg2-107, board 036dbef6960f9811
+# 21 moves, not proven: --refine (the refining night after pg2-139, 15 minutes a level) from the 23 (pg2-107-played.txt, played): from move 2 the relocation search 21; its pass 2 nothing shorter (139,703,010 positions, 783 s in all); a 40-million --improve round from it nothing shorter (40,000,001 positions). Replaces the 23. No unchecked rule (--play, C and Python the same).
+K 9 9 L
+K 1 9 D
+G 9 7 D
+G 9 4 U
+G 9 9 L
+K 9 1 R
+K 17 1 U
+K 17 9 L
+K 11 9 D
+G 7 5 D
+K 7 1 L
+K 1 1 U
+K 1 7 R
+G 11 5 R
+M 13 5 L
+G 1 9 D
+G 1 2 R
+G 6 2 U
+G 7 2 L
+G 6 2 L
+M 5 5 D

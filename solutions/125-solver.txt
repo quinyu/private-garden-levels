@@ -1,0 +1,18 @@
+# level 125, board 53133682fab919e1
+# 16 moves, proven shortest by A* within the default search (204,943 positions); --relocate and A* alone prove 16 too; --plan builds 16 only with the finish shapes (level 63's), nothing without them. Regrouped.
+M 1 4 R
+M 2 4 R
+M 3 4 R
+C 5 1 U
+C 6 8 D
+G 3 8 R
+G 4 8 R
+G 5 8 D
+G 5 7 R
+G 6 7 D
+G 3 1 R
+G 4 1 R
+G 5 1 U
+G 5 2 U
+G 5 6 R
+G 6 6 D

@@ -1,0 +1,8 @@
+# level pg2-014, board df1313cc0f9baf24
+# 6 moves, proven shortest by A* within the default search (3,700 positions, 2 s); --relocate and --plan the same moves.
+G 2 5 U
+G 4 7 L
+G 2 8 D
+G 2 2 R
+G 3 3 R
+M 5 5 D

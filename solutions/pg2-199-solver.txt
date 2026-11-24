@@ -1,0 +1,22 @@
+# level pg2-199, board 106e7a5286be3a04
+# 20 moves, proven shortest by the default search's rounds (641,329 positions, 2 s); --carry and GARDEN_WAY=1 the same moves, the other six searches other orders of the girls' moves, each proven. No unchecked rule (--play, C and Python the same).
+G 1 3 U
+G 2 2 U
+G 2 3 R
+G 3 3 U
+G 3 4 R
+G 1 4 R
+G 2 4 R
+G 3 4 R
+G 4 4 U
+M 12 3 U
+M 12 4 U
+M 12 5 R
+B 11 5 R
+B 12 5 D
+M 13 5 L
+M 12 5 D
+M 12 4 D
+M 12 3 D
+M 12 2 D
+M 12 1 L

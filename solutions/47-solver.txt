@@ -1,0 +1,11 @@
+# level 47, board 1d9fbb987f72a82f
+# Level 47, 6 moves, proven shortest by A* (81,336 positions; --relocate finds this one and proves it
+# too, 48,697). Every piece on ice, as given. From the middle, the male sits beside both girls' only
+# glides, so whichever girl moves first reaches him alone. He gets out of their way first, the
+# cars set up the stops, the girls make a pair, and he glides up into it. Nothing falls into the pits.
+M 4 5 D
+C 4 8 D
+C 4 3 R
+K 5 8 D
+K 1 4 R
+M 4 2 U

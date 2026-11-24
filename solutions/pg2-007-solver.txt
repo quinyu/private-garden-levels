@@ -1,0 +1,20 @@
+# level pg2-007, board 2831317068a580eb
+# 18 moves, proven shortest: the default search's rounds found it (first 26), and an --improve round searched every position below 18 (12,303,655) and found nothing shorter. Tidied and regrouped.
+G 1 2 R
+G 3 2 U
+M 2 4 D
+G 1 5 R
+G 3 5 D
+B 9 3 D
+B 9 2 L
+G 10 5 D
+G 10 4 L
+G 9 4 D
+G 9 3 D
+G 9 2 L
+G 8 2 L
+G 7 2 L
+G 6 2 L
+G 5 2 L
+G 4 2 L
+M 2 3 R

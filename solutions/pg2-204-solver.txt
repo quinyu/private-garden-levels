@@ -1,0 +1,26 @@
+# level pg2-204, board 0e2b3661f22a5b4d
+# 24 moves, proven shortest by the default search's rounds (1,413,110 positions, 7 s; every search 24, each proven, two move sets: the boy round by N2-J2 or by N6-J6)
+G 7 6 L
+G 6 7 D
+G 7 2 L
+G 6 2 U
+G 6 4 U
+G 6 5 L
+I 14 6 L
+H 14 2 L
+H 12 2 L
+H 10 2 U
+H 10 4 U
+I 10 6 R
+I 14 6 D
+I 14 2 L
+I 10 2 U
+I 10 4 R
+H 10 5 D
+H 10 4 R
+M 15 4 L
+M 14 4 D
+M 14 2 L
+M 12 2 L
+M 10 2 U
+M 10 4 R

@@ -1,0 +1,17 @@
+# level pg2-077, board 5b20341b6126b286
+# 15 moves, proven shortest: the default search (first 24 after 384,245 positions, tidied 21; its rounds found nothing shorter than 15, 4,615,407 positions in all, 50 s); --relocate the same moves, --carry and --carry --relocate in both modes other 15s, all proven; --plan nothing (it finds no ending: no finish on a fallen male with the square made as he is touched). Checked rules only (ice balls filling pits; a ball over and onto a fallen piece; merging first, then the merged piece reacting). As pg2-076, but the cells round the male's pit are ice, so a girl sliding in would not stop beside him: exactly the hint, an ice ball parked on top of the fallen male (7,6) stops the Biwas from (7,9) and (4,6), which make an upright pair on (6,5)-(6,6), and the one from (7,3), which waits on (7,5); then that ball rolls off into the pit (9,6), the bridge, and the Biwa from (10,6) slides over it onto the male, making the square as she lands.
+I 6 7 D
+I 6 5 R
+I 7 5 U
+I 8 7 D
+I 8 6 L
+I 6 6 L
+G 7 9 D
+G 7 7 L
+G 6 7 D
+G 4 6 R
+I 8 5 L
+I 7 5 D
+G 7 3 U
+I 7 6 R
+G 10 6 L

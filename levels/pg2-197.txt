@@ -1,0 +1,30 @@
+ground
+################    
+#O_________OOOO#    
+#O__OOOOOOO_OOO#####
+#O..OOOOOOO_OOOOOOO#
+#O..OOOOOOO_OOOO..O#
+#O..OOOOOOO_@OOO..O#
+#O..OOOOOOO@.OOO..O#
+#O..OOOOOOOO____..O#
+#OOOOOOOOOOOOOOOOOO#
+####################
+
+pieces
+....................
+....................
+....................
+....................
+................ed..
+..a.............g...
+...c............i...
+..bc............fh..
+....................
+....................
+
+legend
+a b c  girl2
+d  male
+e f  iceball
+g h  ball
+i  gay

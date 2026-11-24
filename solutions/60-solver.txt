@@ -1,0 +1,16 @@
+# level 60, board 5a7a654435f43fa3
+# Level 60, 8 moves, proven shortest by A* (5,440 positions; also on 3 threads and by IDA*; tidying finds
+# nothing to cut). Ground under every piece, as given. The cars are never used. Each corner couple makes a
+# row-8 pair, steps it half onto the floor beside the pits, and sends it straight up: below row 5 the columns
+# alternate ice and pits, so a horizontal pair straddling the two keeps one half on ice and glides up to
+# the floor of row 6. The right pair steps left to (5,6)-(6,6), and the male glides down column 4 onto the
+# ice at (4,6), between the two pairs.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 8 2 D
+N 7 1 L
+N 6 1 U
+N 6 6 L
+N 1 2 D
+N 1 1 R
+N 2 1 U
+M 4 8 D

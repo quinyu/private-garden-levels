@@ -1,0 +1,22 @@
+# level pg2-030, board c7450f4a05ac4a14
+# 19 moves, an alternative to pg2-030-solver.txt (17): the best before the overnight audit after pg2-096, played in the game by the user.
+# 19 moves, not proven: --relocate (first 26 after 1,577,062 positions; 12,191,386 in all); the default search 20; nothing shorter in a 40-million --improve round; A* 30 million nothing; --plan nothing. Checked rules only (girls through the portals, a pair over a portal as floor, a girl onto a fallen girl of her colour).
+G 12 4 U
+G 12 5 L
+G 14 2 U
+G 14 3 U
+G 14 4 U
+G 14 5 L
+G 13 5 L
+G 12 5 L
+G 1 1 R
+G 2 1 U
+G 11 1 U
+G 11 2 U
+G 11 3 U
+G 11 4 U
+G 2 2 R
+M 1 3 D
+G 2 5 D
+G 2 4 D
+M 1 2 R

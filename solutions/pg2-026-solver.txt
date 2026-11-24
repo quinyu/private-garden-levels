@@ -1,0 +1,17 @@
+# level pg2-026, board 724b2d4bfd61758a
+# 15 moves, proven shortest by the default search (2,225 positions, 3 s); --relocate and --plan the same moves. Checked rules only (ice balls rolling until a piece stops them, filling pits with ice).
+I 4 4 R
+I 7 4 U
+I 7 7 L
+I 8 4 U
+I 8 7 L
+I 2 7 U
+I 2 8 R
+I 3 7 U
+G 3 10 D
+G 3 7 R
+G 4 7 R
+G 8 7 R
+G 9 7 U
+G 9 8 R
+M 10 10 D

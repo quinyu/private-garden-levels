@@ -1,0 +1,22 @@
+# level 11, board b9c8a4d945ea4efb
+# Saved as 11-drop.txt until level 62, renamed so every level's best known solution is NN-solver.txt.
+# Approach 2: a vertical pair dropped into the pit, a horizontal pair on top of it
+C 7 6 R     # upper car steps out of the strip
+F 7 7 D
+F 7 6 D
+F 7 5 D
+F 7 4 D
+F 7 3 D     # merges with the bottom single: vertical pair
+F 7 2 L     # over the pit column: drops in
+F 5 8 D
+F 2 7 R
+F 3 7 R     # horizontal pair
+F 4 7 R
+F 5 7 R
+F 6 7 D
+F 6 6 D
+F 6 5 D
+F 6 4 D
+F 6 3 D     # half on top of the fallen pair
+M 1 1 R
+M 2 1 R     # glides onto the fallen pair: touches both at once

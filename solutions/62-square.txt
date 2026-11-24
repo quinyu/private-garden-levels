@@ -1,0 +1,18 @@
+# level 62, board 3bbb6135b4d33df0
+# Level 62, 13 moves, proven shortest: the default search with the 10-million default limit (22,405,334
+# positions, 213 s). Same climbs as 62-solver.txt, another finish: the right pair stops at (3,8)-(4,8)
+# against the left pair, the left pair steps up and glides along row 9 onto it, merging into a square at
+# (3,8)-(4,9), and the male steps down beside it.
+C 1 1 U
+N 2 2 L
+N 1 2 U
+N 1 5 U
+C 10 1 U
+N 9 2 R
+N 10 2 U
+N 10 5 U
+N 9 8 L
+N 8 8 L
+N 1 8 U
+N 1 9 R
+M 5 10 D

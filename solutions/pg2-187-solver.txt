@@ -1,0 +1,11 @@
+# level pg2-187, board 699155cbd61db1e5
+# 9 moves, proven shortest by A* within the default search (3,293 positions, under a second); --relocate, --plan, --relax, --carry, --carry --relocate and the dynamic --carry, both, the same moves, each proven; GARDEN_WAY does not apply. No unchecked rule (--play, C and Python the same).
+F 13 6 L
+F 2 3 R
+F 11 4 U
+F 11 5 U
+F 11 6 L
+F 4 6 U
+F 4 7 R
+F 9 6 U
+M 2 6 R

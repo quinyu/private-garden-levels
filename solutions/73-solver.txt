@@ -1,0 +1,21 @@
+# level 73, board 4d1261ef23698ef0
+# Level 73, 14 moves, proven shortest by A* (11,695 positions; also 3 threads and IDA*; tidying finds nothing
+# to cut). Ground under every piece, as given. The top girls make a vertical pair in column 7 (out of the car's
+# way) and bring it down past the row-5 pits, which a vertical pair crosses with one half always on ice, to
+# (7,2)-(7,3). The bottom girls make a horizontal pair and drop it into the pits (6,1)-(7,1). The male walks
+# left and glides onto the fallen pair at (7,1), touching it and the vertical pair above him.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 6 10 R
+F 7 10 D
+F 7 9 D
+F 7 8 D
+F 7 5 D
+F 7 4 D
+F 1 1 R
+F 2 1 R
+F 3 1 R
+F 4 1 R
+M 12 1 L
+M 11 1 L
+M 10 1 L
+M 9 1 L

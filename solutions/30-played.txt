@@ -1,0 +1,35 @@
+# level 30, board 58b6eacef6b9da87
+# 28 moves, an alternative to 30-solver.txt (23): the best before the overnight audit after pg2-096, played in the game by the user.
+# Level 30, 28 moves (not proven shortest). Singles fall into the pits, so the girls travel as pairs,
+# half over a pit and half on the ice cross. The tanned pairs drop into the pits beside the cross as a
+# square; the dark-haired pairs make a square standing on it; a car bridges the pit by the male, who
+# steps onto the tanned square, touching both. Floor under all the pieces, as checked in the game.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 2 2 D
+K 7 2 D
+N 8 2 L
+N 6 2 L
+N 5 2 L
+N 4 2 U
+N 1 2 R
+N 2 2 R
+N 3 2 U
+N 4 8 D
+N 4 7 R
+N 3 6 R
+K 6 1 L
+K 5 1 L
+K 4 1 U
+C 8 1 L
+C 7 1 L
+C 6 1 L
+K 2 1 U
+K 2 2 R
+K 3 2 U
+K 4 6 R
+K 3 5 R
+C 4 1 U
+C 4 8 R
+M 8 8 L
+M 7 8 L
+M 6 8 D

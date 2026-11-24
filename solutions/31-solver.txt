@@ -1,0 +1,26 @@
+# level 31, board 3a1c7b2a2275a931
+# Level 31, 19 moves, proven shortest by A* (59,796 positions). The bottom pair (car out of its way, filling
+# the pit at (5,1)) rides the lower ice up and falls into the pits at (4,4)-(4,5). The top pair parks at
+# (5,8)-(6,8) as a stopper, so the top car stops on the upper ice, slides down and fills the pit at
+# (4,6); the top pair comes down on the car and steps across onto the fallen pair; the male rides the
+# lower ice up onto the fallen pair, touching both.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 8 7 U
+K 7 8 L
+K 6 8 L
+C 7 1 L
+C 6 1 L
+K 8 2 L
+K 7 2 L
+K 6 2 L
+K 5 2 L
+K 4 2 U
+C 2 8 R
+C 3 8 R
+C 4 8 D
+K 5 8 L
+K 3 8 D
+K 3 6 D
+M 2 1 R
+M 3 1 R
+M 4 1 U

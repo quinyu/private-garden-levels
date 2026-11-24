@@ -1,0 +1,28 @@
+# level 95, board bcbf968a59aaa631
+# 25 moves, an alternative to 95-solver.txt (23): the best before the refining night after pg2-139 (the males' way measured the night after pg2-104's), played in the game by the user.
+# 25 moves, not proven: the males' way measured the night after pg2-104 (GARDEN_WAY=1 at the default limits: the default search, 17,371,453 positions, 81 s, and --relocate the same moves); a 40-million --improve round from it nothing shorter. Replaces the 26 (95-audit.txt, played; the 27 before it in 95-played.txt, played). No unchecked rule (--play, C and Python the same).
+J 7 8 R
+F 7 9 D
+J 6 9 R
+J 7 9 R
+F 6 3 U
+J 6 2 U
+J 6 3 L
+F 6 8 U
+F 6 9 R
+F 7 2 U
+F 7 3 U
+F 6 4 U
+F 6 7 U
+F 6 8 R
+J 5 3 U
+J 5 4 U
+J 5 7 R
+J 6 7 R
+J 7 7 R
+J 9 7 U
+M 12 9 U
+M 12 10 L
+M 11 10 L
+M 10 10 L
+M 9 10 D

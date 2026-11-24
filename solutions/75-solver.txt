@@ -1,0 +1,27 @@
+# level 75, board d5c921153c82784d
+# Level 75, 18 moves, proven shortest by the default search's shortening rounds (10,518,873 positions;
+# first solution 38, tidied to 32). Ground under every piece, as given (all covered cells solid ground).
+# Each side room's girls make a horizontal pair on row 4. The left pair steps half over the pit at (5,4),
+# held by the floor at (4,4). The car fills the pit at (7,5). The right pair glides left across the
+# middle ice until the left pair stops it at (6,4)-(7,4), then steps up onto the car and the pit beside
+# it, (6,5)-(7,5). The left pair glides in under it and they merge into a square (6,4)-(7,5). The male
+# never leaves his island: he steps beside the square at (7,6). My plan by hand was 19 moves (the square
+# at (4,1)-(5,2), the male crossing on the car and gliding down column 7).
+F 3 1 U
+F 3 2 R
+F 4 2 U
+F 4 3 U
+F 3 4 R
+C 7 7 D
+C 7 6 D
+F 13 1 U
+F 13 2 L
+F 12 2 U
+F 12 3 U
+F 12 4 L
+F 11 4 L
+F 6 4 U
+F 4 4 R
+M 8 8 D
+M 8 7 D
+M 8 6 L

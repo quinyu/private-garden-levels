@@ -1,0 +1,13 @@
+# level 121, board 4851495dbe93633c
+# 11 moves, proven shortest by A* within the default search (406 positions); --relocate, --plan with and without the finish shapes, and A* alone prove 11 too. Regrouped.
+M 7 6 D
+M 7 5 D
+M 7 4 L
+G 7 2 U
+G 7 3 U
+G 1 6 R
+G 2 6 R
+G 3 6 R
+G 4 6 D
+G 4 5 D
+G 4 4 R

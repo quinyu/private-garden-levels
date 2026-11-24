@@ -1,0 +1,25 @@
+# level 53, board 0ec1b5fc6d51b27e
+# Level 53, 18 moves, not proven shortest (nothing shorter within the default search's or
+# --relocate's limits, nor A* with 60 million positions; each half alone is proven 9 by A*). Ground under every piece, as given. The same trick on each half: the male
+# drops into the pit beside him, one pair waits beside it, and the other pair steps down onto the sunk
+# male, merging with the waiting one into a square that reacts with him. Tanned with the male at (1,4)
+# first, then girl1 with the male at (10,7).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 8 5 R
+M 1 4 U
+N 6 1 U
+N 5 2 L
+N 4 2 L
+N 3 2 U
+N 3 3 U
+N 3 4 L
+N 3 6 L
+N 1 6 D
+M 10 7 D
+F 5 10 D
+F 5 9 R
+F 6 9 R
+F 7 9 D
+F 7 8 D
+F 7 7 R
+F 9 7 D

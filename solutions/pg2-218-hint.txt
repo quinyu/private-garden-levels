@@ -1,0 +1,15 @@
+# level pg2-218, board 7f5a0cb6f5d7521e
+# the hint's route, 13 moves, an alternative to pg2-218-solver.txt (12): lying pairs made on the rubble, slid against the car, the car up into G8, the boy down column G between them
+K 3 3 U
+K 3 7 R
+K 4 7 D
+K 12 3 U
+K 12 7 L
+K 11 7 D
+K 3 5 R
+K 4 5 R
+K 11 5 L
+K 10 5 L
+C 7 5 U
+M 7 9 D
+M 7 8 D

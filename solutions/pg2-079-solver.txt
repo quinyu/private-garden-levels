@@ -1,0 +1,17 @@
+# level pg2-079, board 750f5a51545659b2
+# 15 moves, proven shortest: the default search (first 20 after 310,831 positions; its rounds nothing shorter than 15, 4,760,106 positions in all, 52 s); --carry and --carry --relocate the same moves, --relocate, --carry in the dynamic mode and --carry --relocate in the dynamic mode other 15s, all proven; --plan nothing (it proposes no ending). Checked rules only (balls filling pits with floor; a ball over and onto a fallen piece; merging first, then the merged piece reacting). No hint ("let's try this one without one"). pg2-077's board with stone balls on the ice cross round the fallen male (7,6) instead of ice balls on the floor corners: the ball (6,6) rolls left into the pit (5,6), making floor, and the ball (7,7) rolls down onto the male, stopped by the ball (7,5), the stopper; the Biwa from (4,6) comes over that floor to (6,6), then down to the corner (6,5); the ball (7,5) rolls down into (7,4), and the Biwa from (7,3) comes up to (7,5), a pair (6,5)-(7,5) that steps right to (7,5)-(8,5); the ball (8,6) rolls right into (9,6), and the Biwa from (10,6) comes left to (8,6); the ball on the male rolls up off him into the pit (7,8), the bridge, and the Biwa from (7,9) comes down over it onto the male, making the square (7,5)-(8,6) as she lands: all gone.
+B 6 6 L
+B 7 7 D
+G 4 6 R
+G 5 6 R
+G 6 6 D
+B 7 5 D
+G 7 3 U
+G 7 4 U
+G 6 5 R
+B 8 6 R
+G 10 6 L
+G 9 6 L
+B 7 6 U
+G 7 9 D
+G 7 8 D

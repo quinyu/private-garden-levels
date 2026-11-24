@@ -1,0 +1,13 @@
+# level 103, board eae56bd5e50cea64
+# Level 103, 9 moves, proven shortest by the default search's shortening rounds (1,138,715 positions);
+# --relocate the same. With A* off, --plan builds its second round's ending 2 in 12 moves and shortens it
+# to 9, with or without the finish shapes.
+C 6 5 U
+C 3 2 L
+C 5 4 R
+J 4 6 R
+J 6 6 D
+J 6 4 L
+J 2 1 U
+J 2 2 U
+M 1 6 D

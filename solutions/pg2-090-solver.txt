@@ -1,0 +1,17 @@
+# level pg2-090, board 7b0cafb84e843416
+# 15 moves, not proven: a 40-million --improve round from the searches' 16 (54,113,811 positions; the next 40-million round nothing shorter); A* nothing in 30 million (8 moves deep). The default search, --relocate, --carry and --carry --relocate in both modes and --relax all the same 16 (pg2-090-hint.txt), --plan nothing. Checked rules only (cracked ice wearing and breaking; girls stopping on ice by merging; pairs falling into pits; girls standing on fallen ones; the male onto a fallen square). Not the hint's route: the double four-clear at the bottom centre, a Kurumi square fallen into (8,1)-(9,2) with Biwa pairs standing on it at (8,2)-(9,2) and beside it at (9,1)-(10,1), the male sliding straight right along y = 1 onto it; the 16 is the hint's.
+G 5 4 D
+K 4 4 R
+K 5 4 D
+K 8 4 D
+K 10 4 D
+K 10 1 L
+K 8 1 U
+G 11 4 D
+G 5 1 R
+K 8 3 D
+K 5 2 R
+G 7 4 R
+G 8 4 D
+G 10 1 L
+M 1 1 R

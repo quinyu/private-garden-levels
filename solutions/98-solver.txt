@@ -1,0 +1,32 @@
+# level 98, board efd08d5a41ede7fb
+# Level 98, 28 moves, proven shortest by the default search's shortening rounds (4,184,781 positions);
+# --relocate the same moves. --plan (A* off) nothing, with or without the finish shapes: it never
+# proposes this ending (the male at (3,6) between pairs at (3,4)-(3,5) and (3,7)-(3,8)).
+C 13 8 U
+C 13 9 L
+J 13 10 D
+J 2 10 R
+C 12 9 U
+C 12 10 L
+J 13 10 L
+J 3 10 D
+J 13 8 U
+J 13 10 L
+J 3 10 D
+J 3 9 D
+C 13 3 D
+C 13 2 L
+J 13 1 U
+J 2 1 R
+C 12 2 D
+C 12 1 L
+J 13 1 L
+J 3 1 U
+J 13 3 D
+J 13 1 L
+J 3 1 U
+J 3 3 U
+J 3 4 U
+M 8 6 L
+M 7 6 L
+M 5 6 L

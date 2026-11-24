@@ -1,0 +1,15 @@
+# level pg2-208, board 13b9dad4b3e06baa
+# 13 moves, proven shortest by A* within the default search (13,737 positions); all nine searches the same moves
+F 11 8 D
+F 11 7 L
+F 10 7 L
+F 9 7 L
+F 2 4 R
+F 3 4 U
+F 3 5 U
+F 3 6 U
+F 3 7 R
+M 8 1 L
+M 7 1 U
+M 6 10 R
+M 7 10 D

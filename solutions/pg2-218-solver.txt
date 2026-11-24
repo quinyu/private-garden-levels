@@ -1,0 +1,14 @@
+# level pg2-218, board 7f5a0cb6f5d7521e
+# 12 moves, proven shortest by the default search's rounds (1,811,731 positions, 18 s); all nine searches 12, each proven, three move sets (this one also --plan's and the four --carry searches')
+K 3 3 U
+K 3 5 U
+K 3 7 U
+K 3 8 R
+K 4 8 U
+K 12 7 L
+K 12 3 U
+K 12 5 U
+K 11 7 L
+K 10 7 L
+K 4 7 U
+M 7 9 L

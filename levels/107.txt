@@ -1,0 +1,22 @@
+ground
+ ###
+##.#
+#O_#
+#_O#
+#__#
+#_##
+### 
+
+pieces
+....
+..m.
+.a..
+.b..
+.dc.
+.e..
+....
+
+legend
+a b c  girl4
+d e  car
+m  male

@@ -1,0 +1,24 @@
+# level pg2-067, board 205f975e7c2f8704
+# 22 moves, not proven: the default search (first 44 after 366,534 positions, its rounds 22; 10,426,659 in all) and --relocate (first 38 after 313,483 positions; 10,371,370 in all), the same moves; nothing shorter in a 40-million --improve round (40,000,003 positions); A* nothing in 30 million (30,000,025). --carry 30, --carry --relocate 33, GARDEN_CARRY_MODE=dynamic 37 and 35, --plan nothing; no --relax (one colour). Checked rules only. The eight ice balls make ice roads along ranks 6 and 1 (D6-E6, H6-I6, B1-C1, F1-G1); A1 glides and walks along rank 1 and pairs with J1 at I1-J1, which steps up to I2-J2 (I2 over a pit, held by the floor J2); the male steps down into the pit J3; A6 goes along rank 6 and pairs with J6 at I6-J6, which comes down over the cracked floor I5 and the male's old cell J4 and steps onto J3 on top of him and onto I3 beside the other pair: they merge into a square, which touches him: all gone. Not the hint's route: the male moves (step 14); pg2-067-hint.txt (23) keeps him still.
+I 7 6 R
+I 6 6 R
+I 3 6 R
+I 2 6 R
+I 4 1 L
+I 5 1 L
+I 8 1 L
+I 9 1 L
+G 1 1 R
+G 4 1 R
+G 5 1 R
+G 8 1 R
+G 9 1 U
+M 10 4 D
+G 1 6 R
+G 2 6 R
+G 3 6 R
+G 6 6 R
+G 7 6 R
+G 9 6 D
+G 9 5 D
+G 9 4 D

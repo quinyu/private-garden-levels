@@ -1,0 +1,24 @@
+# level pg2-063, board 8dc70dff0902b8cd
+# 22 moves, not proven: a 40-million --improve round from the default search's 23 (56,838,670 positions over its rounds, the last nothing shorter); A* nothing in 30 million (30,000,023 positions). Every search 23: the default search (first 49 after 386,183 positions, its rounds 23; 19,040,872 in all), --relocate, --carry and --carry --relocate in both modes, --plan (four different 23s). Checked rules only (an ice ball rolling over a fallen pair into the pit beyond, as balls do on pg2-002). The right ice ball fills (7,3); the right and bottom Biwas make an upright pair (7,2)-(7,3) that walks left and drops into (5,3)-(5,4); the top ice ball fills (5,6), the bottom one rolls up over the fallen pair and fills (5,5); the top Biwa comes down that ice onto the fallen pair and drops into (4,4); the left Biwa walks into (3,3); the male walks to (4,2) and steps down into the pit (4,3), touching the single above, the single on his left and the pair on his right. Not the hint's two lying pairs: pg2-063-hint.txt (23) is.
+G 9 3 U
+G 9 4 L
+I 9 5 D
+I 9 3 L
+G 7 1 U
+G 8 4 D
+G 8 3 L
+G 7 3 L
+G 6 3 L
+G 5 3 U
+I 5 8 D
+I 5 1 U
+G 7 8 L
+G 6 8 L
+G 5 8 D
+G 5 7 D
+G 5 4 L
+G 1 3 R
+G 2 3 R
+M 3 1 U
+M 3 2 R
+M 4 2 U

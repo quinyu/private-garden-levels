@@ -1,0 +1,50 @@
+# level 20, board 0d92709ebd2d40e4
+# Level 20, 40 moves, not proven shortest: --split (c/garden levels/20.txt --split), a part for each
+# male, each part 20 moves (first solutions, shortened in rounds, not proven shortest for the part);
+# the shortening rounds over the whole level found nothing shorter. The usual searches find nothing
+# in 10 million positions; the planner's 45 is 20-plan.txt. Each male takes his side's diamond as a
+# square and his side's dark-haired pair: a car fills the pit (3,2) (left; (10,2) right), the bottom
+# dark-haired girl crosses it and drops into (3,3), the top one comes down the side and drops onto
+# her as a pair (3,3)-(3,4); the diamond's girls pair up and glide down into a square (3,4)-(4,5)
+# standing on the pair; the male crosses the car and steps up into (3,3), under the square.
+# It passes over the cells (4,6) and (9,6), covered at the start: floor, as the user confirmed in level 93's session.
+C 6 1 U
+C 6 2 L
+C 5 2 L
+K 1 2 R
+K 2 2 R
+K 3 2 U
+K 1 8 D
+K 1 7 R
+K 2 7 D
+K 2 6 R
+K 3 6 D
+G 3 7 D
+G 3 6 D
+G 4 8 D
+G 4 7 D
+G 4 6 D
+G 4 5 L
+M 5 1 U
+M 5 2 L
+M 3 2 U
+C 7 1 U
+C 7 2 R
+C 8 2 R
+K 12 2 L
+K 11 2 L
+K 10 2 U
+K 12 8 D
+K 12 7 L
+K 11 7 D
+K 11 6 L
+K 10 6 D
+F 10 7 D
+F 9 6 D
+F 9 8 D
+F 8 7 D
+F 8 6 D
+F 8 5 R
+M 8 1 U
+M 8 2 R
+M 10 2 U

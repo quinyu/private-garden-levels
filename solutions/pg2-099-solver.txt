@@ -1,0 +1,13 @@
+# level pg2-099, board 85f631d360fa96b5
+# 11 moves, proven shortest by the default search's rounds (first 25 after 412,442 positions; 1,229,574 in all, 4 s); --relocate, --carry and --carry --relocate in both modes and --plan the same moves, each proving it. Checked rules only. Two upright Biwa pairs carried along ranks 2-3 over the pits, held up by their top halves, to the male's doorstep at (14,2)-(15,3), the second making a square; the top-right Biwa through the warp (3,9) into the middle passage, stopped by the gay tile moved up to (3,5); the male one step down onto the square. Part of the hint (the girls carried to the boy, the last as an upright pair, the topmost girl and a gay tile in the middle passage), but no gay tile dropped beside the bottom-right girl.
+G 4 10 D
+G 4 7 R
+G 11 7 D
+G 11 3 R
+H 3 4 U
+G 1 2 U
+G 11 9 L
+G 4 5 D
+G 4 2 L
+G 1 3 R
+M 15 5 D

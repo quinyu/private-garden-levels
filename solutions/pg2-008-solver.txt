@@ -1,0 +1,24 @@
+# level pg2-008, board 947f46999cb88214
+# 22 moves, proven shortest: the default search (first 31 after 353,366 positions; its rounds searched every position below 22, 4,545,376 in all, 47 s). Tidied and regrouped.
+G 1 6 R
+G 1 1 U
+G 1 2 U
+G 1 5 U
+G 1 6 R
+G 2 6 R
+C 10 5 L
+G 10 6 D
+G 10 5 L
+C 10 2 U
+C 10 5 U
+C 10 6 L
+G 10 1 U
+G 10 2 U
+G 9 5 D
+G 9 2 L
+M 6 6 R
+G 7 2 U
+G 7 5 L
+G 6 5 L
+M 9 6 L
+M 6 6 L

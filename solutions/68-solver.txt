@@ -1,0 +1,17 @@
+# level 68, board 40fef8680575cae3
+# Level 68, 9 moves, proven shortest by A* (40,796 positions; also 3 threads and IDA*). Ground under every
+# piece, as given; the male is down in a pit at (5,6) and can't move (first read as standing; corrected by the
+# user). Two tanned pairs, already merged, top and bottom. A car fills (4,5); the bottom pair steps left and
+# glides up onto it, standing at (4,5)-(5,5) beside the male without touching him (it is on high ground, he is
+# down in the pit). The top pair steps left to (4,8)-(5,8) and in the last move glides down onto the male at
+# (4,6)-(5,6), merging with the bottom pair into a square on top of him.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 3 5 R
+N 5 1 U
+N 5 2 U
+N 5 3 L
+N 4 3 U
+N 5 10 D
+N 5 9 D
+N 5 8 L
+N 4 8 D

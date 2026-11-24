@@ -1,0 +1,9 @@
+# level cho-muzu04, board 8a9bfedfb711c52b
+# 7 moves, proven shortest: A* within the default search (14,426 positions); --relocate and --plan the same 7. Regrouped.
+C 8 5 L
+C 5 5 D
+K 1 4 D
+M 4 5 L
+K 5 8 D
+K 5 2 L
+M 1 5 D

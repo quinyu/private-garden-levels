@@ -1,0 +1,27 @@
+# level 45, board 68313729cdd72f3b
+# Level 45, 18 moves, proven shortest by A* (51,147 positions). Ground under every piece but the male,
+# who starts on ice, as given. Each pair is shut in its own column, so they never merge: the male must
+# touch both at once, and only (2,6) touches both. He gets there without stopping at the crossing
+# (4,6): a car stops him at (4,5), another fills the pit at (3,5), and he steps off the column onto it,
+# up to (3,6) against the wall, and left to (2,6). The upper pair stops the first car at (3,6) and then
+# backs up a step. The cars at (8,3) and (7,2) never move.
+# Found by the solver: 18 moves, shortest (60806 positions looked at)
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 2 9 D
+K 2 8 D
+C 8 5 U
+C 8 6 L
+C 7 6 L
+M 4 9 D
+C 7 4 U
+C 7 5 U
+C 7 6 L
+C 3 6 D
+K 2 7 U
+K 1 3 U
+K 1 4 U
+K 1 5 U
+M 4 1 U
+M 4 5 L
+M 3 5 U
+M 3 6 L

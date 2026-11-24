@@ -1,0 +1,25 @@
+# level pg2-063, board 8dc70dff0902b8cd
+# 23 moves, an alternative to pg2-063-solver.txt (22) that ends as the hint says: two lying pairs in the pit, offset; the default search's 23 (first 49 after 386,183 positions, its rounds 23; 19,040,872 in all), --relocate and --plan the same moves. The right ice ball fills (7,3); the bottom Biwa glides up over it into (7,4), the right one joins her from (8,4), a fallen pair (6,4)-(7,4); the top ice ball fills (5,6), the top Biwa comes down over it into (5,5); the left ice ball fills (3,5), the left Biwa comes round over it into (4,5), a fallen pair (4,5)-(5,5); the bottom ice ball fills (5,3) and the male glides up it into the pit (5,4) between the two pairs.
+G 9 3 U
+G 9 4 L
+I 9 5 D
+I 9 3 L
+G 7 1 U
+G 7 2 U
+G 8 4 L
+G 7 4 L
+I 5 8 D
+G 7 8 L
+G 6 8 L
+G 5 8 D
+G 5 7 D
+I 1 5 R
+G 1 3 U
+G 1 4 R
+G 2 4 U
+G 2 5 R
+I 5 1 U
+M 3 1 U
+M 3 2 R
+M 4 2 R
+M 5 2 U

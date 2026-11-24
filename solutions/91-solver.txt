@@ -1,0 +1,35 @@
+# level 91, board 73fa2d08ae8e978d
+# Level 91, 26 moves, proven shortest: A* (2,054,965 positions); the default search and --relocate end at
+# these same 26. Floor under every piece (the user checked). All five ash-haired girls must meet the male
+# at once: the bottom-right pair comes all the way up to make a square with the top pair at (4,7)-(5,8),
+# and the single steps over to (5,9), so the male, stepping into (4,9), touches both. The two cars fill
+# (9,4) and (9,5), the only crossing from the right-hand room's ice to the left-hand ice: one car stops the
+# other on the ice at (15,4) and glides into (9,4), the second follows onto it and drops into (9,5). The
+# pair rides up the column 9 crossing to (9,6)-(9,7), glides along row 7's ice to (4,6)-(4,7), steps up
+# beside the top pair, and the top pair steps down onto it.
+C 15 3 U
+C 14 2 U
+C 14 3 R
+C 15 3 U
+C 15 4 L
+F 18 2 L
+F 17 2 L
+F 16 2 L
+F 15 2 U
+C 15 5 D
+C 15 4 L
+C 9 4 U
+F 15 3 U
+F 15 4 U
+F 15 5 L
+F 14 5 L
+F 9 5 U
+F 9 6 U
+F 9 7 L
+F 4 7 U
+F 5 9 D
+F 3 9 R
+F 4 9 R
+M 1 9 R
+M 2 9 R
+M 3 9 R

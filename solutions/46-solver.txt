@@ -1,0 +1,29 @@
+# level 46, board 8efb43c58395288c
+# Level 46, 20 moves, proven shortest (the shortening rounds of the default search and of --relocate
+# run out: 3,223,290 and 2,896,452 positions). Ground under every movable piece; the male is sunk in the
+# pit at (4,6), as given. The board maps onto itself under a half turn, and each half is solved the
+# same way: a car fills a pit beside the ice, one girl glides onto it, the other steps in beside to make
+# a pair, and the pair slides into the middle pits. The male breaks the symmetry: the right pair must
+# drop first, at (5,4)-(5,5), away from him; the left pair then drops at (4,4)-(4,5) beside him, makes
+# the square, and the square touches him.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 1 6 R
+C 2 6 D
+K 1 1 U
+K 1 2 R
+K 2 2 U
+C 8 3 L
+C 7 3 U
+K 8 8 D
+K 8 7 L
+K 7 7 D
+K 8 1 U
+K 8 2 U
+K 8 3 L
+K 7 4 U
+K 7 5 L
+K 1 8 D
+K 1 7 D
+K 1 6 R
+K 2 6 D
+K 2 5 R

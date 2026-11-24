@@ -1,0 +1,24 @@
+# level pg2-078, board d4999960b770535a
+# 22 moves, not proven: --refine (the refining night after pg2-139, 15 minutes a level) from the 27 (pg2-078-played.txt, played): from move 12 the default search 26, stopped at its 15-minute cap; again for 45 minutes from the 26 (its second chance): from move 2 the default search 25; from move 16 the default search 24; from move 13 the default search 22; its pass 4 nothing shorter (346,700,427 positions, 2,696 s in all); a 40-million --improve round from it nothing shorter (40,000,015 positions). Replaces the 27 (and the night's 26, never played). No unchecked rule (--play, C and Python the same).
+C 14 9 D
+K 4 2 U
+C 3 1 R
+C 4 1 U
+C 15 6 L
+K 15 7 L
+K 14 7 D
+K 12 5 R
+G 7 5 L
+G 15 5 D
+K 4 8 D
+K 14 6 L
+K 18 5 L
+K 15 5 U
+G 15 8 D
+G 1 5 R
+G 15 3 U
+K 15 6 L
+K 12 6 R
+G 4 5 D
+G 4 1 U
+M 9 5 L

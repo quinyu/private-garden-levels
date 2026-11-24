@@ -1,0 +1,22 @@
+# level 99, board 94c785df69a9329c
+# Level 99, 18 moves, proven shortest by the default search's shortening rounds (2,199,773 positions);
+# --relocate proves the same. With A* off, --plan builds its second round's ending 4 in 23 moves and
+# shortens it to 18, with or without the finish shapes.
+J 9 1 L
+C 1 10 R
+C 13 10 D
+C 10 1 L
+C 8 1 U
+J 6 1 R
+J 1 7 U
+J 1 10 R
+J 7 10 D
+C 8 10 D
+M 14 10 L
+J 7 1 U
+J 14 7 U
+J 14 10 L
+C 8 1 L
+J 9 1 L
+J 7 1 U
+M 1 10 R

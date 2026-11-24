@@ -1,0 +1,22 @@
+# level pg2-012, board 3c7a208eb020f550
+# 20 moves, proven shortest by the default search (1,777,982 positions, 17 s); --relocate 20 too, also proven. Move 9 has the male step onto the portal B4 while the exit K4 is held by a pair (it stops there: played by the user, who confirmed it): with that refused (GARDEN_STRICT=p) no solution exists (all 4,898,903 reachable positions searched).
+C 11 6 D
+C 11 5 D
+M 12 5 L
+M 11 5 D
+K 10 1 U
+K 9 2 U
+K 9 3 R
+K 10 3 U
+M 2 3 U
+K 6 1 U
+K 6 2 U
+K 6 3 L
+K 5 3 U
+K 10 4 D
+K 10 3 L
+K 9 3 L
+K 8 3 L
+K 7 3 L
+K 6 3 L
+M 2 4 R

@@ -1,0 +1,19 @@
+# level pg2-153, board dcdd1c5b41ab92bc
+# 17 moves, proven shortest: --relocate's rounds (first 30 after 304,435 positions, 10,290,974 in all, 29 s); every one of the ten per-level searches proves 17 (the default search, --plan and --relax the same moves; --carry and --carry --relocate in both modes another 17; GARDEN_WAY=1 with and without --relocate a third). No unchecked rule (--play, C and Python the same).
+G 14 3 L
+G 12 3 U
+G 12 4 L
+G 11 4 L
+G 10 4 L
+K 14 1 U
+K 13 2 U
+K 13 3 L
+C 10 1 U
+C 10 2 U
+C 10 4 R
+K 12 1 U
+K 11 2 L
+K 12 3 L
+K 11 3 L
+M 5 4 L
+M 4 4 L

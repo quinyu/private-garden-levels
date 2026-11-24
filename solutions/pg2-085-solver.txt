@@ -1,0 +1,6 @@
+# level pg2-085, board 94060bdf8a3f35c8
+# 4 moves, proven shortest by A* within the default search (54 positions, 2 s); every other search (--relocate, --carry and --carry --relocate in both modes, --plan, --relax) the same moves. Checked rules only (a gay tile standing on a fallen girl; two gay tiles meeting, a pit under the one on ice and none under the one on the fallen girl, which stays; the male into a pit between two fallen squares, touching both). Exactly the hint: the gay tile (4,3) goes up to (4,4) and left onto the fallen Biwa square at (3,4), solid floor for it; the gay tile (11,3) slides left along the corridor to (3,3), under it: both gone, one pit at (3,3) between the two squares; the male slides left into it, touching the Biwa square above and the Mikan square below: all gone.
+H 4 3 U
+H 4 4 L
+H 11 3 L
+M 13 3 L

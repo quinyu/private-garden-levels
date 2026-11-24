@@ -1,0 +1,14 @@
+# level pg2-100, board b674d11fec5343be
+# 12 moves, not proven: the default search (first 18 after 443,110 positions, its rounds 12; 10,562,966 in all, 117 s); --relocate (first 12 after 332,441), --carry and --carry --relocate in both modes the same moves; --plan nothing; nothing shorter in a 40-million --improve round; A* 30 million nothing (8 moves deep). Checked rules only. Exactly the hint: the bottom Biwas a lying pair carried straight up column 8 (held up over the pits of column 9) into the hole (8,7)-(9,7); the right ice ball rolled left as the stopper for the top pair, which joins it into a fallen square (8,7)-(9,8); both ice balls then rolled right as the male's stoppers, the male sliding to (10,6) and stepping into the pit (10,7) beside the square.
+G 11 1 L
+G 8 1 U
+I 11 6 L
+G 3 10 R
+G 5 10 D
+G 5 7 R
+G 7 7 R
+G 8 7 U
+I 5 6 R
+I 4 6 R
+M 1 6 R
+M 10 6 U

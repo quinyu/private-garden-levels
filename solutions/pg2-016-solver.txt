@@ -1,0 +1,22 @@
+# level pg2-016, board ca8c1c5410fd2e98
+# 20 moves, not proven: --refine (the refining night after pg2-139, 15 minutes a level) from the 21 (pg2-016-played.txt, played): from move 9 the default search 20; its pass 2 nothing shorter (67,525,322 positions, 207 s in all); a 40-million --improve round from it nothing shorter (40,000,017 positions). Replaces the 21. No unchecked rule (--play, C and Python the same).
+F 4 4 U
+H 3 3 U
+H 3 4 R
+H 5 3 U
+K 3 5 D
+K 3 4 R
+K 5 5 D
+G 2 6 D
+G 2 5 R
+N 2 4 R
+N 3 4 R
+N 4 4 R
+N 5 4 U
+G 6 4 L
+G 5 4 L
+G 4 4 L
+N 6 6 D
+N 5 5 D
+M 4 2 U
+M 4 3 U

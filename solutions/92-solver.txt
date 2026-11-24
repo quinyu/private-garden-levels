@@ -1,0 +1,44 @@
+# level 92, board 928b1eba5868f0c3
+# Level 92, 33 moves, not proven shortest: --improve (40 million positions a round, 3 threads) from the
+# relocation search's 47 (the default search and A*, 30 million and 10 moves deep, ended at 61); its last
+# round, and a 100-million round from the 33 (9.5 GB), found nothing shorter. Floor under every piece, as given. The level is the same turned
+# 180 degrees, but the solution isn't: the right male takes only his own two ash-haired girls, stepping
+# down between them as singles in three moves. The left male takes the rest. Cars fill (9,7) and (10,4),
+# so both pink girls walk into the middle room and pair at (9,6)-(10,6); the pair drops into the left pit
+# (7,6)-(8,6). A third car drives over the fallen pinks and fills (7,5) beside them. One ash girl crosses
+# the pinks to (8,6), the male walks onto the car at (7,5) (from high ground he doesn't touch the fallen
+# pinks), the other ash girl comes to (6,6), and the male steps onto the pinks between the two singles.
+# The car at (9,2) is never used.
+F 13 5 R
+F 17 5 L
+M 15 6 D
+C 9 8 D
+J 9 10 D
+J 9 9 D
+J 9 8 D
+J 9 7 D
+C 10 3 U
+J 10 1 U
+J 10 2 U
+J 10 3 U
+J 10 4 U
+J 10 5 U
+J 9 6 L
+J 8 6 L
+C 10 9 D
+C 10 8 L
+C 9 8 D
+C 9 7 D
+C 9 6 L
+C 8 6 L
+C 7 6 D
+F 6 6 R
+F 7 6 R
+M 4 5 R
+M 5 5 R
+M 6 5 R
+F 2 6 R
+F 3 6 R
+F 4 6 R
+F 5 6 R
+M 7 5 U

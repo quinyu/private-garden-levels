@@ -1,0 +1,22 @@
+# level pg2-139, board d5822308436e186f
+# 20 moves, not proven: a 40-million --improve round from the searches' 23 (its first round 21, tidied 20; the next round nothing shorter, 45,577,604 positions in all); every search from the start the same 23 (the default search, --relocate, --plan, --relax, --carry in both modes; GARDEN_WAY doesn't apply); from move 6 of the 23 a 22; nothing shorter from 16 restarts at cut points of the 20; A* nothing in 30 million positions. No unchecked rule (--play, C and Python the same).
+G 1 8 D
+G 2 1 U
+G 1 6 R
+F 2 8 D
+F 1 1 U
+F 1 3 R
+M 16 5 L
+M 2 5 U
+G 16 8 D
+C 16 4 L
+F 16 1 U
+F 15 8 D
+F 15 4 L
+F 3 4 D
+F 3 3 U
+G 15 1 U
+G 15 5 L
+G 2 5 R
+M 2 8 D
+M 2 5 R

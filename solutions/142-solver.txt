@@ -1,0 +1,12 @@
+# level 142, board 5152ef0782d7a06e
+# 10 moves, proven shortest: A* alone (364,315 positions, 2 s); the default search, --relocate and --plan prove 10 too (--plan builds its third ending at once, 12 moves, tidied and shortened to 10; with and without the finish shapes). Regrouped.
+J 4 3 D
+F 2 6 D
+F 2 4 R
+F 4 4 R
+J 4 2 R
+J 7 3 L
+F 9 6 D
+F 9 4 L
+F 7 4 L
+M 5 5 D

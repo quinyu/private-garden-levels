@@ -1,0 +1,33 @@
+ground
+ ###          ### 
+##O############O##
+#OOOOOOOOOOOOOOOO#
+#O_____OOOO_____O#
+#O_OOOO_.._OOOO_O#
+#O_OOOO_.._OOOO_O#
+#O@OOOO_.._OOOO@O#
+#O_OOOOO__OOOOO_O#
+#O_OOOOOOOOOOOO_O#
+##OOOOOOOOOOOOOO##
+ #####OOOOOO##### 
+     ########     
+
+pieces
+..................
+..................
+..................
+..a...............
+..b...............
+..c...............
+.........m........
+..p............d..
+..e............f..
+..................
+..................
+..................
+
+legend
+a c e f  girl3
+b d  girl5
+m  male
+p  ball

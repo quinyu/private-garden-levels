@@ -1,0 +1,13 @@
+# level pg2-068, board 39e42dda3541ab57
+# 11 moves, proven shortest by the default search (first 11 after 302,881 positions; 1,783,967 in all), and by A* alone (1,640,443 positions); --relocate, --carry, --carry --relocate and --plan the same moves, GARDEN_CARRY_MODE=dynamic (both) and --relax other 11s, each proven. Found first with the old one-male cut-off test, which called four positions along it dead (fixed in this session; the old build's searches also ended at 11, proven). Checked rules only (a male coming out onto the exit portal when the cell beyond is taken; a male stopping on the entry when the exit portal is taken; shattered ice breaking). The male D2 goes left into the portal C2 and comes out onto G2 (F2 beyond it taken by the other male), then glides right over H2 to I2, between the Biwa I3 and the Karin I1: all three gone. The left Biwas drop into B3-C3, the left Karins into B1-C1; the car goes through C2 onto the exit G2 (F2 taken) and stays there as the stopper: the male F2 goes into C2 and, the exit taken, stops on it, slides left to A2 (B2 breaks behind him) and steps back into the pit B2, between the two fallen pairs: all gone. The hint's car as the stopper at the warp.
+M 4 2 L
+M 7 2 R
+G 5 3 L
+G 1 3 R
+N 5 1 L
+N 1 1 R
+C 5 2 L
+M 6 2 L
+M 5 2 L
+M 3 2 L
+M 1 2 R

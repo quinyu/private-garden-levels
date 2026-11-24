@@ -1,0 +1,11 @@
+# level 106, board fe6e2595de1bc493
+# Level 106, 7 moves, proven shortest by A* (2,715 positions, under a second); --relocate the same.
+# With A* off, --plan builds its first round's ending 1 in 12 moves and shortens it to 7, with or without
+# the finish shapes.
+J 2 9 D
+J 2 3 R
+J 4 3 R
+J 10 9 D
+J 10 3 L
+J 8 3 L
+M 6 5 D

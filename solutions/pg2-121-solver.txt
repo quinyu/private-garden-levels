@@ -1,0 +1,16 @@
+# level pg2-121, board a5a58bf49c60db3d
+# 12 moves, not proven: --plan (first 12 after 437,415 positions), exactly the hint; the default search, --relocate, --relax and --carry in both modes another 12 (pg2-121-search.txt); nothing shorter in a 40-million --improve round; A* 30 million nothing (9 moves deep). No unchecked rule (--play, C and Python the same).
+K 10 3 L
+K 1 2 R
+K 5 2 R
+K 6 2 U
+# The blonde square at (7,4)-(8,5), standing
+G 10 6 L
+G 7 7 D
+G 5 7 L
+G 1 7 R
+G 10 7 D
+G 10 2 L
+G 8 2 U
+# A male finishes at (6,4), on the ground
+M 5 4 R

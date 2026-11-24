@@ -1,0 +1,26 @@
+# level 12, board b957dfb56bdbdb0e
+# Level 12, 19 moves, proven shortest by A* (28,719,109 positions; --improve from the default search's 20
+# proves it too) on the board with its covered cells as the user gave them in level 93's session: the
+# three cars and the three single girls on ice, the male and the pair on floor. Before, 22 on the board
+# with every covered cell as floor (12-gap). The cars fill (2,4), (7,4) and (10,4); the pair and the
+# singles stand round the wall gap; the male comes along row 4 and drops through the gap to (7,2),
+# touching the pair (6,1)-(6,2), the pair (8,2)-(9,2) and the single at (7,1).
+F 13 1 L
+F 12 1 L
+F 8 1 U
+C 2 7 D
+C 1 6 D
+C 1 4 R
+C 2 4 R
+C 7 3 U
+C 7 4 R
+F 5 2 R
+F 7 7 D
+F 7 4 D
+M 14 8 L
+M 13 8 L
+M 12 8 L
+M 11 8 D
+M 11 4 L
+M 10 4 L
+M 7 4 D

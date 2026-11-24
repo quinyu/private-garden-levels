@@ -1,0 +1,31 @@
+# level 44, board 8d9872301a3d85fb
+# Level 44, 23 moves, proven shortest by A* (290,461 positions, one thread; --relocate finds the same
+# and its shortening rounds run out at 320,566). Ground under every piece, as given. The male drops
+# into the empty pit at (3,2) and touches two fallen groups at once: the square (3,3)-(4,4) above him
+# and the single at (4,2) beside him. The car crosses the middle pits on the girls' backs (it stands
+# on the fallen single at (4,4), then on the fallen pair at (3,4)) to fill (2,2), where the male's
+# glide down the ice stops.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 5 4 R
+K 6 5 L
+K 5 5 D
+K 5 4 L
+K 3 8 D
+K 3 7 D
+C 6 4 L
+C 5 4 L
+C 4 4 L
+C 3 4 L
+C 2 4 D
+K 7 4 L
+K 6 4 L
+K 5 4 L
+K 4 4 D
+K 6 2 L
+K 5 2 L
+M 1 7 D
+M 1 6 D
+M 1 5 D
+M 1 4 R
+M 2 4 D
+M 2 2 R

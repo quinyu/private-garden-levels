@@ -1,0 +1,33 @@
+# level 81, board ee7b0e1ddd73a3c7
+# An alternative to 81-solver.txt (23 moves, the user's idea): the 23 the searches found, where the pair
+# falls into a pit beside the male. 23 is proven shortest by A* (--limit 30000000: 18,427,361 positions) and by an --improve
+# round from the default search's 26 (40-million limit: 28,346,143 positions); the moves are A*'s with the
+# male's one step put last. Floor under every piece, as given. Four floor islands round an ice block,
+# everything else pits; the cars build bridges. The top girl steps aside to (6,7) while two cars fill (5,8)
+# and (4,8) along the top; two more fill (3,6) and (3,3), a bridge down column 3. The bottom girl walks to
+# (3,1); the top girl crosses the top, comes down column 3 (gliding over the ice onto the car at (3,3)) and
+# lands at (3,2) above her: a vertical pair. It steps right into the pits (4,1)-(4,2); the male steps into
+# the pit at (5,1) beside it. (The default search alone ended at 26: 81-first.txt.)
+F 6 8 D
+C 8 8 L
+C 7 8 L
+C 6 8 L
+C 3 8 D
+C 3 7 D
+C 1 8 R
+C 2 8 R
+C 3 8 R
+C 3 1 U
+C 3 2 U
+F 1 1 R
+F 2 1 R
+F 6 7 U
+F 6 8 L
+F 5 8 L
+F 4 8 L
+F 3 8 D
+F 3 7 D
+F 3 6 D
+F 3 3 D
+F 3 2 R
+M 6 1 L

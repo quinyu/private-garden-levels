@@ -1,0 +1,19 @@
+# level pg2-095, board ced8ec84db74c6a9
+# 17 moves, proven shortest by --relocate's rounds (first 26 after 454,376 positions; 13,106,756 in all, 39 s); --carry --relocate in both modes and --plan the same moves (--plan's first 52, 13,406,420 positions); the default search and --carry in both modes nothing. Checked rules only (girls stopping on ice by merging or against a piece; a single stopping beside a pair, no merge). The hint's four-clear where the boy is: the four Biwas brought down the shaft (8,3)-(8,5) to two pairs at (7,1)-(8,1) and (8,2)-(8,3), the male up to (3,2) and right to (7,2), touching both. The stop at the crossroads (8,6) is the car from (2,6), parked at (7,6) against a Biwa sent up the shaft; not the hint's gay tiles meeting there and the hole plugged: they never move.
+G 5 2 D
+G 5 1 R
+G 8 1 U
+C 2 6 R
+G 8 6 D
+G 6 3 D
+G 6 1 R
+G 15 9 L
+G 11 9 D
+G 11 6 L
+G 8 6 D
+G 17 10 L
+G 11 10 D
+G 11 6 L
+G 8 6 D
+M 3 1 U
+M 3 2 R

@@ -1,0 +1,18 @@
+# level pg2-090, board 7b0cafb84e843416
+# 16 moves, an alternative to pg2-090-solver.txt (15): the hint's route, found by every search (the default search's rounds, 12,177,098 positions). Checked rules only. The girls wear the cracked ice into pits at the top centre; a Kurumi pair falls into (5,4)-(6,4), a Biwa square forms below it at (5,2)-(6,3), a Kurumi pair stands on the fallen one at (6,4)-(7,4); the male goes up to (1,4) and right onto the fallen pair at (5,4), touching all eight girls.
+K 6 4 D
+G 7 4 L
+G 5 4 D
+K 4 4 R
+K 8 4 L
+G 5 2 U
+K 10 4 D
+G 9 4 R
+G 10 4 D
+G 10 2 L
+K 6 4 L
+K 6 1 R
+K 9 1 U
+K 9 4 L
+M 1 1 U
+M 1 4 R

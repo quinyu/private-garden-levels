@@ -1,0 +1,22 @@
+# level pg2-231, board c19301ed455bc5b0
+# 20 moves, proven shortest by the default search's rounds (1,202,779 positions, 9 s); all nine searches 20, each proven, three orders of the same moves
+G 9 5 L
+G 8 5 L
+G 7 5 D
+G 4 5 R
+G 5 5 R
+G 7 3 U
+G 6 5 L
+G 7 4 L
+C 10 1 R
+C 14 1 U
+C 14 8 L
+C 11 4 L
+C 7 4 U
+M 5 8 L
+M 1 8 D
+M 1 1 R
+M 14 1 U
+M 14 8 L
+M 7 8 D
+M 7 7 D

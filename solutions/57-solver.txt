@@ -1,0 +1,25 @@
+# level 57, board 647ab9f41e070f87
+# Level 57, 16 moves, proven shortest by A* (161,422 positions; also on 3 threads and by --relocate).
+# Ground under every piece, as given. Before the estimate let single girls travel as half a pair,
+# A* claimed 17 was shortest: wrong, this 16 replays in both engines. Three cars: one parks at (6,6)
+# as a stopper on the icy row 6, two fill the pits at (5,5) and (5,1). The tanned girls pair up on
+# the filled (5,1); the pair then glides up the broken icy stretch, its column 5 half on ice while
+# the column 4 half passes over pits, stops at row 5 (neither half on ice), glides on to row 8, and
+# right into the male at (8,8).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 3 1 R
+C 1 6 R
+C 1 7 D
+C 1 6 R
+C 5 6 D
+C 1 8 D
+C 1 7 D
+C 1 6 R
+C 5 6 D
+C 5 5 D
+N 9 1 L
+N 8 1 L
+N 7 1 L
+N 4 1 U
+N 4 5 U
+N 4 8 R

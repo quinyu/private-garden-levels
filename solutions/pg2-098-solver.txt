@@ -1,0 +1,23 @@
+# level pg2-098, board 75d8b6219d6957bf
+# 21 moves, not proven: the default search (first 45 after 1,569,478 positions, its rounds 21; 23,837,212 in all, 77 s); --relocate (first 32 after 599,636, tidied 27, its rounds 21), --carry and --carry --relocate in both modes and --relax the same moves; --plan nothing; nothing shorter in a 40-million --improve round; A* 30 million nothing (10 moves deep). Checked rules only. Two Biwas go through the warp D7 (out of I3 to L3, and up column I to I9); Biwa pairs stop on the warp I3 (the hint's trick); a Biwa square H3-I4 on the warp under a Kurumi pair H6-I6, the right male stepping in between at H5; the left Kurumi pair up column E beside the left male. Not quite the hint's route (a four-clear on each warp, each side's girls on its own side).
+K 11 3 R
+K 12 3 U
+K 1 9 D
+K 1 2 R
+G 2 7 R
+G 2 3 D
+G 2 1 R
+G 4 1 U
+G 12 1 U
+G 12 3 L
+G 12 9 D
+G 12 8 L
+G 9 9 D
+K 11 7 U
+K 11 9 L
+K 8 9 D
+G 9 3 L
+G 9 5 D
+G 8 3 U
+M 7 5 R
+K 5 2 U

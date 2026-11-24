@@ -1,0 +1,23 @@
+ground
+################
+#...OOOOOOOO...#
+#OOO._______OOO#
+#OOOO______OOOO#
+#OOO_OOOOOO_OOO#
+#...OOOOOOOO...#
+################
+
+pieces
+................
+.a.b........e.f.
+....i......j....
+................
+....k......l....
+.g.h........c.d.
+................
+
+legend
+a b c d  girl5
+e f g h  girl2
+i  male
+j k l  ball

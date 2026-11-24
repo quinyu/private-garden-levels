@@ -1,0 +1,25 @@
+# level 35, board ff35709603a66f03
+# 23 moves, not proven: the overnight audit after pg2-096 (the default search, --relocate, --carry --relocate and --carry in dynamic mode on every unproven level, today's engine): --carry --relocate, --carry with GARDEN_CARRY_MODE=dynamic 23; a 40-million --improve round from it nothing shorter. Replaces the 24 (35-played.txt, played). No unchecked rule (--play).
+K 7 3 L
+K 7 1 L
+K 6 1 L
+M 14 2 L
+M 13 2 L
+M 12 2 L
+K 1 4 R
+K 2 4 R
+K 3 4 R
+K 5 4 D
+K 3 2 R
+M 15 3 D
+M 15 2 L
+M 14 2 L
+M 13 2 L
+M 12 2 L
+M 9 2 L
+M 8 2 D
+M 8 1 L
+M 7 1 L
+K 6 3 D
+K 6 2 R
+K 7 2 R

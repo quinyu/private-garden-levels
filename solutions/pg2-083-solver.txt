@@ -1,0 +1,14 @@
+# level pg2-083, board 5a589427ebcea226
+# 12 moves, proven shortest: the default search (first 15 after 308,706 positions; its rounds nothing shorter than 12, 1,939,196 positions in all, 16 s); --relocate, --carry and --carry --relocate in both modes and --plan the same moves, all proven. Checked rules only (gay tiles and a girl falling into pits; a girl falling in beside a fallen one, a fallen pair; a pair stopping where one block reaches ground; the male onto a fallen pair, touching it and a standing pair at once). Part of the hint: the gay tiles drop into pits as a bypass ((6,4), (9,5)) and the male gets out of the way (to (5,6)), but no square is made: the male clears two pairs at once. The Biwa (4,6) drops into the pit (4,5); the Biwa from (10,6) comes round over (9,6) and the fallen gay tile at (9,5), then slides left over the ice and drops into (5,5) beside her, a fallen pair (4,5)-(5,5); the Biwa from (7,9) comes down over (7,8) and the ice to (7,4), stopping by merging with the one at (7,3); that upright pair steps up to (7,4)-(7,5) and left to (6,4)-(6,5), on the fallen gay tile and the ice; the male steps down from (5,6) onto the fallen pair at (5,5), beside the standing one: all gone.
+G 4 6 D
+H 7 4 L
+M 7 6 L
+H 9 6 D
+G 10 6 L
+G 9 6 D
+G 9 5 L
+G 7 9 D
+G 7 8 D
+G 7 4 U
+G 7 5 L
+M 5 6 D

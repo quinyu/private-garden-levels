@@ -1,0 +1,24 @@
+ground
+############
+#...OO..OO.#
+#.OO22OO22O#
+#O22OO22OO.#
+#.OO22OO22O#
+#O22OO22OO.#
+#.OO..OO...#
+############
+
+pieces
+............
+.aef..gh..b.
+............
+..........m.
+............
+............
+.c..ij..kld.
+............
+
+legend
+a b c d  girl2
+e f g h i j k l  iceball
+m        male

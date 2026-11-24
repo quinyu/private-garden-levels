@@ -1,0 +1,17 @@
+# level pg2-076, board 498db831c0e43402
+# 15 moves, proven shortest: the default search (first 29 after 320,408 positions, tidied 28; its rounds found nothing shorter than 15, 8,322,663 positions in all, 79 s); --relocate the same moves, --carry and --carry --relocate in both modes other 15s, all proven; --plan nothing. Checked rules only (ice balls filling pits; a ball over a fallen piece; merging first, then the merged piece reacting). Exactly the hint: three ice balls fill (5,6), (7,8) and (9,6), the fourth (7,4), so each Biwa can reach a floor cell beside the male's pit; the Biwas from (4,6) and (7,9) make an upright pair on (6,5)-(6,6), the one from (7,3) waits on (7,5); the one from (10,6) steps from (8,6) onto the male in (7,6): she joins the pair and the single as four in the same move, and the square goes with him.
+I 6 7 D
+I 6 6 L
+G 4 6 R
+I 6 5 R
+I 7 5 U
+G 7 9 D
+G 7 7 L
+G 6 7 D
+I 8 7 D
+I 8 6 R
+I 8 5 L
+I 7 5 D
+G 7 3 U
+G 10 6 L
+G 8 6 L

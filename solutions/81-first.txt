@@ -1,0 +1,33 @@
+# level 81, board ee7b0e1ddd73a3c7
+# An alternative to 81-solver.txt (23 moves, the shortest): the 26 posted first, from the default search (10,328,478
+# positions; first solution 28, tidied to 26). Floor under every piece, as given. Four floor islands round an
+# ice block, everything else pits; the cars build bridges. Two cars fill (3,6) and (4,6), another (3,3); the
+# bottom girl climbs column 3 (gliding up over the ice onto the car at (3,6)), walks onto (4,6) and drops into
+# (5,6); the top girl drops into (6,6) beside her: a fallen pair (5,6)-(6,6). The last car drives over it and
+# glides down the ice into (6,3); the male climbs over that car and glides up the ice onto the fallen pair.
+C 3 8 D
+C 3 7 D
+C 1 8 R
+C 2 8 R
+C 3 8 D
+C 3 7 D
+C 3 6 R
+C 3 1 U
+C 3 2 U
+F 1 1 R
+F 2 1 R
+F 3 1 U
+F 3 2 U
+F 3 3 U
+F 3 6 R
+F 4 6 R
+F 6 8 D
+F 6 7 D
+C 8 8 L
+C 7 8 L
+C 6 8 D
+C 6 7 D
+C 6 6 D
+M 6 1 U
+M 6 2 U
+M 6 3 U

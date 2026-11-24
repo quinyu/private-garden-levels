@@ -1,0 +1,20 @@
+# level 62, board 3bbb6135b4d33df0
+# Level 62, 13 moves, proven shortest (--improve from these moves, 3 threads, 30-million limit: runs out
+# at 8,737,439 positions). Worked out by hand: the default search, --relocate and --plan all stopped at 14
+# with 3-million rounds (with the 10-million default the default search finds 13 too: 62-square.txt). Ground under every piece, as given. Each bottom girl
+# climbs an outer ice column on a pit its corner car fills at row 5 and pairs with the top girl on row 8.
+# The left pair steps up to (1,9)-(2,9), the right pair slides along row 8 to (2,8)-(3,8), and the male
+# glides left along row 9 into both at (3,9).
+C 1 1 U
+N 2 2 L
+N 1 2 U
+N 1 5 U
+N 1 8 U
+C 10 1 U
+N 9 2 R
+N 10 2 U
+N 10 5 U
+N 9 8 L
+N 8 8 L
+M 5 10 D
+M 5 9 L

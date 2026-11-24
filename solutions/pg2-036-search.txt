@@ -1,0 +1,8 @@
+# level pg2-036, board eab631b9fc7e95e4
+# 6 moves, an alternative to pg2-036-solver.txt (6): the default search's (A*, 164,858 positions; --relocate and --plan the same); its move 6 destroys the male, a standing gay tile and the girls' square in one move (GARDEN_STRICT=m refuses it); played in the game by the user, at their request, to check that move: all three gone, pits left, as the engine has it. Regrouped.
+G 1 3 R
+G 3 1 U
+H 4 4 D
+G 1 1 R
+G 3 2 U
+M 6 4 L

@@ -1,0 +1,10 @@
+# level pg2-018, board 812dba758fb733b3
+# 8 moves, proven shortest by A* within the default search (3,292 positions, 2 s); --plan 8 too. Move 6 has a gay tile land on the gay tile fallen in (11,1) while touching the one standing on the fallen blonde at (10,1): the engine takes all three (as a girl takes several males) and leaves the fallen blonde; played by the user, who confirmed it.
+H 9 1 R
+G 7 1 R
+H 5 1 R
+H 10 1 R
+H 3 1 R
+H 13 1 L
+G 15 1 L
+M 1 1 R

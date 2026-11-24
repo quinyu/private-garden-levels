@@ -1,0 +1,29 @@
+# level 49, board 800615c116ac8211
+# Level 49, 22 moves, proven shortest (the shortening rounds of the default search and of --relocate
+# run out: 1,979,988 and 1,650,274 positions). Ground under every piece, as given; the tanned pair at
+# (3,6)-(4,6) read as already fallen into the pits there (drawn a quarter cell low, like a sunk
+# piece). The top pair drops onto it, making a fallen square; the two singles fall in beside it as a
+# pair; the car crosses the pits on the girls' backs to fill (3,2); and the male glides up the ice
+# into the empty pit at (3,5), touching the square and the pair at once.
+N 2 8 R
+N 3 8 D
+N 5 5 U
+N 5 6 L
+N 4 6 L
+N 3 6 L
+N 1 5 R
+C 10 8 D
+C 10 7 L
+C 9 7 L
+C 8 7 L
+C 6 7 L
+C 4 7 D
+C 4 6 L
+C 3 6 L
+C 2 6 D
+C 2 5 D
+C 2 2 R
+M 1 1 U
+M 1 2 R
+M 2 2 R
+M 3 2 U

@@ -1,0 +1,54 @@
+# level 56, board 2d85441d8f75a985
+# 46 moves, an alternative to 56-solver.txt (45): the best before the refining night after pg2-139, played in the game by the user.
+# Level 56, 46 moves, not proven shortest: --improve from --relocate's 96 (3 threads, 30-million
+# limit per round, 166 million positions in all) found 47, and one of its moves (a car filling (9,7))
+# turned out not to be needed. Ground under every piece, as given. Each male takes two pairs at once:
+# the one at (1,4) steps onto a fallen ash-haired pair at (2,8) with a tanned pair standing beside it;
+# the one at (7,1) drops into the pit at (8,2) between a fallen tanned pair and a fallen ash pair.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 4 10 D
+F 7 10 L
+F 6 10 L
+F 5 10 L
+F 4 10 D
+F 4 9 D
+F 4 8 L
+F 1 7 U
+F 1 8 R
+N 1 10 R
+N 2 10 R
+N 10 10 L
+N 9 10 L
+N 8 10 L
+N 7 10 L
+N 6 10 L
+N 5 10 L
+N 3 10 D
+N 3 9 D
+M 1 4 U
+M 1 5 U
+M 1 6 U
+M 1 7 U
+M 1 8 R
+N 10 1 U
+N 10 2 U
+N 10 3 L
+M 7 1 R
+F 4 1 R
+F 5 1 R
+F 6 1 U
+N 1 1 R
+N 2 1 R
+N 3 1 R
+N 4 1 R
+N 5 1 R
+N 6 1 U
+N 6 2 U
+N 6 3 R
+N 7 3 R
+F 10 4 D
+F 10 3 L
+F 9 3 L
+F 8 3 L
+F 7 3 D
+M 8 1 U

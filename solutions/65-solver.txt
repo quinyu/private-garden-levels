@@ -1,0 +1,18 @@
+# level 65, board 69e9934daeeb9ea2
+# Level 65, 11 moves, proven shortest by the default search (1,057,648 positions, 17 s; also on 3 threads;
+# tidying finds nothing to cut). Ground under every piece, as given. One male, one girl. Two cars meet on the
+# centre column: one parks at (4,3) so the other, coming down from (4,6), stops on the ice at (4,4) and then
+# glides right into the pit at (6,4). The girl glides left over it and on along the row-5 ice into the pit at
+# (3,4); the male glides right over (2,5) into the pit at (3,5), right above her.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 2 2 R
+C 3 2 R
+C 4 2 U
+C 2 7 R
+C 3 7 R
+C 4 7 D
+C 4 6 D
+C 4 4 R
+N 8 4 L
+N 6 4 L
+M 1 5 R

@@ -1,0 +1,19 @@
+# level 50, board 1cdcb74f37dbd291
+# Level 50, 13 moves, proven shortest by A* (40,750 positions; --relocate finds this one and proves it
+# too). Ground under every piece, as given. The cars fill the two pits beside them to bridge the
+# middle; one girl crosses and falls into (4,5), the other walks onto her and steps off into (4,4),
+# making a pair in the pit column; the male, shut in his room, drops into (4,3) below it.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 6 6 L
+C 3 6 R
+N 7 6 L
+N 6 6 L
+N 5 6 L
+N 4 6 D
+N 2 6 R
+N 3 6 R
+N 4 6 D
+N 4 5 D
+M 2 2 U
+M 2 3 R
+M 3 3 R

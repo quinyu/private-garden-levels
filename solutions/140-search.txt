@@ -1,0 +1,27 @@
+# level 140, board 6f3b1a3c77b48677
+# 25 moves, an alternative to 140-solver.txt (24): where the default search, --relocate and --plan all end (first solutions 42, 36 and 30; 11,280,432, 11,151,431 and 10,930,398 positions). Regrouped.
+J 6 6 R
+J 7 7 R
+J 10 7 U
+J 10 9 R
+F 8 4 U
+F 8 5 U
+F 8 8 R
+F 6 2 U
+F 6 6 R
+F 7 6 U
+F 7 7 R
+J 9 9 R
+J 3 3 D
+J 3 1 R
+J 4 1 R
+J 5 1 U
+J 5 2 R
+J 6 2 U
+J 6 6 R
+J 7 6 U
+J 7 7 R
+J 9 7 U
+M 14 10 L
+M 13 10 L
+M 11 10 D

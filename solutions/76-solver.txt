@@ -1,0 +1,31 @@
+# level 76, board 6445b9f08ccebfd3
+# Level 76, 22 moves, proven shortest: found by the default search (16,668,303 positions; first solution
+# 42, tidied to 36); proven by A* with --limit 30000000 (20,545,705 positions) and by an --improve round
+# with a 40-million limit (20,452,897 positions). Ground under every piece, as given. Five girl blocks (two pairs, a single) and one male, so
+# he must touch them all at once. The top car fills (3,8); the single walks over it and falls into (3,7);
+# the top pair steps down to (3,9)-(4,9) and the bottom pair climbs the ice chute (two glides up, then onto
+# the fallen single and the car) and merges with it into a square (3,8)-(4,9). The bottom car fills (3,5);
+# the male walks onto it and glides up over the ice at (3,6) onto the fallen single, under the square.
+# Equally short: 76-hand.txt (my plan) and 76-astar.txt.
+C 2 10 D
+C 2 9 R
+C 3 9 D
+F 5 10 D
+F 5 9 L
+F 4 9 L
+F 3 9 D
+F 3 8 D
+F 3 10 D
+F 3 2 U
+F 3 4 U
+F 3 7 U
+C 5 1 U
+C 5 2 L
+C 4 2 L
+C 3 2 U
+C 3 4 U
+M 2 1 U
+M 2 2 U
+M 2 4 R
+M 3 4 U
+M 3 5 U

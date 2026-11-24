@@ -1,0 +1,23 @@
+ground
+###   
+#.####
+#....#
+#....#
+#....#
+#....#
+######
+
+pieces
+......
+.m....
+..aep.
+..fqb.
+.grhs.
+.tcud.
+......
+
+legend
+a b c d      girl1
+e f g h      girl5
+p q r s t u  gay
+m            male

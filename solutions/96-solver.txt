@@ -1,0 +1,41 @@
+# level 96, board c446afcff8fb885f
+# Level 96, 36 moves, proven shortest by the default search's shortening rounds (9,349,054 positions).
+# --relocate proves the same length with another 36 (the last pair to (14,3)-(14,4) under the male's
+# finish instead of (13,4)-(13,5) beside it). --plan finds nothing in 10 million positions, with or
+# without the finish shapes (all 47 endings of its fourth round tried, none built).
+C 2 6 U
+C 2 7 U
+C 2 5 U
+C 2 6 U
+C 2 7 U
+C 2 8 U
+F 13 10 L
+F 2 10 D
+F 2 9 R
+F 7 9 R
+F 8 9 R
+F 12 10 D
+F 12 8 D
+F 12 7 D
+F 12 6 D
+F 12 5 D
+F 2 1 R
+F 13 1 L
+F 12 1 U
+F 12 2 L
+F 8 2 L
+F 7 2 L
+F 3 2 R
+F 4 2 R
+F 5 2 R
+F 7 2 U
+F 12 4 R
+F 7 3 R
+F 8 3 R
+F 13 4 U
+F 13 5 R
+F 12 3 U
+F 12 4 U
+F 12 5 R
+M 16 5 L
+M 15 5 L

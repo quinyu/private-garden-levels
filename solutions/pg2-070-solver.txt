@@ -1,0 +1,27 @@
+# level pg2-070, board 269d106d45d1568c
+# 25 moves, not proven: the default search (first 29 after 5,243,339 positions, its rounds 25; 16,200,202 in all) and --relax (the copy without the Karins 30, the whole 25; 22,206,243 in all), the same moves; nothing shorter in a 40-million --improve round (40,000,001 positions); A* nothing in 30 million (30,000,033). --relocate, --carry and --carry --relocate in both modes and --plan nothing. Checked rules only (rubble breaking; gay tiles meeting, three at once; girls standing and merging on a fallen pair). The hint's route: the six ice balls fill the pits (3,4)-(8,4) and the male slides right over them. The Biwa (10,5) drops beside the fallen one into (10,4)-(11,4); the gay tile (9,5) drops into (9,4); the ice balls roll left into (8,4) to (3,4); the Biwa (18,4) walks onto the fallen pair at (11,4), the Biwa (10,3) steps up beside it, and the pair drops into (10,5)-(11,5): a fallen square; the Karin (9,6) drops into (9,5); four gay tiles drop or meet: three gone at (5,3), then the one from (8,3) drops into (9,3) beside the one in (9,4), both gone; the Karin (9,2) drops into (9,3); the male glides right along the ice into the pit (9,4), touching both Karins and the square.
+G 10 5 D
+H 9 5 D
+I 12 4 L
+I 13 4 L
+I 14 4 L
+I 15 4 L
+I 16 4 L
+I 17 4 L
+G 18 4 L
+G 17 4 L
+G 16 4 L
+G 15 4 L
+G 14 4 L
+G 13 4 L
+G 12 4 L
+G 10 3 U
+G 10 4 U
+N 9 6 D
+H 3 5 R
+H 5 5 D
+H 7 5 D
+H 4 3 R
+H 8 3 R
+N 9 2 U
+M 2 4 R

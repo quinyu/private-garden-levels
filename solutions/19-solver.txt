@@ -1,0 +1,17 @@
+# level 19, board 8a31eb6ce0621e4e
+# Level 19, found by the solver: 12 moves, proven shortest (A* with --limit 40000000). The brown-haired girls make a square in the
+# bottom-left corner for the left male; the blonde pairs stack in the pit by the right
+# male's corridor, so he lands on one and touches the other.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+G 6 1 R
+G 7 2 U
+G 7 3 U
+G 7 6 R
+F 3 8 D
+F 2 7 D
+G 6 8 R
+G 7 8 D
+G 7 7 R
+F 3 1 U
+M 1 1 R
+M 12 5 L

@@ -1,0 +1,22 @@
+# level 13, board db6065da7bb511af
+# The player's solution: drop a vertical pair into the pit column, stack a
+# horizontal pair on it, and bring the male up the left ice column onto it.
+F 1 7 U     # left girls: horizontal pair (1,8)-(2,8)
+F 5 8 R     # middle girls: vertical pair (6,7)-(6,8)
+F 6 8 L     # half over the pit at (5,7)
+F 5 8 L     # over the pit column: drops into (4,7)-(4,8)
+F 1 8 R
+F 2 8 R     # (3,8)-(4,8), half on top of the fallen pair
+C 2 2 R
+C 3 2 D     # drops into the pit at (3,1)
+C 13 8 D
+C 13 7 L
+C 12 7 L    # drops into the pit at (11,7)
+M 14 7 L
+M 13 7 L
+M 12 7 L    # onto the filled pit
+M 11 7 D    # glides down the right ice column
+M 11 1 L    # glides along the bottom row onto the filled pit
+M 3 1 U
+M 3 2 R
+M 4 2 U     # glides up onto the fallen pair: touches both pairs at once

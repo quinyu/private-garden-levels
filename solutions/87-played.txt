@@ -1,0 +1,50 @@
+# level 87, board 0634690816e87ebe
+# 41 moves, an alternative to 87-solver.txt (37): the best before the males' way measured the night after pg2-104, played in the game by the user.
+# solution was 71, shortened in rounds to 41); --relocate and A* (30 million, 14 moves deep) end at the
+# same 41, and --improve with 40 million finds nothing shorter. Floor under every piece, as given. One male, at (12,8),
+# must touch all four ash-haired girls and both pink girls at once. Cars from the bottom room fill the
+# pits (7,3) and (7,6), so the girls can go up column 7; the pink pair falls into (7,7)-(8,7); the
+# bottom ash pair rides up beside it and drops into (5,7)-(6,7); the top ash pair glides over the ice
+# onto it, making a square (5,7)-(6,8). The car (12,7) fills (8,8) so the male, gliding over the ice,
+# stops there; he steps into the pit (7,8), beside the square and just above the pink pair.
+C 11 1 L
+C 10 1 L
+C 9 1 L
+C 2 1 R
+C 3 1 R
+C 4 1 R
+C 5 1 R
+F 1 1 R
+F 2 1 R
+F 3 1 R
+F 4 1 R
+F 5 1 R
+C 7 1 U
+C 8 1 L
+C 7 1 U
+C 7 3 U
+J 3 4 R
+J 4 4 R
+J 5 4 R
+J 10 4 L
+J 8 4 L
+J 7 4 U
+J 7 6 U
+F 12 1 L
+F 11 1 L
+F 10 1 L
+F 9 1 L
+F 8 1 L
+F 6 1 U
+F 6 3 U
+F 6 6 U
+F 6 7 L
+F 1 7 U
+F 1 8 R
+F 2 8 R
+C 12 7 L
+C 11 7 U
+C 11 8 L
+M 12 8 L
+M 11 8 L
+M 8 8 L

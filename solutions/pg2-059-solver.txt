@@ -1,0 +1,23 @@
+# level pg2-059, board d5e082c189508b6a
+# 21 moves, not proven: a 40-million --improve round from --carry's 22 (60,117,613 positions over its rounds, the last nothing shorter); A* nothing in 30 million. The searches: --carry and --carry --relocate 22 (first 62 after 414,751 positions; 45 after 374,251), GARDEN_CARRY_MODE=dynamic 22 with both, the default search, --relocate, --plan (its 6th ending) and --relax 24. Checked rules only. Three pairs in the pits round (10,5): the Mikans as a pair at (8,5)-(9,5), the Biwas as pairs at (11,5)-(12,5) and (10,4)-(11,4) (the last standing on the first, then dropping); the car fills (8,6) for the Mikan pair; the male slides down column 2 into the portal (2,3), out of (10,6) going down into the pit (10,5), touching all three. pg2-059-hint.txt (22) is the hint's stacked clear instead.
+G 5 7 L
+G 4 7 D
+C 3 7 D
+C 3 6 R
+F 5 5 U
+F 5 8 R
+F 6 8 R
+F 7 8 D
+F 7 6 R
+F 8 6 D
+G 14 3 U
+G 14 4 U
+G 14 5 L
+G 13 5 L
+G 12 5 L
+G 3 5 R
+G 7 5 R
+G 8 5 R
+G 9 5 R
+G 10 5 D
+M 2 8 D

@@ -1,0 +1,34 @@
+# level pg2-111, board ece6ba6e20e7da82
+# 31 moves, an alternative to pg2-111-solver.txt (25): the best before the refining night after pg2-139, played in the game by the user.
+# 31 moves, not proven: GARDEN_WAY=1 with the default search (first 55 after 569,662 positions; 18,627,023 in all, 177 s) and with --relocate the same moves; the default search and --carry in both modes 34, --relocate and --carry --relocate in both modes 43, --plan nothing; a 40-million --improve round nothing shorter (40,001,350 positions), A* 30 million nothing (7 moves deep). No unchecked rule (--play, C and Python the same).
+C 4 2 U
+C 4 3 D
+G 14 4 L
+G 13 4 D
+G 13 3 D
+G 13 2 D
+C 14 2 L
+C 12 2 U
+M 7 2 D
+M 7 1 L
+M 6 1 L
+M 5 1 U
+M 5 2 L
+M 4 2 L
+M 3 2 D
+C 8 2 L
+G 1 1 U
+M 3 1 L
+G 13 1 U
+G 13 2 L
+G 12 2 L
+G 11 2 L
+G 10 2 L
+G 9 2 L
+G 8 2 L
+G 7 2 L
+G 6 2 L
+G 5 2 L
+G 4 2 L
+G 1 4 D
+M 2 1 U

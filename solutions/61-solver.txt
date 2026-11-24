@@ -1,0 +1,29 @@
+# level 61, board efafe1d86a758a36
+# Level 61, 21 moves, proven shortest (--improve, 3 threads, 25-million limit: runs out at 21,809,533
+# positions). The default search and --relocate find these 21; --plan 34. Ground under every piece, as given.
+# Two colours (tanned girl5, ash-haired girl1, printed "brown-haired"), one male: an ash pair falls into the
+# middle pits (4,6)-(5,6), a tanned pair stands on it at (5,6)-(5,7), and the male glides along row 6 onto
+# the fallen ash pair, beside the tanned one. A tanned girl at (8,7) stops the ash pair on row 6's ice; a car
+# at (1,7) stops the male at (1,6).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+F 8 9 D
+F 8 7 D
+N 7 9 R
+N 8 9 D
+F 7 1 U
+F 7 2 U
+F 7 3 U
+F 7 5 U
+F 7 6 L
+N 8 1 U
+N 8 2 U
+N 8 3 U
+N 8 5 U
+N 8 7 L
+C 1 9 D
+M 2 1 U
+M 2 2 U
+M 2 3 U
+M 2 5 L
+M 1 5 U
+M 1 6 R

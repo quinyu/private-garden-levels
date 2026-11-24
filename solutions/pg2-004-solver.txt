@@ -1,0 +1,22 @@
+# level pg2-004, board 41688343fd2a64e8
+# 20 moves, proven shortest by A* within the default search (109,639 positions, 1 s). Only checked rules: no strict switch refuses a move. Tidied and regrouped.
+G 4 10 D
+G 4 9 D
+G 4 8 R
+G 7 1 U
+G 7 2 U
+G 7 3 L
+G 1 7 D
+G 1 6 D
+G 1 5 R
+G 2 5 D
+G 2 4 R
+G 3 4 R
+G 6 4 U
+G 10 4 L
+G 9 4 U
+G 9 5 U
+G 9 6 U
+G 9 7 L
+G 8 7 L
+G 5 8 D

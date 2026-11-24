@@ -1,0 +1,14 @@
+# level pg2-073, board 52b77eabd24fcf9f
+# 12 moves, proven shortest: the default search (first 18 after 373,942 positions, tidied 12; its rounds found nothing shorter, 6,755,621 positions in all, 52 s); every other search the same moves (--relocate, --carry and --carry --relocate in both modes, --plan). Checked rules only (an ice ball rolling over a fallen piece; one falling into a pit makes it ice). The Biwa (7,9) steps into the pit (6,9); the gay tile (8,7) steps into the pit (8,8), out of the male's way; the male glides up into the pit (7,10); the ice ball (8,5) rolls left to (7,5) (the gay tile (6,5) stops it) and up over the fallen male, stopping at the wall; the Biwa (7,3) glides up to (7,9), under the ball, and goes left over the fallen Biwa into (5,9): a fallen pair (5,9)-(6,9); the ice ball (6,7) fills (6,8) with ice; the Biwa (10,6) glides left to (6,6), a pair with (5,6), which glides up over (6,7)-(6,8) onto the fallen pair and drops into (5,10)-(6,10): four, beside the male. Not the hint's route (the male into the bottom-left hole, the first pair made in the centre); both use a ball moved up as the stopper and a lying pair made into four.
+G 7 9 L
+H 8 7 U
+M 7 6 U
+I 8 5 L
+I 7 5 U
+G 7 3 U
+G 7 9 L
+G 6 9 L
+I 6 7 U
+G 10 6 L
+G 5 6 U
+G 5 9 U

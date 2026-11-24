@@ -1,0 +1,9 @@
+# level pg2-103, board 94066cad40c4e68a
+# 7 moves, proven shortest by A* within the default search (16,981 positions, 2 s; mirror images as one); every search the same moves. Checked rules only. Part of the hint: the ball unused, the four Biwas becoming a square as they touch the buried male; but no hole broken round him first: two singles merge into a lying pair each side, one pair slides under the male to (3,4)-(4,4), the other comes along rank 5 onto him, the square standing on the ice and on the male.
+G 3 6 L
+G 2 6 D
+G 5 6 R
+G 6 6 D
+G 6 4 L
+G 1 4 U
+G 1 5 R

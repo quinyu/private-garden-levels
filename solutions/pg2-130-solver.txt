@@ -1,0 +1,14 @@
+# level pg2-130, board 4742030ff63cf091
+# 12 moves, proven shortest: A* within the default search (75,278 positions, 2 s); every search the same moves (--relocate, --carry and --carry --relocate in both modes, GARDEN_WAY=1 with the default search and --relocate, --plan); tidying finds nothing to cut. No unchecked rule (--play, C and Python the same).
+G 3 5 L
+G 3 1 U
+G 7 1 R
+G 8 1 U
+G 8 6 R
+G 11 1 U
+G 11 6 D
+G 11 1 U
+G 11 6 D
+G 1 5 R
+G 2 5 D
+G 2 4 R

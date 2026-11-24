@@ -1,0 +1,13 @@
+# level pg2-080, board bedabc08fa7b6c6f
+# 11 moves, proven shortest by a 40-million --improve round (17,496,212 positions, 238 s); the default search (first 15 after 304,128 positions, tidied 13, its rounds 11; 11,149,059 in all, 138 s), --relocate, --carry and --carry --relocate in both modes the same moves; --plan 11 too (first 15); A* nothing in 30 million (30,000,031, 10 moves deep). Checked rules only (ice balls over a fallen piece and filling pits with ice; damaged ice wearing and breaking; merging first, then the merged piece reacting). Exactly the hint: the four-clear on top of the male, the square made as the last Biwa lands, after the Biwa pair is sent round the outside and brought back shifted over a ball's bridge. The ice ball (6,6) rolls right over the male to (9,6), against the Biwa (10,6), then up into the pit (9,7); the ball (7,5) rolls up onto the male, the stopper; the ball (7,7) rolls right into the pit (10,7), the bridge; the Biwa from (7,9) comes down and right over it beside the Biwa (10,6), an upright pair (10,6)-(10,7); the pair steps down to (10,5)-(10,6) and slides left to (8,5)-(8,6), stopped by the ball on the male; the Biwa from (7,3) comes up to (7,5); the ball on the male rolls up into the pit (7,7), broken at move 6; the Biwa from (4,6) slides onto the male, making the square (7,5)-(8,6) as she lands: all gone.
+I 6 6 R
+I 9 6 U
+I 7 5 U
+I 7 7 R
+G 7 9 D
+G 7 7 R
+G 10 7 D
+G 10 6 L
+G 7 3 U
+I 7 6 U
+G 4 6 R

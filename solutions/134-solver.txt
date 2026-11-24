@@ -1,0 +1,25 @@
+# level 134, board e195e1042c62fded
+# 23 moves, proven shortest: A* alone (1,058,623 positions); the default search and --relocate prove 23 too (other orders); --plan nothing with or without the finish shapes. Regrouped.
+F 4 2 L
+F 3 2 D
+J 4 3 D
+J 4 2 L
+J 3 2 D
+N 4 4 D
+N 4 3 D
+F 3 4 R
+M 2 3 R
+F 1 2 R
+N 1 4 D
+N 1 3 D
+M 3 3 L
+M 2 3 U
+F 4 4 D
+F 4 3 L
+F 3 3 D
+F 3 2 L
+F 2 2 D
+N 1 2 R
+M 2 4 R
+M 3 4 D
+M 3 3 D

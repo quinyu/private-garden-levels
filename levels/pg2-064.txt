@@ -1,0 +1,30 @@
+ground
+###########
+#_O5O_O5O_#
+#6O6O6O6O6#
+#OOOOOOOOO#
+#OO5OOO5OO#
+#OO5...5OO#
+#O.5...5.O#
+#O.@.#.@.O#
+###########
+
+pieces
+...........
+.a.i.b.d.g.
+.h.c.e.j.f.
+...........
+...........
+...........
+..k.....l..
+..m.p.q.n..
+...........
+
+legend
+d e f    girl1
+g h      girl2
+i j      girl3
+a b c    girl5
+k l      car
+m n      male
+p q      iceball

@@ -1,0 +1,20 @@
+# level pg2-001, board c09a72c7b59d72cd
+# 18 moves, not proven shortest: the default search (first solution 22 after 392,497 positions; its rounds 18, nothing shorter in the last, a 40-million round); --relax and --relocate 18 too; --plan nothing; A* (30 million positions) nothing, 11 moves deep. Played in the game by the user. Regrouped.
+G 1 4 U
+G 1 5 U
+G 1 6 U
+G 14 7 D
+G 14 6 D
+G 14 5 D
+G 14 4 L
+G 1 7 R
+G 2 7 R
+G 7 9 D
+G 7 8 D
+I 5 5 R
+G 8 2 L
+G 7 2 L
+G 6 2 U
+G 6 7 R
+G 7 7 D
+M 10 6 L

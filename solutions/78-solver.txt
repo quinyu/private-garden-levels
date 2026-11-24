@@ -1,0 +1,32 @@
+# level 78, board a564852f837c8bd7
+# Level 78, 22 moves by hand, checked in the engine; not proven shortest: nothing shorter with --improve
+# (40 million positions, 2 threads); A* with --limit 30000000 ran out. Ground under
+# every piece is floor, as given. Symmetric under a half turn: each male takes the four pieces of his half
+# in one move, standing on a fallen pair with a single above him, a single beside him and a pair on the
+# ice beside him. Top half: the green (dark-haired) pair slides left along row 8 and drops into the pits
+# (7,8)-(8,8); the pink single steps onto it at (7,8) as a stopper, so the ash-haired pair sliding right
+# stops on the ice at (5,8)-(6,8), and she steps back to (7,9); the blonde steps onto the fallen pair at
+# (8,8); the male walks up onto (7,8). The bottom half the same, turned. (The default search's first
+# solution was 90 moves, --relocate's 63.)
+K 13 8 L
+K 12 8 L
+K 11 8 L
+J 7 9 D
+F 1 8 R
+F 2 8 R
+F 3 8 R
+J 7 8 U
+G 8 9 D
+M 7 6 U
+M 7 7 U
+K 2 3 R
+K 3 3 R
+K 4 3 R
+J 8 2 U
+F 14 3 L
+F 13 3 L
+F 12 3 L
+J 8 3 D
+G 7 2 U
+M 8 5 D
+M 8 4 D

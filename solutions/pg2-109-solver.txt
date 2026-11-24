@@ -1,0 +1,12 @@
+# level pg2-109, board 73bd565dbfbee4b6
+# 10 moves, proven shortest by A* within the default search (59,845 positions, 2 s); every other search the same moves (--relocate, --carry and --carry --relocate in both modes, --plan). No unchecked rule (--play, C and Python the same).
+G 8 1 U
+G 8 4 L
+G 5 4 U
+G 5 5 U
+G 1 10 R
+G 3 10 D
+G 3 7 R
+M 5 1 U
+G 4 7 D
+M 5 4 U

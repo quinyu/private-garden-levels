@@ -1,0 +1,31 @@
+# level 81, board ee7b0e1ddd73a3c7
+# Level 81, 23 moves, the shortest (A* and --improve proved no solution is shorter; see 81-pits.txt). This
+# version is the user's idea: the girls' pair needn't fall into a pit, it can ride straight to the male.
+# Floor under every piece, as given. The top girl steps aside to (6,7) while two cars fill (5,8) and (4,8)
+# along the top; two more fill (3,6) and (3,3), a bridge down column 3. The bottom girl climbs column 3
+# (gliding up over the ice onto the car at (3,6)), crosses the top over the two cars and stops at (6,8) above
+# the other girl: a vertical pair (6,7)-(6,8). The pair rides down column 6: half over the pits at (6,6) and
+# (6,3) and over the ice, never wholly over a pit, it stops at (6,2)-(6,3) against the male, who never moves.
+F 6 8 D
+C 8 8 L
+C 7 8 L
+C 6 8 L
+C 3 8 D
+C 3 7 D
+C 1 8 R
+C 2 8 R
+C 3 8 R
+C 3 1 U
+C 3 2 U
+F 1 1 R
+F 2 1 R
+F 3 1 U
+F 3 2 U
+F 3 3 U
+F 3 6 U
+F 3 7 U
+F 3 8 R
+F 4 8 R
+F 5 8 R
+F 6 8 D
+F 6 7 D

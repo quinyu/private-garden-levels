@@ -1,0 +1,21 @@
+ground
+######
+#____#
+#____#
+#____#
+#____#
+######
+
+pieces
+......
+.ace..
+.bfgh.
+.dijk.
+.lmnp.
+......
+
+legend
+a d   girl2
+b l   girl3
+c e f g h i j k m n  car
+p     male

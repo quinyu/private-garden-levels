@@ -1,0 +1,45 @@
+# level 59, board 536e9ff422b8710b
+# Level 59, 36 moves, not proven shortest (the estimate at the start is 7). Ground under every piece, as
+# given. Found by playing the male's own 11-move route first (two cars fill (4,6) and (4,5); he walks to
+# (4,5)) and searching on with --from: the 25 moves after it are the fewest there are after that route
+# (the shortening rounds ran out at 7.3 million positions). Nothing shorter than 36 with --improve
+# (40 million positions, 2 threads). Other searches: the default 45, --relocate 45, --plan 39.
+# The girls' part: one pair falls into (5,5)-(6,5), a second stands on it at (6,4)-(6,5), a car fills
+# (7,5) for them, and the male steps onto the fallen pair at (5,5).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 2 9 D
+C 2 8 D
+C 2 7 R
+C 4 7 D
+C 3 5 R
+N 7 9 R
+N 8 9 D
+N 8 8 D
+N 8 7 D
+N 8 6 D
+C 7 8 R
+C 8 8 D
+C 8 7 D
+C 8 6 D
+N 6 8 R
+N 7 8 R
+N 8 8 D
+N 8 7 D
+N 8 6 D
+C 8 4 L
+C 7 4 U
+N 8 3 U
+N 8 4 L
+N 8 5 L
+N 8 1 U
+N 7 5 L
+N 6 5 L
+N 7 4 U
+N 7 5 L
+M 1 9 R
+M 2 9 D
+M 2 8 D
+M 2 7 R
+M 4 7 D
+M 4 6 D
+M 4 5 R

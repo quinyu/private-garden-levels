@@ -1,0 +1,22 @@
+# level 14, board b0e8a0df6dd8f00e
+# Build a square on the floor at the room's east end; the cars bridge the
+# male out of his ice spiral, and he walks along the girls' top row into it.
+F 7 6 R     # catches the girl at (9,6): pair (8,6)-(9,6)
+F 8 6 R
+F 9 6 R     # pair at (10,6)-(11,6)
+F 7 4 R     # catches the girl at (9,4): pair (8,4)-(9,4)
+F 8 4 R
+F 9 4 R
+F 10 4 U    # under the top pair: square (10,5)-(11,6)
+C 1 8 D     # glides down the left ice column to (1,4)
+C 6 8 L     # glides west along the top row to (1,8)
+C 1 8 D     # glides down onto the first car, stops at (1,5)
+C 1 5 R     # drops into the pit at (2,5)
+M 3 5 L     # onto the filled pit
+M 2 5 L     # glides to (1,5)
+M 1 5 U     # glides up to (1,8)
+M 1 8 R     # glides along the top row to (6,8)
+M 6 8 D     # glides down to the floor at (6,6)
+M 6 6 R
+M 7 6 R
+M 8 6 R     # touches the square at (10,6)

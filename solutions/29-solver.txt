@@ -1,0 +1,14 @@
+# level 29, board 18ebb6b2cb091a13
+# Level 29, 10 moves, proven shortest by A* (8,405 positions). The male glides into the pit ring; the
+# girls use his two floor tiles to stop and pair up in twos, glide over, and the last pair steps onto him,
+# merging with the other into a square as it does.
+M 9 6 R
+K 1 6 R
+K 8 6 R
+K 9 10 D
+K 16 5 L
+K 9 1 U
+K 9 5 R
+K 9 7 D
+K 9 6 R
+K 15 5 U

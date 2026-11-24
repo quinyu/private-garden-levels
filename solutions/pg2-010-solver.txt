@@ -1,0 +1,19 @@
+# level pg2-010, board b81c77e393b4e624
+# 17 moves, proven shortest by A* within the default search (3,638 positions, 2 s); --relocate the same moves. Move 11 takes the male through the portals (C7 to L8): with males and cars kept out of portals (GARDEN_STRICT=o) no solution exists (all 2,880 reachable positions searched).
+I 14 7 L
+C 12 4 D
+C 12 3 L
+C 11 3 D
+C 11 1 R
+C 14 1 U
+C 14 6 U
+C 14 7 L
+B 3 4 R
+M 11 9 D
+M 11 7 L
+M 1 8 D
+M 1 1 R
+M 4 1 U
+M 4 3 U
+M 4 4 R
+M 5 4 R

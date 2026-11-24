@@ -1,0 +1,42 @@
+# level 102, board 2b32c7ce915ddd0f
+# Level 102, 38 moves, proven shortest by the default search's shortening rounds (1,353,869 positions);
+# --relocate the same. With A* off, --plan builds its second round's ending 1 in 53 moves and shortens it
+# to 38, with or without the finish shapes. One free cell in a 5x5 room: the cars slide through it.
+C 2 1 R
+J 1 1 R
+C 1 2 D
+C 2 2 L
+C 3 2 L
+C 3 1 U
+J 2 1 R
+C 2 2 D
+C 2 3 D
+C 2 4 D
+C 2 5 D
+J 1 5 R
+C 1 4 U
+C 2 4 L
+C 3 4 L
+C 3 5 D
+J 2 5 R
+C 2 4 U
+C 3 4 L
+C 4 4 L
+C 5 4 L
+J 5 5 D
+C 4 5 R
+J 3 5 R
+C 3 4 U
+C 4 4 L
+J 5 4 L
+C 5 3 U
+C 5 2 U
+J 5 1 U
+C 4 1 R
+J 3 1 R
+C 3 2 D
+C 4 2 L
+J 5 2 L
+C 5 3 D
+C 4 3 R
+M 3 3 R

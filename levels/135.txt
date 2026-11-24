@@ -1,0 +1,21 @@
+ground
+###### #######
+#___.###OO.__#
+#O...OOOOO.OO#
+#O...OO#OO.OO#
+#___.###OO.__#
+###### #######
+
+pieces
+..............
+.a.bc.......m.
+..d.e.........
+..f.g.........
+.h.ij.......n.
+..............
+
+legend
+a c h j  girl5
+b d g i  girl1
+e f      car
+m n      male

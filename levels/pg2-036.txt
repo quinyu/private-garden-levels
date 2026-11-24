@@ -1,0 +1,20 @@
+ground
+########
+#______#
+#______#
+#______#
+#______#
+########
+
+pieces
+........
+..a.b.m.
+.e.c.d..
+..f.g.h.
+.i.j.k..
+........
+
+legend
+a b c d g h k  gay
+e f i j        girl2
+m              male

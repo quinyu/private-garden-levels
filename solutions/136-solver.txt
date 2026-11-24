@@ -1,0 +1,13 @@
+# level 136, board ead56ef8df5a3856
+# 11 moves, proven shortest by A* within the default search (43,224 positions); --relocate and A* alone the same; --plan builds it only with the finish shapes (levels 38's and 122's, 14 moves shortened to 11). Regrouped.
+N 1 4 R
+N 11 5 L
+N 2 5 D
+N 2 4 R
+N 11 4 U
+N 11 5 L
+N 12 4 L
+N 11 4 L
+N 4 5 U
+N 3 5 R
+N 5 5 U

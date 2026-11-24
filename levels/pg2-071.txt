@@ -1,0 +1,30 @@
+ground
+#############
+#.....O.....#
+#OOO.OOO.O###
+#..O.OOO.O#  
+#.@O.O@O.O#  
+#..O.O6O.O#  
+#OOO.OOO.O#  
+#OOO.OOO.O###
+#OO...O...OO#
+#############
+
+pieces
+.............
+.q.r.a.b.s.t.
+....uk.nv....
+.yz.ck.nd....
+....gl.oi....
+.BA.gl.oi....
+....hm.pj....
+....hm.pj....
+...w.e.f.x...
+.............
+
+legend
+g h i j k l m n o p    girl2
+a b c d e f            girl5
+q r s t u v w x        gay
+y z A                  male
+B                      car

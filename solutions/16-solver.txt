@@ -1,0 +1,16 @@
+# level 16, board 5ee47b93ff8ce250
+# Level 16, found by the solver and proven shortest (with --fallback-limit 60000000): 12
+# moves. Pairs walk on top of fallen pairs and step off sideways into the pit beside them,
+# making a square at the bottom of the pit; each male drops in beside one.
+F 7 5 D
+G 6 5 D
+F 5 5 R
+F 7 5 D
+F 7 3 D
+F 7 2 R
+G 8 5 D
+M 12 1 L
+G 8 3 L
+G 6 3 D
+G 6 2 L
+M 1 1 R

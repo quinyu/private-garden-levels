@@ -1,0 +1,27 @@
+# level pg2-224, board 447581a4cfd69076
+# 25 moves by the default search (--relocate and --relax the same moves; --plan and the dynamic --carry other 25s), not proven shortest (--refine from all three 25s, a 40-million --improve round and A* 30 million nothing shorter)
+K 6 6 D
+K 6 5 D
+H 5 5 U
+H 5 6 L
+H 1 6 R
+H 2 6 R
+K 13 2 R
+K 14 2 U
+K 14 3 L
+K 6 4 U
+K 6 5 L
+K 5 5 L
+K 4 5 U
+K 4 6 L
+I 18 1 U
+I 18 2 L
+M 18 3 D
+M 18 2 L
+M 17 2 L
+I 9 2 R
+I 14 2 U
+I 14 3 L
+M 15 2 L
+M 14 2 U
+M 14 3 L

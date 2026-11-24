@@ -1,0 +1,27 @@
+# level 110, board 35ae83c7b35b24f7
+# 25 moves: the default search, --relocate and --plan (with and without the finish shapes) all end at this same 25 (about 20 million positions each); an alternative to 110-solver.txt's 24, found by --improve from it.
+J 17 8 U
+J 17 9 L
+J 15 6 R
+J 18 6 D
+J 18 2 L
+J 11 2 U
+C 9 8 L
+C 7 8 D
+M 1 10 R
+M 7 10 D
+C 10 8 L
+C 9 8 L
+C 7 8 D
+J 1 1 U
+J 1 10 R
+J 7 10 D
+J 7 8 R
+J 9 8 R
+J 10 8 R
+M 7 6 R
+M 8 6 U
+C 7 7 R
+M 8 9 D
+M 8 8 R
+M 9 8 R

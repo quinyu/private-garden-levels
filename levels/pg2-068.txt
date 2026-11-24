@@ -1,0 +1,19 @@
+ground
+###########
+#6OO___OO6#
+#66@_._@66#
+#6OO___OO6#
+###########
+
+pieces
+...........
+.a...b...c.
+....mgn....
+.d...e...f.
+...........
+
+legend
+a b c  girl2
+d e f  girl5
+m n    male
+g      car

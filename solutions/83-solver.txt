@@ -1,0 +1,28 @@
+# level 83, board 268ff2fca2f68e5d
+# Level 83, 16 moves (by hand from the searches' 17); not proven shortest: nothing shorter with --improve
+# (40 million positions, 2 threads). Floor under every piece, as
+# given. Symmetric under a half turn, and so is this solution: each male clears his half's four girls in one
+# move, dropping onto a fallen pink pair with an ash-haired pair standing on it beside him. Top half: the pink
+# girl at (7,7) drops into (7,6); the ash girl at (2,7) slides along the ice into (7,7) and pairs with (8,7);
+# the other pink girl slides up to that pair, stopping at (6,7), and drops into (6,6): a fallen pink pair
+# (6,6)-(7,6). The ash pair steps down onto it at (7,6)-(8,6); the male steps right and up onto (6,6).
+# Bottom half the same, turned round. The default search, --relocate and A* (30 million) all ended at 17,
+# finishing the bottom half on the right (3 male moves); turned round, the top half's plan takes 2. Each half
+# alone (one male, its four girls) is proven 8 by A*, 9 with the farther male; so 16 is the fewest if each
+# male clears one half, which a girl crossing the males' block could in principle break.
+J 7 7 D
+F 2 7 R
+J 1 7 R
+J 2 7 R
+J 6 7 D
+F 7 7 D
+M 5 5 R
+M 6 5 U
+J 2 2 U
+F 7 2 L
+J 8 2 L
+J 7 2 L
+J 3 2 U
+F 2 2 U
+M 4 4 L
+M 3 4 D

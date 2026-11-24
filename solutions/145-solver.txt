@@ -1,0 +1,12 @@
+# level 145, board 3947b55a5096e62f
+# 10 moves, shortest: proven by A* at once (32,110 positions); --relocate the same; --plan builds it with and without the finish shapes (42,435 and 42,316 positions, proven by its rounds). Regrouped. (The first reading of the level had row y = 6 shifted one cell right; its 11 moves were for that wrong board.)
+C 7 5 R
+K 8 10 D
+K 8 5 L
+M 6 6 L
+K 11 4 L
+K 7 5 U
+K 7 6 U
+K 7 7 L
+K 2 7 R
+K 5 1 U

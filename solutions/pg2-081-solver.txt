@@ -1,0 +1,12 @@
+# level pg2-081, board 8dd0325c44841d16
+# 10 moves, proven shortest by A* within the default search (32,707 positions, 2 s); --relocate, --carry and --carry --relocate in both modes and --plan the same moves. Checked rules only (rubble and damaged ice breaking as a piece leaves; an ice ball filling a pit with ice; girls falling into pits beside fallen ones, merging first, then the merged piece reacting with the fallen male). The hint's four-clear down in the pits right of the male, the last Biwa dropping in beside him as the square forms, but the ice ball is not a stopper on the male: it rolls up into the pit (8,8) only so that the damaged ice it stood on, (8,7), breaks into a pit. The Biwa from (4,6) goes to (6,6) and up to (6,7); the Biwa (10,6) drops into the pit (9,6); the Biwa from (7,9) comes down beside the one at (6,7), a pair that slides right and drops into (8,7)-(9,7); the Biwa from (7,3) comes up to (7,5), right to (8,5), up over (8,6), which breaks, onto the fallen pair at (8,7), and steps down into the pit (8,6) beside the male: a fallen square, all gone.
+G 4 6 R
+G 6 6 U
+G 10 6 L
+I 8 7 U
+G 7 9 D
+G 6 7 R
+G 7 3 U
+G 7 5 R
+G 8 5 U
+G 8 7 D

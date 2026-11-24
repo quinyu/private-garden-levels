@@ -1,0 +1,44 @@
+# level 86, board 8dba9e4caf877dee
+# 33 moves, an alternative to 86-solver.txt (31): the best before the refining night after pg2-139, played in the game by the user.
+# Level 86, 33 moves, not proven shortest: an --improve round (40 million positions a round, 2 threads)
+# from the default search's 52 (A* with 30 million and --relocate ended at 52 and 58); a 100-million
+# round from the 33 (3 threads, 8.7 GB) found nothing shorter. Floor under every
+# piece, as given. The lone pink girl and all four ash-haired girls must be touched at once. Two cars drop
+# down the central column into the pit row at (6,1) and (7,1); on the way the pink girl stops on the ice at
+# (6,2), where she stops the right ash girl's glide at (7,2), and then steps down onto the car. The left ash
+# girl glides up to her: a pair (6,2)-(7,2), which climbs the column round the male's corner to (6,6)-(7,6).
+# The top ash girls pair at (2,7)-(3,7) and glide right into the square (6,6)-(7,7). The pink girl climbs
+# back to (6,5), and the male steps from (8,5) to (7,5), under the square and beside her.
+C 5 5 R
+C 6 5 D
+C 6 4 D
+C 6 3 D
+C 8 4 L
+C 7 4 D
+C 7 3 L
+C 6 3 D
+J 5 4 R
+J 6 4 D
+J 6 3 D
+C 6 1 R
+F 11 2 L
+F 10 2 L
+J 6 2 D
+F 2 2 R
+F 3 2 R
+F 6 2 U
+F 6 3 U
+F 6 4 L
+F 5 4 U
+M 8 5 D
+F 5 5 R
+F 6 5 U
+F 11 7 L
+F 10 7 L
+F 2 7 R
+F 3 7 R
+J 6 1 U
+J 6 3 U
+J 6 4 U
+M 8 4 U
+M 8 5 L

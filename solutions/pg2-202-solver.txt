@@ -1,0 +1,16 @@
+# level pg2-202, board caee66eb75240ec3
+# 14 moves, proven shortest by A* within the default search (33,825 positions, under a second); all ten searches the same moves. No unchecked rule (--play, C and Python the same).
+N 2 5 R
+N 3 5 D
+H 2 1 R
+H 3 1 U
+H 3 2 U
+H 14 5 L
+H 11 5 D
+H 11 4 D
+H 11 3 L
+N 3 4 D
+M 14 1 L
+M 11 1 U
+M 11 2 U
+M 11 3 L

@@ -1,0 +1,58 @@
+# level 48, board 686430c035e9f838
+# Level 48, 47 moves, not proven shortest. The default search with mirror images (the level starts
+# left-right symmetric) found 50: first solution after 1.3 million positions, nothing shorter in the
+# rounds after. Tidying with regrouping (since level 74) took three moves off: the brown-haired girl at
+# (7,5) steps down first, so the dark-haired one goes straight right into the pit at (8,5) and the
+# brown-haired pair forms at (6,4)-(7,4) where it is needed; and one pair move is cut. Nothing shorter
+# in a 10-million-position round (--improve) after it. Ground under every piece, as given. Shorter than
+# the 52 by hand: the males leave their corner. Girls drop pairs into the pits along the edges (a
+# dark-haired pair at (8,5)-(8,6), a tanned pair at (1,6)-(1,7)), and each male finishes on one,
+# touching three pairs at once: the right one at (8,5), the left one at (1,6).
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+N 2 6 L
+F 3 6 L
+F 2 6 L
+C 6 4 D
+C 6 3 L
+K 2 7 D
+K 2 6 R
+C 2 4 U
+C 7 4 R
+F 7 5 D
+K 6 5 R
+K 7 5 R
+F 6 6 D
+F 6 5 D
+N 6 7 D
+N 6 6 D
+K 7 7 D
+K 7 6 R
+N 3 7 L
+N 2 7 L
+K 3 6 U
+N 6 5 U
+N 6 6 U
+F 7 4 U
+F 7 5 U
+M 5 1 U
+M 5 2 U
+M 5 3 R
+M 6 3 U
+M 6 4 R
+M 7 4 R
+F 6 6 D
+N 6 7 D
+N 6 6 R
+M 8 4 U
+F 1 6 U
+F 1 7 U
+C 2 5 L
+M 4 1 U
+M 4 2 L
+M 3 2 U
+M 3 3 L
+M 2 3 U
+M 2 4 U
+M 2 5 L
+K 3 7 L
+M 1 5 U

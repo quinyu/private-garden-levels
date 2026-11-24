@@ -1,0 +1,25 @@
+# level pg2-067, board 205f975e7c2f8704
+# 23 moves, an alternative to pg2-067-solver.txt (22) that keeps the male still, as the hint's first line says: the default search on a scratch build that never moves the male (first 26 after 323,765 positions, tidied 25, its rounds 23; 10,746,281 in all); nothing shorter in a 40-million --improve round on that build (40,000,011 positions); --relocate on it nothing; three hand endings with the square at H3-I4, H4-I5 and I5-J6 built nothing new (I5-J6's build ended at this 23). A1 pairs with J1 at I1-J1, which steps up to I2-J2; A6 pairs with J6 at F6-G6 (lying, not the hint's upright pair of the left two); that pair goes right to G6-H6, down over the cracked floor to G3-H3 and right to I3-J3, J3 over the pit under the male: it merges with I2-J2 into a square touching him.
+I 4 1 L
+I 5 1 L
+I 8 1 L
+I 9 1 L
+G 1 1 R
+G 4 1 R
+G 5 1 R
+G 8 1 R
+G 9 1 U
+I 3 6 R
+I 2 6 R
+I 7 6 R
+I 6 6 R
+G 1 6 R
+G 2 6 R
+G 3 6 R
+G 10 6 L
+G 6 6 R
+G 7 6 D
+G 7 5 D
+G 7 4 D
+G 7 3 R
+G 8 3 R

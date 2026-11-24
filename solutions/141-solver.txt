@@ -1,0 +1,12 @@
+# level 141, board cb3e65526308a14c
+# 10 moves, proven shortest: A* within the default search (36,819 positions, under a second); --relocate and A* alone the same; --plan builds none of its endings goal by goal, but in stages its fourth (13 moves, shortened to 10, proven; 113,159 positions, 89,939 without the finish shapes). Regrouped.
+G 9 5 L
+G 3 5 D
+M 5 3 U
+F 9 2 L
+G 2 2 U
+G 2 4 R
+G 3 4 R
+F 2 5 D
+F 2 2 U
+M 5 4 L

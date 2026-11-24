@@ -1,0 +1,33 @@
+ground
+####################
+#OOOO_#OOO_#OOOOO..#
+#O##O_#O#O_#OOOOO..#
+#OOOO_#OOO_#OOOOO..#
+##__#OO_#OOOO_#OO..#
+#.__#OO_#OOOO_#OO..#
+#OOOOOOO_#OOO_#OO..#
+#O##OOOO_#O#O_#OO..#
+#O##O_#OO#OOOO#OO..#
+#OOOO_#OOOO#OO#OO..#
+#OOOO_#OOOOOOO#OO..#
+####################
+
+pieces
+....................
+.................ab.
+.................cd.
+.................ef.
+.................gh.
+.i...............jk.
+.................lm.
+.................no.
+.................pq.
+.................rs.
+.................tu.
+....................
+
+legend
+i  girl2
+h  male
+a r t u  ball
+b c d e f g j k l m n o p q s  iceball

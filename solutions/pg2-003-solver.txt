@@ -1,0 +1,14 @@
+# level pg2-003, board fc644c7debe4e196
+# 12 moves, proven shortest: the default search (186,024 positions), after the user's play of the 15 showed that a ball going into a portal whose exit is taken rolls on over it, as over ground (move 4 here). The same 12 with GARDEN_STRICT=p (183,543 positions). pg2-003-played.txt is the 16 the user played before. Tidied and regrouped.
+G 7 6 L
+G 10 3 R
+B 1 8 R
+B 3 8 D
+G 13 3 R
+G 14 3 U
+G 14 6 U
+G 3 3 U
+G 3 4 U
+G 14 5 U
+G 14 7 R
+M 10 6 R

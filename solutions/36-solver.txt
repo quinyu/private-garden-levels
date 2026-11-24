@@ -1,0 +1,36 @@
+# level 36, board ea5f1704745c5ac3
+# Level 36, 29 moves, proven shortest (the shortening rounds of --relocate, --plan and the default search all
+# ran out at 29). Floor under every piece, as given. Two cars fill (11,5) and (10,5), so the top pair, hopping
+# half on ground along the top, can stop at (9,5)-(10,5) and come down to the middle. The male drops into
+# (8,1); the top pair falls into (6,2)-(7,2); the bottom pair rides the ice onto it and steps down beside
+# the male, making a square with the fallen pair as it touches him.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 14 5 L
+C 13 5 L
+C 12 5 L
+C 13 4 U
+C 13 5 L
+C 12 5 L
+C 11 5 L
+M 8 3 D
+M 8 2 D
+K 1 5 R
+K 2 5 U
+K 2 6 R
+K 3 6 R
+K 4 6 R
+K 5 6 R
+K 6 6 D
+K 6 5 R
+K 7 5 R
+K 8 5 R
+K 9 5 D
+K 9 4 D
+K 9 3 D
+K 9 2 L
+K 8 2 L
+K 7 2 L
+K 1 2 R
+K 2 2 R
+K 5 2 R
+K 6 2 D

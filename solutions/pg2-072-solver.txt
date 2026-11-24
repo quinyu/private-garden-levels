@@ -1,0 +1,15 @@
+# level pg2-072, board 19f9489115ebce92
+# 13 moves, proven shortest: the default search (first 19 after 305,999 positions, tidied 13; its rounds found nothing shorter, 1,529,288 positions in all); --relocate and --carry --relocate the same moves, --carry in both modes and --relax other 13s, all proven; --plan nothing. Checked rules only (shattered ice breaking when left; a male out of a portal whose cell beyond is a wall stops on the exit; a gay tile standing on a fallen girl). The hint (all the floor breakable) is what every move rests on: the lower Karin pair drops into (5,2)-(6,2) and the upper one onto it, a square; the gay tile (5,3) steps onto the fallen pair first, so (5,3) is a pit; a Biwa drops into (4,4), the other two make a pair over the portal (3,3) and drop into (3,2)-(4,2); the gay tile (9,3) glides into (7,3), out of the male's way; the male glides to (3,5), goes down through the portal and stops on its exit (10,2) (a wall beyond), steps to (9,2) and goes back in: out of (3,3) going right into the pit (4,3), touching all three groups.
+N 5 1 U
+H 5 3 D
+N 5 4 D
+G 4 3 U
+G 2 2 U
+G 2 3 R
+G 3 3 R
+G 3 3 D
+H 9 3 L
+M 7 5 L
+M 3 5 D
+M 10 2 L
+M 9 2 R

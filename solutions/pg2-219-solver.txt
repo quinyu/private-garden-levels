@@ -1,0 +1,13 @@
+# level pg2-219, board f1d4abe239d8f7ed
+# 11 moves, proven shortest by the default search's rounds (822,948 positions, 7 s); all nine searches 11, each proven, the same moves in two orders (this one GARDEN_WAY=1's, a pair at a time)
+K 4 7 R
+K 5 8 D
+K 5 7 R
+B 13 2 L
+K 2 7 R
+K 3 8 D
+K 3 7 R
+K 4 7 D
+K 4 3 R
+K 12 3 U
+M 13 7 L

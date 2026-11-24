@@ -1,0 +1,14 @@
+# level 16, board 5ee47b93ff8ce250
+# Level 16 by hand, 12 moves: the blonde square first, on the left, then the brown-haired one.
+G 6 5 D   # b drops into the bottom pit at (6,1)-(6,2)
+F 7 5 D   # c drops into the bottom pit at (7,1)-(7,2)
+G 8 5 L   # d slides left until a stops it, at (6,4)-(6,5)
+G 6 5 D   # d glides down onto b's top, (6,2)-(6,3)
+G 6 3 D   # d steps fully onto b, (6,1)-(6,2)
+G 6 2 L   # d steps off into the empty pit at (5,1)-(5,2): blonde square (5,1)-(6,2)
+F 5 5 D   # a glides down onto the square's top, (5,2)-(5,3)
+M 1 1 R   # left male drops into (4,1) beside the blonde square: both gone
+F 5 3 R   # a glides over the emptied pit and stops on c's top, (7,2)-(7,3)
+F 7 3 D   # a steps fully onto c, (7,1)-(7,2)
+F 7 2 R   # a steps off into the empty pit at (8,1)-(8,2): brown-haired square (7,1)-(8,2)
+M 12 1 L  # right male drops into (9,1) beside the brown-haired square: both gone

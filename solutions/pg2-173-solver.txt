@@ -1,0 +1,6 @@
+# level pg2-173, board 8b1411aa2250b1b9
+# 4 moves, proven shortest by A* within the default search (45 positions, under a second); all nine searches the same moves (--relax doesn't apply: one colour). No unchecked rule (--play, C and Python the same).
+G 2 4 R
+G 18 4 U
+G 2 6 R
+M 18 8 D

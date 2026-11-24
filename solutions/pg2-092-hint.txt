@@ -1,0 +1,18 @@
+# level pg2-092, board efd75b331d55b5e7
+# 16 moves, an alternative to pg2-092-solver.txt (13): the hint's route, the user's request. The hint's opening: the leftmost ball (1,5) down to (1,2) and the third (3,5) down to (3,1), the male round by (2,1), (2,4) and (1,4) down onto the centre line at (1,3), stopped by the ball at (1,2). In the right room a hole opened in column 9 and a three-dimensional double four-clear: a Biwa pair fallen into (9,2)-(9,3) with a Biwa pair standing over it at (9,4)-(9,5), a Kurumi square standing at (10,3)-(11,4); the male slides right onto the fallen pair at (9,3), touching all three. Found by the default search and --relocate (the same moves) after the opening in a scratch build where the move clearing the last girl must clear a fallen one (without it they found a flat 15 after the opening, nothing fallen; the 13's start). Every colour fallen at the clear (a stricter build) 23. Checked rules only.
+I 1 5 D
+I 3 5 D
+K 9 1 R
+G 9 2 D
+K 11 4 L
+G 11 5 D
+K 9 4 R
+G 9 5 D
+G 9 2 U
+G 11 3 L
+K 10 1 U
+M 1 1 R
+M 2 1 U
+M 2 4 L
+M 1 4 D
+M 1 3 R

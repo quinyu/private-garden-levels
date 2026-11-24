@@ -1,0 +1,25 @@
+# level pg2-115, board 2c9d86bba1ffc1b6
+# 23 moves, not proven: the default search (first 52 after 800,641 positions; 13,091,784 in all), and --relocate (first 36), --relax, --carry and --carry --relocate in both modes the same moves; --plan another 23; GARDEN_WAY doesn't apply (a male touches a square without a bridge); a 40-million --improve round nothing shorter (40,000,055 positions), A* 30 million nothing (15 moves deep). No unchecked rule (--play, C and Python the same).
+M 6 5 D
+C 13 6 D
+C 13 1 L
+C 7 1 U
+C 7 5 L
+M 6 1 U
+M 6 4 L
+M 6 6 R
+M 7 6 U
+M 7 7 U
+M 8 6 L
+M 7 6 U
+M 7 7 U
+M 7 8 L
+M 8 5 L
+M 7 5 D
+C 6 5 R
+M 7 1 U
+M 7 4 R
+C 7 5 U
+C 7 6 U
+M 7 9 D
+M 7 8 R

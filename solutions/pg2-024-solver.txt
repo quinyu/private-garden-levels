@@ -1,0 +1,23 @@
+# level pg2-024, board c13ad8f129f74c61
+# 21 moves, not proven: the default search (first 23, tidied 21; 10,308,861 positions); --relocate 22; nothing shorter in a 40-million --improve round; A* (30 million positions) nothing; --plan nothing. Checked rules only (a girl pair and a car standing on a fallen gay tile: as in pg2-005, pg2-020, played).
+H 16 3 U
+H 16 9 L
+G 16 2 U
+G 15 3 U
+G 15 9 L
+G 9 9 D
+G 9 8 D
+G 9 7 D
+G 9 6 L
+H 1 4 D
+C 1 5 D
+C 1 6 D
+G 1 9 D
+G 1 5 R
+G 2 5 R
+G 6 5 R
+G 7 5 R
+M 10 2 U
+M 10 3 U
+M 10 4 U
+M 10 5 L

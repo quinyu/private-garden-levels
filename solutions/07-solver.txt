@@ -1,0 +1,4 @@
+# level 07, board 16e3c870c6f78504
+# Level 07, 2 moves, shortest (32 positions looked at): A* (the default search). Saved at level 62 so every level has an NN-solver.txt.
+F 3 3 U
+F 3 6 D

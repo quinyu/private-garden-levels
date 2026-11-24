@@ -1,0 +1,7 @@
+# level pg2-159, board f02e357ddaec1a15
+# 5 moves, proven shortest: all seven searches find 5 at once and prove it in their rounds (362,133-365,910 positions, 5 s each); two different 5s: this one the default search's, --plan's, --carry's and the dynamic --carry's (the Biwa P6 onto the fallen pair, the Biwa R5 joins her); --relocate and both --carry --relocate the other (R5 onto Q5, then up onto the fallen pair beside P6). No ball moves: the hint's ball route is not needed. No unchecked rule (--play, C and Python the same).
+G 17 5 U
+G 17 6 U
+G 16 6 R
+G 18 5 L
+M 18 7 L

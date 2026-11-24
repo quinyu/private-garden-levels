@@ -1,0 +1,49 @@
+# level 34, board a99e8c389a1e26a2
+# Level 34, 41 moves (not proven shortest: nothing shorter in 40 million positions with --improve), first
+# found by --plan after 39,294 positions; the plain and the
+# relocation searches found nothing in 3 million. Floor under every piece, as checked in the game.
+# The girls make a square in their room, one single dropping into the pit at (4,3) as half a bridge;
+# three cars fill the pits at (12,6), (11,6), (10,6) as a way across the top, a fourth fills (5,3);
+# the male rides the ice up onto the top cars, slides down and across onto the fallen girl.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+K 2 5 D
+K 2 4 D
+K 2 3 R
+K 3 3 R
+K 1 6 D
+K 1 5 R
+K 2 5 R
+K 3 6 D
+K 3 5 D
+K 1 4 R
+C 13 7 D
+C 13 6 L
+C 14 6 L
+C 13 6 L
+C 12 6 L
+C 15 7 D
+C 15 6 L
+C 14 6 L
+C 13 6 L
+C 12 6 L
+C 11 6 D
+C 11 3 L
+C 16 6 L
+C 15 6 L
+C 14 6 L
+C 13 6 L
+C 12 6 L
+C 11 6 L
+M 2 1 R
+M 3 1 R
+M 4 1 R
+M 5 1 R
+M 6 1 R
+M 7 1 R
+M 8 1 R
+M 9 1 R
+M 10 1 U
+M 10 6 R
+M 11 6 D
+M 11 3 L
+M 5 3 L

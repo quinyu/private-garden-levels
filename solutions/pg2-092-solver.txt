@@ -1,0 +1,15 @@
+# level pg2-092, board efd75b331d55b5e7
+# 13 moves, not proven: --improve rounds from the 15 that the default search and --relocate found after the hint's opening (pg2-092-hint.txt's first six moves: 15 to 14 in 21,200,002 positions, 14 to 13 in 6,000,007, then a 40-million round from the 13 nothing shorter); A* nothing in 30 million (7 moves deep). From the start every search but --plan 18, --plan nothing, a 40-million --improve round from the 18 only 17 (pg2-092-played.txt). Checked rules only (cracked ice wearing and breaking; girls stopping on ice by merging; an ice ball rolling until stopped; a pair held up by one block over a pit; the male stopping on touching girls). A flat double four-clear at (9,3): a Kurumi pair upright at (9,4)-(9,5) above him, a Kurumi pair lying at (9,2)-(10,2) below him, a Biwa square at (10,3)-(11,4) to his right, all standing; the male stopped on the centre line at (1,3) by the right room's ball (10,5), rolled left along it and up to (1,4), as in the 17. Not the hint's route (no hole, the hint's balls not used): that is pg2-092-hint.txt.
+G 9 2 R
+I 10 5 D
+G 9 5 R
+K 9 4 U
+K 11 4 L
+G 10 5 D
+I 10 3 L
+I 1 3 U
+G 10 2 U
+K 11 1 L
+K 9 1 U
+M 1 1 U
+M 1 3 R

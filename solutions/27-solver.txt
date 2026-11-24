@@ -1,0 +1,18 @@
+# level 27, board ff7a15994d226908
+# Level 27, 13 moves, proven shortest by A*. Ground under the pieces as checked in the game (the left car
+# on ice). A car fills the pit in the right-hand corridor for the male, the other bridges the pit at the
+# top of the ice; the girl glides down into the bottom pit, and the male glides down and across onto her.
+# Regrouped for reading (--tidy, since level 74): the same moves, a piece's moves together wherever the order doesn't matter.
+C 5 3 R
+C 3 4 U
+M 6 1 U
+M 6 2 U
+M 6 3 U
+M 6 4 U
+M 6 5 U
+M 6 6 U
+M 6 7 L
+M 5 7 L
+M 3 7 D
+M 3 1 L
+K 1 8 D

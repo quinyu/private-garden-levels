@@ -1,0 +1,11 @@
+# level 133, board ad9e2785a0187a5b
+# 9 moves, proven shortest by A* within the default search (1,362 positions); --relocate, --plan with and without the finish shapes, and A* alone prove 9 too. Regrouped.
+N 2 4 D
+N 2 5 D
+N 3 4 D
+N 3 5 D
+N 2 3 R
+N 3 3 R
+N 2 4 D
+N 2 3 R
+N 3 3 D

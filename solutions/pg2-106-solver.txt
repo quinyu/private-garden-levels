@@ -1,0 +1,17 @@
+# level pg2-106, board d4a4a3039dad87ec
+# 15 moves, proven shortest by the default search's rounds (first 19 after 349,972 positions; 10,029,381 in all, 38 s); every other search the same moves (--relocate, --carry, --carry --relocate, both in the dynamic mode too, --plan, --relax). No unchecked rule (--play, C and Python the same).
+K 2 5 D
+G 3 5 L
+K 4 5 D
+K 3 6 D
+K 3 5 D
+G 5 5 L
+G 4 6 L
+K 5 6 L
+K 4 4 U
+K 4 6 U
+M 5 3 U
+M 5 4 U
+K 3 4 R
+K 2 4 R
+M 5 5 L

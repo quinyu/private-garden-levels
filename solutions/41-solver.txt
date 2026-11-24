@@ -1,0 +1,9 @@
+# level 41, board 388af609fd874143
+# Level 41, 6 moves, proven shortest by A* (539 positions). Floor under every piece, as given. The male
+# glides up into the pit at (2,4), the car fills the pit at (2,7), and the girl walks down onto the male.
+M 2 2 U
+C 2 6 U
+K 2 9 D
+K 2 7 D
+K 2 6 D
+K 2 5 D

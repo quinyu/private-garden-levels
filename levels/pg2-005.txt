@@ -1,0 +1,21 @@
+ground
+####  #####
+#__#  #___#
+#__#  #___#
+#__####___#
+#_________#
+###########
+
+pieces
+...........
+..a....gbp.
+.cq....dre.
+.hq....ifs.
+.jtkulmnvo.
+...........
+
+legend
+a b c d e f j k l n o  iceball
+g h i s t u v  gay
+p q r  girl2
+m  male
