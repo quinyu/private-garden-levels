@@ -11,6 +11,8 @@ and *Private Garden 2* (pg2-001 to pg2-231), decoded from screenshots, each with
 
 A move is one input: a whole glide or roll counts as one move.
 
+`HANDBOOK.md`: the game's rules, the habits that make solving work, and the notation, for a reader learning the game.
+
 ## Level files
 
 Sections, each under its own heading line, rows written from the top of the board down:
