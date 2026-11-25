@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-15, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-16, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -76,12 +76,15 @@ solutions/; that repository's README explains the two file formats).
     though they never moved. Pieces at rest never react, even when they touch from the start: four girls standing
     as a 2x2 block at the start are four singles until one of them moves.
 
-## Rules not taught yet
-
-**Private Garden 1**
+**Craters**
 30. A clear leaves pits (craters): every cell under the boy and the groups he cleared becomes a pit, except where a
     fallen car lies under them (it stays, and its cell stays filled). Later pieces can fall in, and a later boy can
     use the new pits.
+    Cars never go in a clear (rule 20), and cells under nothing that went don't change.
+
+## Rules not taught yet
+
+**Private Garden 1**
 31. A piece standing on a piece that is cleared falls into the pit left under it.
 32. Cars move over fallen girls and fallen boys as over floor, with no reaction.
 33. A girl who touches several boys at once clears all of them with her group.
