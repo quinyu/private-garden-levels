@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-23, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-24, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -150,3 +150,11 @@ solutions/; that repository's README explains the two file formats).
 12. **A fallen piece is touched from on top.** A group standing on a fallen boy touches him (rule 16), and a boy
     standing on a fallen group touches it; standing beside it, a piece does not. So a boy down in a pit is reached by
     bringing a girl group onto his cell, often as the last move, sticking to another group as it arrives (rule 22).
+13. **Who reacts with whom.** For each cell beside a slide's path, read in the cell list what stands there, then:
+    - a moving girl beside a single girl of her colour: sticks (a pair); beside the boy: contact, both vanish;
+      beside a gay tile: nothing (gay tiles ignore girls);
+    - a moving boy beside a girl group: contact, both vanish (a boy never sticks); beside a gay tile: both vanish;
+    - a moving gay tile beside the boy or another gay tile: both vanish; beside a girl: nothing;
+    - a moving pair: sticks only to a pair that makes a 2x2 with it; a single beside it: nothing (rule 10);
+    - a piece standing beside a fallen one: nothing (another height, rule 16).
+    Each block of a moving group has its own neighbours: check them all.
