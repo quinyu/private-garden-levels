@@ -63,6 +63,9 @@ solutions/; that repository's README explains the two file formats).
 23. A move goes one cell. If that cell is ice, the piece slides on, and keeps sliding while everything under it is
     ice. A single that reaches a pit falls in. A pair with one block over a pit and the other on ice is held up and
     slides on. A pair with any block on floor stops, and so does a piece that steps onto a fallen one.
+    So a slide ends ON the first cell that is not ice (floor, or a pit filled by a fallen piece), never before it.
+    It ends BEFORE a cell only when that cell is a wall or holds a standing piece. (Rules 24 and 28 can end it
+    sooner. Lesson 37.)
 24. A girl or pair sliding on ice stops where it sticks, even with free ice ahead.
 27. A slide goes straight on, in the direction of the move. It never turns a corner.
 28. A slide stops where a contact happens. A girl sliding past the boy meets him the moment she is beside him, and a
