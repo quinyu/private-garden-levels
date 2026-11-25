@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-17, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-18, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -90,12 +90,16 @@ solutions/; that repository's README explains the two file formats).
 32. Cars move over fallen girls and fallen boys as over floor, with no reaction.
 33. A girl who touches several boys at once clears all of them with her group.
 
-## Rules not taught yet
-
-**Private Garden 2** (more pieces and grounds)
+**Damaged ground (Private Garden 2, lesson 18)**
 34. Damaged ice and damaged floor wear as pieces pass over them. Cracked ice bears one more passing, then becomes
     shattered ice; shattered ice becomes a pit when a piece leaves it. Worn floor goes the same way, through rubble,
     to a pit.
+    A cell wears each time a piece leaves it, also by sliding across it; the cell a piece stops on is not worn until
+    it leaves.
+
+## Rules not taught yet
+
+**Private Garden 2** (more pieces and grounds)
 35. Balls (stone balls and ice balls) roll like a slide, until something stops them or they drop into a pit. A ball
     in a pit fills it: a stone ball with floor, an ice ball with ice (which later pieces slide over). A ball never
     reacts with girls or boys; a piece sliding into a ball stops beside it. Balls roll over fallen pieces like
@@ -130,3 +134,6 @@ solutions/; that repository's README explains the two file formats).
 8. **Write each move as "piece, from-cell → to-cell (direction)"**, and check that the direction matches the numbers.
 9. **Say "stuck at ..." and stop** when you are stuck. A guess dressed as an answer is worse than no answer.
 10. **Answers only.** The reply holds the moves (one short line each) and the total; the working stays out of it.
+11. **Check beside every cell of a slide.** At each cell a sliding piece passes, look at the four cells beside it:
+    a girl there may stick (rule 24), a boy there makes the contact (rule 28). Either way the slide stops on that
+    cell. Looking only along the row or column of the slide misses them (lessons 13 and 18).
