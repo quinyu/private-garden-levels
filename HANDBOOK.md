@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-18, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-19, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -97,13 +97,15 @@ solutions/; that repository's README explains the two file formats).
     A cell wears each time a piece leaves it, also by sliding across it; the cell a piece stops on is not worn until
     it leaves.
 
-## Rules not taught yet
-
-**Private Garden 2** (more pieces and grounds)
+**Balls (Private Garden 2, lesson 19)**
 35. Balls (stone balls and ice balls) roll like a slide, until something stops them or they drop into a pit. A ball
     in a pit fills it: a stone ball with floor, an ice ball with ice (which later pieces slide over). A ball never
     reacts with girls or boys; a piece sliding into a ball stops beside it. Balls roll over fallen pieces like
     ground.
+
+## Rules not taught yet
+
+**Private Garden 2** (more pieces and grounds)
 36. Warps come in linked pairs. A one-block piece (a single girl, the boy, a car, a ball, a gay tile) entering one
     comes out of the other and goes on the same way. If the cell beyond the exit is taken, it comes out onto the exit
     and stops there, reacting or sticking with what is beside it. If the exit itself is taken, nothing goes through:
