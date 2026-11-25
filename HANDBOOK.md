@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-13, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-15, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -52,7 +52,8 @@ solutions/; that repository's README explains the two file formats).
 
 **Height**
 16. A piece standing on a fallen piece touches it. A piece standing on floor beside a pit does not touch a piece that
-    has fallen into that pit: they are at different heights.
+    has fallen into that pit: they are at different heights. But a girl standing on a fallen girl of her colour does
+    not stick to her: sticking is side by side, at the same height (rules 7, 26).
 26. Pieces at the same height touch side by side: both standing, or both fallen. A boy who falls into a pit touches
     girls lying fallen in the pits beside him.
 
@@ -70,10 +71,14 @@ solutions/; that repository's README explains the two file formats).
 20. A car never reacts: it doesn't stick, the boy doesn't clear it, and it need not go. A fallen car fills its pit
     and is floor from then on.
 
+**Who reacts**
+29. Only the moving piece reacts, where it stops: it sticks to girls already there and meets a boy already there,
+    though they never moved. Pieces at rest never react, even when they touch from the start: four girls standing
+    as a 2x2 block at the start are four singles until one of them moves.
+
 ## Rules not taught yet
 
 **Private Garden 1**
-29. Only the moving piece reacts, where it stops. Pieces at rest never react, even when they touch from the start.
 30. A clear leaves pits (craters): every cell under the boy and the groups he cleared becomes a pit, except where a
     fallen car lies under them (it stays, and its cell stays filled). Later pieces can fall in, and a later boy can
     use the new pits.
