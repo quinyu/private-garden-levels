@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-19, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-20, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -103,15 +103,18 @@ solutions/; that repository's README explains the two file formats).
     reacts with girls or boys; a piece sliding into a ball stops beside it. Balls roll over fallen pieces like
     ground.
 
-## Rules not taught yet
-
-**Private Garden 2** (more pieces and grounds)
+**Warps (Private Garden 2, lesson 20)**
 36. Warps come in linked pairs. A one-block piece (a single girl, the boy, a car, a ball, a gay tile) entering one
     comes out of the other and goes on the same way. If the cell beyond the exit is taken, it comes out onto the exit
     and stops there, reacting or sticking with what is beside it. If the exit itself is taken, nothing goes through:
     a ball rolls on over the entry as over floor, any other piece stops on it. A single that would react or stick with
     something beside the entry does so there and never goes through. A pair crosses a warp as if it were floor. A
     warp destroyed by a clear is a pit, and its partner becomes plain floor.
+    A warp is not damaged ground: it never wears.
+
+## Rules not taught yet
+
+**Private Garden 2** (more pieces and grounds)
 37. Gay tiles (a man's face; the hints call them 兄貴, "big brother"): a gay tile and a boy that touch both vanish,
     and the ground under them becomes pits, also when the gay tile lies fallen in a pit. Two gay tiles that touch
     both vanish, leaving pits; one touching several at once takes them all. Gay tiles ignore girls and cars.
