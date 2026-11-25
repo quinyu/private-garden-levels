@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-21, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-23, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -145,4 +145,8 @@ solutions/; that repository's README explains the two file formats).
 10. **Answers only.** The reply holds the moves (one short line each) and the total; the working stays out of it.
 11. **Check beside every cell of a slide.** At each cell a sliding piece passes, look at the four cells beside it:
     a girl there may stick (rule 24), a boy there makes the contact (rule 28). Either way the slide stops on that
-    cell. Looking only along the row or column of the slide misses them (lessons 13 and 18).
+    cell. Looking only along the row or column of the slide misses them (lessons 13, 18, 21, 23). Write the slide
+    out: one short line per cell it reaches, with what is beside it, until it stops.
+12. **A fallen piece is touched from on top.** A group standing on a fallen boy touches him (rule 16), and a boy
+    standing on a fallen group touches it; standing beside it, a piece does not. So a boy down in a pit is reached by
+    bringing a girl group onto his cell, often as the last move, sticking to another group as it arrives (rule 22).
