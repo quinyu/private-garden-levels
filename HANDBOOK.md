@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-24, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-28, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -158,3 +158,7 @@ solutions/; that repository's README explains the two file formats).
     - a moving pair: sticks only to a pair that makes a 2x2 with it; a single beside it: nothing (rule 10);
     - a piece standing beside a fallen one: nothing (another height, rule 16).
     Each block of a moving group has its own neighbours: check them all.
+14. **A fall can be the contact.** A boy who falls into a pit touches the girls lying fallen in the pits beside him:
+    both down, the same height (rule 26). When girls lie fallen beside a pit, his fall into it is the winning move.
+    With habit 12, the heights: standing on a fallen piece touches it; fallen beside a fallen piece touches it;
+    standing beside a fallen piece touches nothing (lessons 27, 28).
