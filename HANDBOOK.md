@@ -1,7 +1,7 @@
 # Private Garden: a handbook for solving levels
 
 Everything needed to start solving Private Garden levels from scratch. It covers the rules as they were taught in
-lessons 1-20, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
+lessons 1-21, with their corrections folded in, the rules not taught yet, the habits that make solving work, and the
 notation. The levels and their best known solutions are at https://github.com/quinyu/private-garden-levels (levels/,
 solutions/; that repository's README explains the two file formats).
 
@@ -112,12 +112,16 @@ solutions/; that repository's README explains the two file formats).
     warp destroyed by a clear is a pit, and its partner becomes plain floor.
     A warp is not damaged ground: it never wears.
 
-## Rules not taught yet
-
-**Private Garden 2** (more pieces and grounds)
+**Gay tiles (Private Garden 2, lesson 21)**
 37. Gay tiles (a man's face; the hints call them 兄貴, "big brother"): a gay tile and a boy that touch both vanish,
     and the ground under them becomes pits, also when the gay tile lies fallen in a pit. Two gay tiles that touch
     both vanish, leaving pits; one touching several at once takes them all. Gay tiles ignore girls and cars.
+    A gay tile moves like any one-block piece, and its slide stops where it touches a boy or another gay tile.
+    A girl lying fallen under a gay tile that vanishes stays there (gay tiles ignore girls).
+
+## Rules not taught yet
+
+**Private Garden 3** (not met yet)
 38. Lesbian tiles: not met in any level yet. Their rules are unknown until a level with one is played.
 
 ## Habits that make solving work
