@@ -1,0 +1,12 @@
+# level pg3-011, board 710e4e06f53ae380
+# 10 moves by hand (the searches from the start found nothing: the default search, --relocate, the four --carry and the two GARDEN_WAY=1 searches 50 million positions each, --plan; the default search --from its first 4 moves finds the rest at once, from its first 2 a 15), not proven (--refine and a 40-million --improve round nothing shorter); checked rules only (moves 5 and 7 by the user's play: a box onto a sunk gay tile, a thrown box into an empty pit); the hint's jumps: gay tiles cleared onto sunk ones (D3 emptied; J3 with I3, J4, J2; G4 with F4, H4), the box C3 a trampoline in D3, the box C1 thrown from it into the crater I3, the boy thrown from D3 onto I3 and on, cut short by the square onto K3
+H 5 3 L
+~ 3 3 R
+H 11 3 L
+H 7 3 U
+~ 3 1 U
+~ 3 2 U
+~ 3 3 R
+M 2 2 U
+M 2 3 R
+M 3 3 R
