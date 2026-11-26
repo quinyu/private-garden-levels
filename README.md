@@ -42,7 +42,7 @@ also girl6 Lemon (white frame), girl7 Saya (blue) and girl8 Natsumi (red).
 One move a line: the piece's kind letter, one of its cells as `x y`, and a direction `U` `D` `L` `R`.
 
 - Kind letters: `F` girl1, `G` girl2, `K` girl3, `J` girl4, `N` girl5, `S` girl6, `T` girl7, `+` girl8, `~` a standing trampoline, `M` male, `C` car,
-  `B` ball, `I` ice ball, `H` gay tile, `1` to `9` a bomb showing that count.
+  `B` ball, `I` ice ball, `H` gay tile, `1` to `9` a bomb showing that count, `a` to `z` one showing 10 to 35.
 - Cells: `x` the column from the left edge, `y` the row from the bottom edge, both counted from 0 at the grid's edge.
   With the walls on the edges, `x` is the chessboard file (A = 1) and `y` the rank: `3 6` is C6.
 - Lines starting with `#` are comments. The first, `# level NAME, board HEX`, ties the file to its level's board.
