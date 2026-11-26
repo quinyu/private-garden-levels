@@ -21,13 +21,14 @@ Sections, each under its own heading line, rows written from the top of the boar
 - `ground`: one character a cell. `#` wall, a space outside the board, `.` floor, `_` ice, `O` pit, `1` `2` `3`
   damaged floor (`3` the last stage, rubble), `4` `5` `6` damaged ice (`6` the last stage), `@` a warp (two in a
   level, sending a piece to each other), `^` a trampoline (Private Garden 3, pg3-002: standing in a pit; a single
-  moving onto it is thrown on, over pits and on at each trampoline it reaches, then runs on over ground and lands
-  where the run ends; a pair steps onto it as onto floor), `?` ground hidden under a piece that never moves.
+  moving onto it is thrown 5 cells on, over anything, and comes down on the fifth, whatever it is, a wall or a
+  standing piece cutting it short; a pair steps onto it as onto floor), `?` ground hidden under a piece that never moves.
 - `pieces`: each piece its own letter on every cell it covers, `.` elsewhere. A piece wholly over pits is down in
   them (fallen); one with any block on ground is held up by it.
 - `fallen` (pg2-114, pg3-001): a second grid like `pieces`, for a piece lying in a pit under another.
 - `legend`: piece letters to kinds: `girl1` to `girl8` (one a colour), `male`, `car`, `ball`, `iceball`, `gay`
-  (a gay tile), `bomb1` to `bomb9` (Private Garden 3: a bomb showing that count; it counts down with each of its
+  (a gay tile), `trampoline` (Private Garden 3, pg3-004: a standing trampoline, a box that moves as a car and is a
+  trampoline once moved into a pit), `bomb1` to `bomb9` (Private Garden 3: a bomb showing that count; it counts down with each of its
   own moves, and showing 1 it goes one cell, on ice or not, and explodes there, leaving a pit).
 
 Girl colours: girl1 brown-haired (in Private Garden 2 Mikan, orange frame), girl2 blonde (Biwa, cyan), girl3
@@ -38,7 +39,7 @@ also girl6 Lemon (white frame), girl7 Saya (blue) and girl8 Natsumi (red).
 
 One move a line: the piece's kind letter, one of its cells as `x y`, and a direction `U` `D` `L` `R`.
 
-- Kind letters: `F` girl1, `G` girl2, `K` girl3, `J` girl4, `N` girl5, `S` girl6, `T` girl7, `+` girl8, `M` male, `C` car,
+- Kind letters: `F` girl1, `G` girl2, `K` girl3, `J` girl4, `N` girl5, `S` girl6, `T` girl7, `+` girl8, `~` a standing trampoline, `M` male, `C` car,
   `B` ball, `I` ice ball, `H` gay tile, `1` to `9` a bomb showing that count.
 - Cells: `x` the column from the left edge, `y` the row from the bottom edge, both counted from 0 at the grid's edge.
   With the walls on the edges, `x` is the chessboard file (A = 1) and `y` the rank: `3 6` is C6.
