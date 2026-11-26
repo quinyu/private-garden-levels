@@ -1,5 +1,5 @@
 # level pg3-001, board c255e9b71ce116a2
-# By letters (notes/pg3/pg3-001/README.md, assemble.py), each solved alone and played by the user: T1 2, E1 6, T2 3, R 6, A 5, T3 4, E2 4, C 5, H 12; 47 moves in all, each letter shortest. Python only (the board is over the C program's 256 cells, and it has bombs)
+# By letters (notes/pg3/pg3-001/README.md, assemble.py), each solved alone and played by the user: T1 2, E1 6, T2 3, R 6, A 5, T3 4, E2 4, C 5, H 12; 47 moves in all, each letter shortest. C plays it with garden-big (384 cells, over the normal build's 256), Python too; regrouped by the big build's --tidy (the H's Kurumi down into T3 before the bomb's last two moves, the same position after them: the moving piece changes 26 times, not 28)
 G 2 11 U
 M 2 9 U
 N 7 11 L
@@ -42,8 +42,8 @@ K 20 4 D
 K 18 2 U
 K 18 4 R
 K 19 4 R
+K 20 4 D
 3 18 6 D
 2 18 4 R
-K 20 4 D
 1 19 4 R
 M 20 6 D
