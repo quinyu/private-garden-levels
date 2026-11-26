@@ -1,0 +1,11 @@
+# level pg3-010, board 4de4e418ebe590f7
+# 9 moves, proven shortest by the default search's rounds (1,528,163 positions; all seven searches 9, each proven, two move sets; --relax and GARDEN_WAY don't apply); checked rules only; the hint's 2x2 and vertical 2, without the bomb (its last line): a Biwa square B5-C6 made against the top wall, an upright pair B3-B4 under it, the boy E4 glides left into C4 touching both
+G 2 6 D
+G 10 6 L
+G 9 2 L
+G 1 2 R
+G 3 2 U
+G 2 1 U
+G 4 2 L
+G 2 2 U
+M 5 4 L
