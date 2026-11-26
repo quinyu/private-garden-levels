@@ -1,0 +1,11 @@
+# level pg3-006, board 9123bbc8b323b99f
+# 9 moves, proven shortest by A* within the default search (8,407 positions; all seven searches 9, each proven, two move sets; --relax and GARDEN_WAY don't apply); checked rules only (the red GO boxes are trampolines: test 1 in the game); exactly the hint: the boys lined up on rank 6 (J6, K6), the last one down on the red box I6, stopped by them, then off it into the pit H6 beside the square
+M 7 12 L
+M 1 12 D
+M 1 7 R
+M 11 7 D
+M 1 6 R
+M 12 7 L
+M 1 7 D
+M 1 6 R
+M 9 6 L

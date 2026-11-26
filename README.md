@@ -20,7 +20,8 @@ Sections, each under its own heading line, rows written from the top of the boar
 
 - `ground`: one character a cell. `#` wall, a space outside the board, `.` floor, `_` ice, `O` pit, `1` `2` `3`
   damaged floor (`3` the last stage, rubble), `4` `5` `6` damaged ice (`6` the last stage), `@` a warp (two in a
-  level, sending a piece to each other), `^` a trampoline (Private Garden 3, pg3-002: standing in a pit; a single
+  level, sending a piece to each other), `^` a trampoline (Private Garden 3, pg3-002: standing in a pit, or a
+  red-striped raised "GO" box that never moves, pg3-006; a single
   moving onto it is thrown 5 cells on, over anything, and comes down on the fifth, whatever it is, a wall or a
   standing piece cutting it short; a pair steps onto it as onto floor), `?` ground hidden under a piece that never moves.
 - `pieces`: each piece its own letter on every cell it covers, `.` elsewhere. A piece wholly over pits is down in
