@@ -1,0 +1,10 @@
+# level pg3-003, board f55f3df04a9ce757
+# 8 moves, proven shortest by A* within the default search (2,318,591 positions; all nine searches 8, each proven, the same moves in two orders: the Mikans' side first or the Momos'); checked rules only; exactly the hint: each car dropped into the pit beyond its corner (C10, J2), the left Mikan up and the right Momo down onto it, the other girl of each colour gliding over the shattered ice into a pair with her, each pair gliding along the ring into a boy
+C 3 9 U
+F 3 5 U
+F 8 9 L
+F 3 10 R
+C 10 3 D
+J 10 7 D
+J 5 3 R
+J 10 3 L
