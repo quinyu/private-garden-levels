@@ -1,0 +1,9 @@
+# level pg3-005, board fc6f3f143b4831b0
+# 7 moves, proven shortest by A* within the default search (1,303 positions; all seven searches the same moves, each proven; --relax and GARDEN_WAY don't apply); checked rules only; the hint's opening, both top Momos down
+J 7 6 D
+J 11 4 D
+J 11 3 L
+J 5 6 D
+J 1 4 D
+J 1 3 R
+M 6 1 U
