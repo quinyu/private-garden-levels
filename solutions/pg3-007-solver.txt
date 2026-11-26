@@ -1,0 +1,19 @@
+# level pg3-007, board a77113f88e7d2587
+# 17 moves by the default search (eight more searches the same moves; --plan nothing), not proven (--refine and a 40-million --improve round nothing shorter; the estimate is 1 or 0 while bombs are on the board); checked rules only (a bomb into a pit explodes, whatever its count: the user's words); the user's plan: a bomb blows the hole beside each sunk boy (P3, then G3), the standing girl drops in and makes a square with her sunk single and pair; the hint's glide: the left bomb L2 over the ice K2 to J2 in one move, so its fifth lands on G3
+5 13 3 R
+5 12 4 D
+4 12 3 R
+3 13 3 R
+4 15 3 D
+2 14 3 R
+1 15 3 R
+N 17 3 L
+5 10 2 D
+5 9 3 U
+5 12 2 L
+4 10 2 U
+3 10 3 L
+2 9 3 L
+1 8 3 L
++ 5 3 R
++ 6 3 R
