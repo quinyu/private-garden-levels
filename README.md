@@ -29,7 +29,7 @@ Sections, each under its own heading line, rows written from the top of the boar
 - `fallen` (pg2-114, pg3-001): a second grid like `pieces`, for a piece lying in a pit under another.
 - `legend`: piece letters to kinds: `girl1` to `girl8` (one a colour), `male`, `car`, `ball`, `iceball`, `gay`
   (a gay tile), `trampoline` (Private Garden 3, pg3-004: a standing trampoline, a box that moves as a car and is a
-  trampoline once moved into a pit), `bomb1` to `bomb9` (Private Garden 3: a bomb showing that count; it counts down with each of its
+  trampoline once moved into a pit), `bomb1` to `bomb35` (Private Garden 3: a bomb showing that count, written in moves files by the count, 1 to 9, then `a` to `z` for 10 to 35; it counts down with each of its
   own moves, and showing 1 it goes one cell, on ice or not, and explodes there, leaving a pit; into a pit, whatever its
   count, it explodes at once, the pit staying a pit).
 
