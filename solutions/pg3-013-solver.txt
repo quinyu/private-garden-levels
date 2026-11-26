@@ -1,0 +1,27 @@
+# level pg3-013, board 57a81b8d64be6572
+# 25 moves by the default search (six searches 25, three move sets; --plan nothing), not proven (--refine and a 40-million --improve round nothing shorter); the lesbian tiles' rules from the user's tests in the game (notes/pg3/pg3-013/); move 23 (a pair merging with a frozen pair, a frozen square) not yet seen; exactly the hint: the ice ball N9 fills H8 (the top Biwa's way down), the ice ball N5 the stopper on H3; Biwas glide into the lesbian tiles D6 and D3 and freeze, a frozen square D4-E5 made there, the boy along rank 5 onto F5 clears it
+G 1 5 R
+G 2 5 R
+G 14 4 L
+G 13 4 L
+G 12 4 L
+I 14 9 L
+G 14 10 L
+G 13 10 L
+G 12 10 L
+G 11 10 L
+G 10 10 L
+G 9 10 D
+I 7 9 R
+I 8 9 D
+G 9 9 L
+G 8 9 D
+G 8 3 L
+I 14 5 D
+I 14 3 L
+G 7 3 U
+G 7 9 R
+G 8 9 D
+G 8 5 L
+M 11 2 U
+M 11 5 L

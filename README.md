@@ -27,7 +27,7 @@ Sections, each under its own heading line, rows written from the top of the boar
 - `pieces`: each piece its own letter on every cell it covers, `.` elsewhere. A piece wholly over pits is down in
   them (fallen); one with any block on ground is held up by it.
 - `fallen` (pg2-114, pg3-001): a second grid like `pieces`, for a piece lying in a pit under another.
-- `legend`: piece letters to kinds: `girl1` to `girl8` (one a colour), `male`, `car`, `ball`, `iceball`, `gay`
+- `legend`: piece letters to kinds: `girl1` to `girl8` (one a colour), `male`, `car`, `ball`, `iceball`, `gay`, `lesbian` (a lesbian tile; `frozen-lesbian` one frozen)
   (a gay tile), `trampoline` (Private Garden 3, pg3-004: a standing trampoline, a box that moves as a car and is a
   trampoline once moved into a pit), `bomb1` to `bomb35` (Private Garden 3: a bomb showing that count, written in moves files by the count, 1 to 9, then `a` to `z` for 10 to 35; it counts down with each of its
   own moves, and showing 1 it goes one cell, on ice or not, and explodes there, leaving a pit; into a pit, whatever its
