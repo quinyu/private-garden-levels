@@ -1,0 +1,24 @@
+ground
+  ##########  
+###OOOOOOOO###
+#OOO..OO..OOO#
+#O....OO....O#
+#O....OO....O#
+#OOO..OO..OOO#
+###OOOOOOOO###
+  ##########  
+
+pieces
+..............
+..............
+....m.l..a....
+.......n...b..
+..c...o.......
+.......p.d....
+......q.......
+..............
+
+legend
+m  male
+a b c d  girl2
+l n o p q  lesbian
