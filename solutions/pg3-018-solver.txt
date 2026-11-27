@@ -1,0 +1,16 @@
+# level pg3-018, board f23e410857aaac66
+# 14 moves, proven shortest (no estimate with a trampoline: a full breadth-first search, 10,385 positions; all eight searches the same moves); rests on two rules not yet seen at move 11: a lesbian tile thrown by a trampoline, and one coming down on a girl sunk in a pit (both freeze); exactly the hint: the box into the pit B4 (a trampoline), a Lemon thrown up onto the cracked ice B9 (crushed after) and on to B10, round by A10, A9 and over B9 (a pit now) to C9, back into the hole B9; the lesbian tile thrown onto her as the stopper; the boy thrown from B4, cut short by it into the pit B8 among the Biwa pair, the Kurumi pair and both Lemons
+~ 2 3 U
+S 3 2 U
+S 3 3 L
+S 2 3 U
+S 2 10 L
+S 1 10 D
+S 1 9 R
+S 3 9 L
+L 2 1 U
+L 2 2 U
+L 2 3 U
+M 1 2 U
+M 1 3 R
+M 2 3 U
