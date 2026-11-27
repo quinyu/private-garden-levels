@@ -1,0 +1,43 @@
+ground
+################
+#OOOOOOOOOOOOOO#
+#O___OOOOOOO___#
+#O___OOOOOOO___#
+#O___OOOOOOO___#
+#O___OOOOOOO___#
+#O_._O_OOO_O_._#
+#O._.O_OOO_O._.#
+#O_._O_O_O_O_._#
+#O___O_O_O_O___#
+#O___OOO_OOO___#
+#O___OOO_OOO___#
+#OO_6OOO_OOO___#
+#OOOOOOOOOOOOOO#
+#OOOOOOOOOOOOOO#
+################
+
+pieces
+................
+................
+..b.t.......a.c.
+................
+.....f.....w....
+.....g.....x....
+.....h.....y....
+.....i.....z.u..
+.....j.k.p.A....
+.......l.q......
+.......n.s......
+.......o.v......
+..m.r.......d.e.
+................
+................
+................
+
+legend
+b         bomb9
+t u       trampoline
+a c d e   girl6
+m         male
+r         car
+f g h i j k l n o p q s v w x y z A  lesbian
