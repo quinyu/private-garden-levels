@@ -1,0 +1,17 @@
+# level pg3-019, board daee326da13deed5
+# 15 moves, proven shortest (no estimate with a trampoline: a full breadth-first search, 62,054 positions; all nine searches the same moves; --relax doesn't apply); checked rules only; exactly the hint: the box into the pit E2 (a trampoline), the Mikans lying pairs that cross it as ground (a pair isn't thrown), the first glides along rank 2 onto J2-K2 (the rubble K2 breaks as it steps up) and on to K3-L3, the second glides on into K2-L2, its L2 block on the sunk boy: a Mikan square K2-L3 on him
+~ 5 3 D
+F 1 3 R
+F 2 3 D
+F 2 2 R
+F 3 2 R
+F 4 2 R
+F 5 2 R
+F 10 2 U
+F 10 3 R
+F 1 1 R
+F 2 1 U
+F 2 2 R
+F 3 2 R
+F 4 2 R
+F 5 2 R
