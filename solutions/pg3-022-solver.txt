@@ -1,0 +1,9 @@
+# level pg3-022, board cb329239319c7700
+# 7 moves, proven shortest by A* within the default search (997 positions; all seven searches the same moves); checked rules only; not the hint's route (the lower two never pair): each lower Biwa pairs with an upper one, N7 up under O13 (a lying pair N13-O13), C13 down onto D7 (a lying pair C7-D7); the boy I12 down onto the sunk lesbian tile I8 and right along rank 8 into the pit P8; the pair C7-D7 along rank 7 to O7-P7 against the wall Q7, held over P7 by O7; the pair N13-O13 down onto it at N8-O8 and one right onto the boy in P8: a square O7-P8 as it lands, all gone
+G 14 7 U
+M 9 12 D
+M 9 8 R
+G 3 13 D
+G 3 7 R
+G 14 13 D
+G 14 8 R
