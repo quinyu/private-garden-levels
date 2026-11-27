@@ -1,0 +1,10 @@
+# level pg3-032, board 3c3c8314dc01a7df
+# 8 moves, proven shortest (with trampolines no estimate: a full breadth-first search, 71,215 positions, under a second); all eight searches the same moves; checked rules only; the hint's moves in another order: the top-left Momo down, thrown by the jump pad B10 and cut short onto B6 by the Momo B5 (an upright pair B5-B6), the pair right twice onto the sunk tile D5 (frozen); the top-right Momo thrown by H10 onto H6, left against the frozen pair (frozen); the bottom Momo up onto the sunk tile E5 (a frozen square D5-E6; the hint's first move, sixth here); the Karin left, thrown by G5 and cut short onto the sunk tile F5 by the square (frozen); the boy down onto F6 between them
+J 2 11 D
+J 2 6 R
+J 3 6 R
+J 8 11 D
+J 8 6 L
+J 5 2 U
+N 8 5 L
+M 6 8 D
