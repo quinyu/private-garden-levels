@@ -1,0 +1,19 @@
+# level pg3-014, board aee0019055ad947f
+# an alternative to pg3-014-solver.txt, as short (17): the default search's route, the hint's beginner way (a frozen pair on the sunk tile F3, a frozen Biwa on G4's, the last Biwa dropped into F4 beside them, frozen there by the sunk tiles beside her in the pit, the boy from F5's tile down onto her); played by the user, as written (the Biwa in F4 tinted after move 16, as the engine has it)
+G 11 4 D
+G 11 3 L
+G 9 2 U
+G 9 3 L
+G 8 3 L
+G 7 3 L
+G 9 5 D
+G 9 4 L
+G 8 4 L
+M 4 5 R
+M 5 5 R
+G 2 3 U
+G 2 4 R
+G 3 4 R
+G 4 4 R
+G 5 4 R
+M 6 5 D
