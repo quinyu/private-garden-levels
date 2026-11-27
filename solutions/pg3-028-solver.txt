@@ -1,0 +1,26 @@
+# level pg3-028, board 5d7814a911e05476
+# 24 moves by --relocate (--carry --relocate in both modes and GARDEN_WAY=1 with the default search and --relocate the same moves; the default search, --carry, the dynamic --carry and --plan nothing), not proven (--refine, a 40-million --improve round and A* 30 million nothing shorter; the estimate is 1 or 0 with bombs and a trampoline); checked rules only; the hint in part: bomb 6 over the checker and the sunk gay tile E8, up onto the sunk Saya E11, blows D11 beside the Sayas, the Saya J12 over E12 and E11 into it (a fallen square D11-E12); but bomb 3, not bomb 4, blows a hole (D6, not D5): the box into it, the boy along rank 5 to D5 and thrown up column D onto the square at D11
+6 10 8 L
+5 9 8 L
+4 7 8 L
+3 5 8 U
+2 5 10 U
+1 5 11 L
+T 10 12 L
+T 5 12 D
+T 5 11 L
+3 5 4 U
+2 5 5 U
+1 5 6 L
+~ 3 3 U
+~ 3 4 U
+~ 3 5 U
+~ 3 6 R
+M 10 4 U
+M 10 5 L
+M 9 5 L
+M 8 5 L
+M 7 5 L
+M 6 5 L
+M 5 5 L
+M 4 5 U
