@@ -1,0 +1,14 @@
+# level pg3-025, board f1a38011b91854a9
+# 12 moves, proven shortest (with trampolines no estimate: a full breadth-first search, 62,410 positions; all nine searches the same moves); checked rules only; the hint's route but for the topmost Karin: the lower two left onto the floor C3 and the rubble D2, the leftmost up the shattered column to the floor C12, the topmost left onto the rubble D13 and down beside her (a lying pair C12-D12; straight down she would fall into the pit F10), I12 left and down column E beside D2 (a lying pair D2-E2); the top pair down twice, stopped by the trampoline D10, then onto the sunk lesbian tile D8 (frozen); the bottom pair up, stopped by the trampoline D5, one left and up onto the sunk boy D7 under the frozen pair: a square C7-D8 as it lands, all gone
+N 6 3 L
+N 3 3 U
+N 6 13 L
+N 4 13 D
+N 9 2 L
+N 9 12 L
+N 5 12 D
+N 3 12 D
+N 3 10 D
+N 4 2 U
+N 4 5 L
+N 3 5 U
