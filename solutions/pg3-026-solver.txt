@@ -1,0 +1,23 @@
+# level pg3-026, board 7c61bd126de36ffe
+# 21 moves, proven shortest by A* within the default search (6,599,214 positions; nine searches 21, each proven, two orders of the same moves; --plan nothing); checked rules only; the hint in part: the 3D clear in the hole, the girls taken round the ring one after the other, but upright pairs, not horizontal twos: the Sayas a pair D3-D4 parked high on C10-C11 while the Natsumis come round, back down and up column D, dropped into the hole E7-E8; the Natsumis an upright pair D8-D9 beside it; the car into the pit F8, the boy down over it and left onto the fallen Saya pair, touching the Natsumi pair
++ 4 12 L
+T 9 12 L
+T 4 12 D
+T 4 4 L
+T 3 4 U
++ 9 3 L
++ 3 3 U
++ 3 9 R
+T 3 11 D
++ 3 12 R
++ 10 12 D
++ 10 3 L
++ 4 3 D
+T 3 4 R
+T 4 4 U
+T 4 8 R
++ 4 2 U
+C 6 9 D
+M 6 10 D
+M 6 9 D
+M 6 8 L
