@@ -1,0 +1,35 @@
+ground
+#####
+#___#
+#.6.#
+#OOO#
+#OOO#
+##_##
+##O##
+##O##
+#...#
+#...#
+#...#
+#####
+
+pieces
+.....
+.....
+.....
+.a.k.
+.alk.
+.....
+.....
+.....
+..t..
+.m.e.
+..z..
+.....
+
+legend
+m  male
+a  girl2
+k  girl3
+l e  girl6
+z  lesbian
+t  trampoline
