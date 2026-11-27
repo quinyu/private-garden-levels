@@ -1,0 +1,14 @@
+# level pg3-024, board 649ad00706ebfa38
+# 12 moves, proven shortest by A* within the default search (218,139 positions; all nine searches the same moves); checked rules only; the hint in part: the girls lying pairs, made on the floor strip (D13-E13) and at the foot of the ice (C4-D4), the first dropped into F4-G4 over the buried gay tile G3, the second walked over it and up into F5-G5 (a fallen square F4-G5 above G3); but the left gay tile no stopper: it glides along rank 3 onto the buried one, both gone, and the boy J3 glides left into the emptied pit G3 under the square
+K 4 13 R
+K 4 10 U
+K 4 13 R
+K 4 7 U
+K 4 13 L
+K 3 13 D
+K 3 4 R
+K 5 13 D
+K 5 4 R
+K 6 4 U
+H 2 3 R
+M 10 3 L
