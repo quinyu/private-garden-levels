@@ -1,0 +1,19 @@
+# level pg3-014, board aee0019055ad947f
+# 17 moves, proven shortest by --carry's rounds (1,483,085 positions; all six other searches 17, each proven: five the same moves in four orders, the default search's another route, the girl dropped into F4 and the boy down onto her; --plan nothing; --relax and GARDEN_WAY don't apply); checked rules only (a girl onto a sunk lesbian tile, both frozen; the boy onto one, nothing: the user's tests on this level); the hint's advanced way: the boy dropped into the pit F4, a frozen Biwa pair F3-G3 on the sunk tile F3, a frozen Biwa on the sunk tile G4, the last Biwa onto the boy makes a frozen square F3-G4 on top of him
+M 4 5 D
+M 4 4 R
+M 5 4 R
+G 11 4 D
+G 11 3 L
+G 9 2 U
+G 9 3 L
+G 8 3 L
+G 7 3 L
+G 9 5 D
+G 9 4 L
+G 8 4 L
+G 2 3 U
+G 2 4 R
+G 3 4 R
+G 4 4 R
+G 5 4 R
