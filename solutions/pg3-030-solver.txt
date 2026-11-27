@@ -1,0 +1,21 @@
+# level pg3-030, board 6c480b83443e4933
+# 19 moves, proven shortest by the default search's rounds (793,270 positions, 13 s); every search but --plan 19, each proven (two orders of the same moves); --plan nothing built (stopped after 231 s); checked rules only; exactly the hint: the sides first (each Momo pair, then each Lemon pair, dropped into the pits by a boy's corner, the other pair of the colour slid across and onto it into a square on the boy), then top and bottom: both Sayas up, the left one right to F11-G11, the right Saya and both Natsumis down, the left Natsumi dropped by ← into C1-D1, the right one dropped by ← onto C2-D2 and cleared with the boy C3; the Sayas the same way at the top with the boy J10
+J 1 9 U
+J 12 9 L
+J 1 9 U
+J 1 10 R
+T 8 1 U
+T 4 1 U
+T 4 11 R
++ 4 12 D
++ 4 1 L
+T 8 11 D
++ 8 12 D
++ 8 2 L
+T 8 1 U
+T 8 12 R
+T 6 11 R
+S 12 5 D
+S 1 5 R
+S 12 5 D
+S 12 4 L
