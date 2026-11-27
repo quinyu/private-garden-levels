@@ -1,0 +1,8 @@
+# level pg3-023, board 215d06ac03cc918b
+# 6 moves, proven shortest by A* within the default search (735 positions; all seven searches the same moves); checked rules only; exactly the hint: the upper two an upright pair first (D11 along rank 11 onto I12's foot: I11-I12), down column I over the E's arms to I5-I6 against I4, along ranks 5-6 to E5-E6 against the bottom-left Kurumi D5, which never moves; I4 along rank 4 under it into D4 (an upright pair D4-D5), the pair E5-E6 one down: a square D4-E5 where D5 stood; the boy E8 down column E onto E6 above it
+K 4 11 R
+K 9 12 D
+K 9 6 L
+K 9 4 L
+K 5 6 D
+M 5 8 D
