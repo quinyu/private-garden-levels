@@ -1,0 +1,15 @@
+# level pg3-016, board a4c15dd0ee5d76d2
+# 13 moves, proven shortest by A* within the default search (69,310 positions; all eight searches 13, each proven: seven the same moves, --relax's another route, this one); checked rules only (the other 13 rests on a girl beside a frozen girl of another colour, not yet seen: a Karin onto the frozen Kurumi pair); exactly the hint: the Momos a lying pair F1-G1 up to F4-G4, the stopper for the Kurumi F7 on F5, the Kurumis a pair E5-F5 dropped into E4-F4; the Momo pair on G4-H4 the stopper for the Karin K4 on I4, then dropped up into G5-H5; the Karins an upright pair I4-I5 over the Momos and down into H3-H4, frozen beside the sunk lesbian tile H2; the boy B1 along rank 1 and up into the pit G4 between the three pairs
+J 7 3 D
+J 6 1 U
+K 6 7 D
+J 6 4 R
+K 4 5 R
+K 5 5 D
+N 11 4 L
+J 7 4 U
+N 9 7 D
+N 9 5 L
+N 8 5 D
+M 2 1 R
+M 7 1 U
