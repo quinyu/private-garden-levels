@@ -1,0 +1,12 @@
+# level pg3-036, board da40756f6d6b7890
+# 10 moves, proven shortest by A* (3,389,604 positions, 28 s); seven searches 10, each proven (six the same moves, --relax the same with two moves swapped; the males' way doesn't apply; --plan stopped after 2 minutes, nothing built); checked rules only; the hint in part: the girls moved down, one Saya dropped on her own into the crater B5, the boys gliding along the shattered strips of ranks 3 and 5 (breaking them): the Kurumis an upright pair A1-A2 moved to B1-B2, the Lemons an upright pair B4-B5, the boy R3 along rank 3 onto B3 among them and the Saya A3; the other Saya into the crater B5, the Biwas an upright pair A4-A5, the boy R5 along rank 5 onto the fallen Saya at B5 beside them
+K 2 4 D
+K 2 2 L
+S 2 1 U
+S 2 7 D
+K 1 2 R
+M 18 3 L
+T 1 6 D
+T 1 5 R
+G 1 7 D
+M 18 5 L
