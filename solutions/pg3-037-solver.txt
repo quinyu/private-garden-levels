@@ -1,5 +1,5 @@
 # level pg3-037, board 794e373881eabffc
-# 92 moves by --refine from a hand route of 93 on the hint (balls into I11 and J10, the boy O6 the stopper on I11, bridges in J9 and J8: column J a road from the top ring to the island), not proven; the searches from the start 137 at best (the dynamic --carry --relocate; --relocate 164; seven nothing); checked rules only; the refine's change: a boy bridges J10 and the second ball J9, so the boy from O6 is free to clear the Kurumi himself; played by the user, as written
+# 89 moves by --refine (45 minutes) from the 92 (pg3-037-played.txt, played), itself --refine's from a hand route of 93 on the hint; not proven (40-million --improve rounds from the 92 and the 89 nothing shorter); the searches from the start 137 at best (the dynamic --carry --relocate; --relocate 164; seven nothing; --relax stopped at 15 minutes); checked rules only; the road down column I: a ball into I11 and the boy O6 on it the other ball's stopper on J11, that ball into J10 and the boy A8 standing on it so the boys gliding along rank 10 stop on I10; the boys O6 and A7 bridges in I9 and I8; the hint's order: the Kurumi I6 and the Momo F6 first, then a boy into each hole, the boy A8 last
 B 15 7 U
 B 15 11 L
 M 15 6 U
@@ -13,6 +13,9 @@ M 13 11 L
 M 12 11 L
 M 11 11 L
 M 10 11 L
+B 15 5 U
+B 15 11 L
+B 10 11 D
 M 1 8 R
 M 2 8 U
 M 2 9 R
@@ -21,9 +24,7 @@ M 3 10 R
 M 4 10 R
 M 5 10 R
 M 7 10 R
-B 15 5 U
-B 15 11 L
-B 10 11 D
+M 9 11 D
 M 1 7 U
 M 1 8 R
 M 2 8 U
@@ -33,15 +34,8 @@ M 3 10 R
 M 4 10 R
 M 5 10 R
 M 7 10 R
-M 10 10 D
-M 10 9 D
-M 9 11 R
-M 10 11 D
-M 10 10 D
-M 10 9 D
-M 10 8 D
-M 10 7 L
-M 9 7 D
+M 9 10 D
+M 9 9 D
 M 1 6 U
 M 1 7 U
 M 1 8 R
@@ -52,10 +46,9 @@ M 3 10 R
 M 4 10 R
 M 5 10 R
 M 7 10 R
-M 10 10 D
-M 10 9 D
-M 10 8 D
-M 10 7 L
+M 9 10 D
+M 9 9 D
+M 9 8 D
 M 9 7 D
 M 1 5 U
 M 1 6 U
@@ -68,10 +61,9 @@ M 3 10 R
 M 4 10 R
 M 5 10 R
 M 7 10 R
-M 10 10 D
-M 10 9 D
-M 10 8 D
-M 10 7 L
+M 9 10 D
+M 9 9 D
+M 9 8 D
 M 9 7 L
 M 6 7 D
 M 1 4 U
@@ -86,9 +78,14 @@ M 3 10 R
 M 4 10 R
 M 5 10 R
 M 7 10 R
-M 10 10 D
-M 10 9 D
-M 10 8 D
-M 10 7 L
+M 9 10 D
+M 9 9 D
+M 9 8 D
 M 9 7 L
 M 6 7 D
+M 10 10 U
+M 10 11 L
+M 9 11 D
+M 9 9 D
+M 9 8 D
+M 9 7 D
