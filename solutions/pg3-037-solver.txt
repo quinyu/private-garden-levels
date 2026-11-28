@@ -1,5 +1,5 @@
 # level pg3-037, board 794e373881eabffc
-# 92 moves by --refine from a hand route of 93 on the hint (balls into I11 and J10, the boy O6 the stopper on I11, bridges in J9 and J8: column J a road from the top ring to the island), not proven; the searches from the start 137 at best (the dynamic --carry --relocate; --relocate 164; seven nothing); checked rules only; the refine's change: a boy bridges J10 and the second ball J9, so the boy from O6 is free to clear the Kurumi himself
+# 92 moves by --refine from a hand route of 93 on the hint (balls into I11 and J10, the boy O6 the stopper on I11, bridges in J9 and J8: column J a road from the top ring to the island), not proven; the searches from the start 137 at best (the dynamic --carry --relocate; --relocate 164; seven nothing); checked rules only; the refine's change: a boy bridges J10 and the second ball J9, so the boy from O6 is free to clear the Kurumi himself; played by the user, as written
 B 15 7 U
 B 15 11 L
 M 15 6 U
