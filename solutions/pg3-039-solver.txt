@@ -1,0 +1,18 @@
+# level pg3-039, board d173a1b3e568c7ad
+# 16 moves, proven shortest by A* within the default search (5,139 positions, under a second; all nine searches the same moves); checked rules only; the hint in part: one ice ball dropped into the inner hole (H5) does it, but the boy moves last: the two balls go round the outer ring by turns, each stopping on rank 2 against the other one cell further left each time (J2, I2, H2), the B11 ball up column H into the pit H5 (ice now), the K2 ball down from I2 to I1 as the boy's stopper; the boy D3 down to D1, right to H1, up over H5 into the pit H6 beside the Saya square
+I 2 11 D
+I 2 2 R
+I 11 2 U
+I 11 11 L
+I 2 11 D
+I 2 2 R
+I 10 2 R
+I 11 2 U
+I 11 11 L
+I 2 11 D
+I 2 2 R
+I 8 2 U
+I 9 2 D
+M 4 3 D
+M 4 1 R
+M 8 1 U
