@@ -1,0 +1,15 @@
+# level pg3-035, board 4a92ef62c146c92c
+# 13 moves, proven shortest (a full breadth-first search with the trampolines, 40,283 positions; all nine searches the same moves); moves 6 and 11 throw the police car by a trampoline, a rule no play had shown: the user's test showed it as the engine has it (unmarked since); not the hint's route: the left box dropped into A3 as a jump pad, the car thrown up from it, cut short by the boy on A7 onto A6, round to B7; the aniki dropped into C5 out of the way; the right box into D7 (a jump pad), the car thrown from it into the pit I7, the boy thrown after it onto the car, down over the shattered I6 onto I5 beside the Mikan square
+~ 1 7 D
+M 2 7 L
+C 9 4 D
+C 9 3 D
+C 9 2 L
+C 1 2 U
+C 1 6 R
+C 2 6 U
+H 3 6 D
+~ 3 7 R
+C 2 7 R
+M 1 7 R
+M 9 7 D
