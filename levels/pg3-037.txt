@@ -1,0 +1,39 @@
+ground
+##################
+#OOOOOOOOO......O#
+#OO..._.__OOO...O#
+#O..OOOOOOOOO...O#
+#..OOOOOOOOOOOO.O#
+#.OOO_.__...OOO.O#
+#.OO.OOOOOO.OOO.O#
+#.OOO_.__...OOO.O#
+#..OOOOOOOOOOOO.O#
+#O..OOOOOOOOO...O#
+#OO..._.__OOO...O#
+#OOOOOOOOO......O#
+##################
+
+pieces
+..................
+..................
+..................
+..................
+.a................
+.b.............p..
+.c...ghijkl....q..
+.d.............r..
+.e................
+..................
+..................
+..................
+..................
+
+legend
+a b c d e q  male
+p r          ball
+g            girl8
+h            girl4
+i            girl1
+j            girl5
+k            girl3
+l            girl2
