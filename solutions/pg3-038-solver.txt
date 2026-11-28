@@ -1,0 +1,7 @@
+# level pg3-038, board 391f3159fb76ee6c
+# 5 moves, proven shortest by A* within the default search (93,692 positions, 4 s; all seven searches the same moves; 320 cells, so garden-big); checked rules only; the hint's point: the first ball, J12 down to the boy on J5, makes the stopper: the ice ball Q11 left to J11 (stopped by I11), the J6 ball back up against it onto J10, the boy up to J9 under it and left along rank 9 to B9, above the Lemon square's B8
+I 10 12 D
+I 17 11 L
+I 10 6 U
+M 10 5 U
+M 10 9 L
