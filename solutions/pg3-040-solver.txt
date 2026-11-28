@@ -1,0 +1,15 @@
+# level pg3-040, board 4b37a698887420f1
+# 13 moves by the default search --from the hint's five opening moves (both lower boys up, the merman down, the lower-left boy right, the upper-right boy left), tidied and regrouped; every search from the start 13 too (seven searches, two other move sets; --plan nothing); not proven (--refine, a 40-million --improve round and A* 30 million nothing shorter); checked rules only; the girls never move: each boy glides out along an arm's lane and clears both pairs at its end, the merman (a car) down to G1 out of the lanes, then back up to G6 and left to E6 as the stopper: the last boy left from F8 to E8 and down onto E7 against it, then out along rank 7
+M 8 6 U
+C 7 7 D
+M 6 6 U
+M 6 7 R
+M 8 8 L
+M 7 8 U
+M 8 7 R
+C 7 1 U
+C 7 6 L
+M 6 8 L
+M 5 8 D
+M 5 7 L
+M 7 7 D
